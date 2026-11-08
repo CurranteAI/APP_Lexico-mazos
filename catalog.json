@@ -9,7 +9,8 @@
    "name": "Alemán · Primeros pasos",
    "description": "Vocabulario básico: números, colores, verbos y palabras de uso diario.",
    "file": "decks/a1.json",
-   "words": 168
+   "words": 168,
+   "version": 1
   },
   {
    "kind": "deck",
@@ -17,7 +18,8 @@
    "name": "Alemán · 100 sustantivos",
    "description": "100 sustantivos básicos repartidos en diez temas.",
    "file": "decks/nouns-a1-100.json",
-   "words": 100
+   "words": 100,
+   "version": 1
   },
   {
    "kind": "deck",
@@ -25,7 +27,8 @@
    "name": "Alemán · 100 frases fáciles",
    "description": "100 frases fáciles en dos niveles de dificultad.",
    "file": "decks/phrases-a1-100.json",
-   "words": 100
+   "words": 100,
+   "version": 1
   },
   {
    "kind": "theory",
@@ -33,7 +36,8 @@
    "name": "Gramática alemana",
    "description": "Interrogativos, artículos, verbos y otras reglas con ejemplos.",
    "file": "teoria/gramatica.json",
-   "sections": 13
+   "sections": 13,
+   "version": 1
   }
  ]
 }
