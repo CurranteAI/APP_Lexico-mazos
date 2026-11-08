@@ -1,0 +1,39 @@
+{
+ "format": "lexico-catalogo",
+ "version": 1,
+ "updated": "2026-11-08",
+ "items": [
+  {
+   "kind": "deck",
+   "id": "a1",
+   "name": "Alemán · Primeros pasos",
+   "description": "Vocabulario básico: números, colores, verbos y palabras de uso diario.",
+   "file": "decks/a1.json",
+   "words": 168
+  },
+  {
+   "kind": "deck",
+   "id": "nouns-a1-100",
+   "name": "Alemán · 100 sustantivos",
+   "description": "100 sustantivos básicos repartidos en diez temas.",
+   "file": "decks/nouns-a1-100.json",
+   "words": 100
+  },
+  {
+   "kind": "deck",
+   "id": "phrases-a1-100",
+   "name": "Alemán · 100 frases fáciles",
+   "description": "100 frases fáciles en dos niveles de dificultad.",
+   "file": "decks/phrases-a1-100.json",
+   "words": 100
+  },
+  {
+   "kind": "theory",
+   "id": "gramatica",
+   "name": "Gramática alemana",
+   "description": "Interrogativos, artículos, verbos y otras reglas con ejemplos.",
+   "file": "teoria/gramatica.json",
+   "sections": 13
+  }
+ ]
+}

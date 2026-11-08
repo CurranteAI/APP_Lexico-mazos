@@ -1,0 +1,611 @@
+{
+ "format": "lexico-mazo",
+ "version": 1,
+ "deck": {
+  "id": "nouns-a1-100",
+  "name": "Alemán · 100 sustantivos",
+  "status": "active"
+ },
+ "words": [
+  {
+   "id": "noun-a1-01-01",
+   "family": "Familia",
+   "de": "die Familie",
+   "es": "familia"
+  },
+  {
+   "id": "noun-a1-01-02",
+   "family": "Familia",
+   "de": "die Mutter",
+   "es": "madre"
+  },
+  {
+   "id": "noun-a1-01-03",
+   "family": "Familia",
+   "de": "der Vater",
+   "es": "padre"
+  },
+  {
+   "id": "noun-a1-01-04",
+   "family": "Familia",
+   "de": "der Bruder",
+   "es": "hermano"
+  },
+  {
+   "id": "noun-a1-01-05",
+   "family": "Familia",
+   "de": "die Schwester",
+   "es": "hermana"
+  },
+  {
+   "id": "noun-a1-01-06",
+   "family": "Familia",
+   "de": "der Sohn",
+   "es": "hijo"
+  },
+  {
+   "id": "noun-a1-01-07",
+   "family": "Familia",
+   "de": "die Tochter",
+   "es": "hija"
+  },
+  {
+   "id": "noun-a1-01-08",
+   "family": "Familia",
+   "de": "die Großmutter",
+   "es": "abuela"
+  },
+  {
+   "id": "noun-a1-01-09",
+   "family": "Familia",
+   "de": "der Großvater",
+   "es": "abuelo"
+  },
+  {
+   "id": "noun-a1-01-10",
+   "family": "Familia",
+   "de": "das Kind",
+   "es": "niño/a"
+  },
+  {
+   "id": "noun-a1-02-01",
+   "family": "Casa y muebles",
+   "de": "das Haus",
+   "es": "casa"
+  },
+  {
+   "id": "noun-a1-02-02",
+   "family": "Casa y muebles",
+   "de": "die Wohnung",
+   "es": "vivienda / piso"
+  },
+  {
+   "id": "noun-a1-02-03",
+   "family": "Casa y muebles",
+   "de": "das Zimmer",
+   "es": "habitación"
+  },
+  {
+   "id": "noun-a1-02-04",
+   "family": "Casa y muebles",
+   "de": "die Küche",
+   "es": "cocina"
+  },
+  {
+   "id": "noun-a1-02-05",
+   "family": "Casa y muebles",
+   "de": "das Badezimmer",
+   "es": "cuarto de baño"
+  },
+  {
+   "id": "noun-a1-02-06",
+   "family": "Casa y muebles",
+   "de": "die Tür",
+   "es": "puerta"
+  },
+  {
+   "id": "noun-a1-02-07",
+   "family": "Casa y muebles",
+   "de": "das Fenster",
+   "es": "ventana"
+  },
+  {
+   "id": "noun-a1-02-08",
+   "family": "Casa y muebles",
+   "de": "der Tisch",
+   "es": "mesa"
+  },
+  {
+   "id": "noun-a1-02-09",
+   "family": "Casa y muebles",
+   "de": "der Stuhl",
+   "es": "silla"
+  },
+  {
+   "id": "noun-a1-02-10",
+   "family": "Casa y muebles",
+   "de": "das Bett",
+   "es": "cama"
+  },
+  {
+   "id": "noun-a1-03-01",
+   "family": "Alimentos",
+   "de": "das Brot",
+   "es": "pan"
+  },
+  {
+   "id": "noun-a1-03-02",
+   "family": "Alimentos",
+   "de": "der Reis",
+   "es": "arroz"
+  },
+  {
+   "id": "noun-a1-03-03",
+   "family": "Alimentos",
+   "de": "der Käse",
+   "es": "queso"
+  },
+  {
+   "id": "noun-a1-03-04",
+   "family": "Alimentos",
+   "de": "das Ei",
+   "es": "huevo"
+  },
+  {
+   "id": "noun-a1-03-05",
+   "family": "Alimentos",
+   "de": "der Apfel",
+   "es": "manzana"
+  },
+  {
+   "id": "noun-a1-03-06",
+   "family": "Alimentos",
+   "de": "die Banane",
+   "es": "plátano"
+  },
+  {
+   "id": "noun-a1-03-07",
+   "family": "Alimentos",
+   "de": "die Kartoffel",
+   "es": "patata"
+  },
+  {
+   "id": "noun-a1-03-08",
+   "family": "Alimentos",
+   "de": "die Tomate",
+   "es": "tomate"
+  },
+  {
+   "id": "noun-a1-03-09",
+   "family": "Alimentos",
+   "de": "der Fisch",
+   "es": "pescado / pez"
+  },
+  {
+   "id": "noun-a1-03-10",
+   "family": "Alimentos",
+   "de": "das Fleisch",
+   "es": "carne"
+  },
+  {
+   "id": "noun-a1-04-01",
+   "family": "Bebidas",
+   "de": "das Wasser",
+   "es": "agua"
+  },
+  {
+   "id": "noun-a1-04-02",
+   "family": "Bebidas",
+   "de": "die Milch",
+   "es": "leche"
+  },
+  {
+   "id": "noun-a1-04-03",
+   "family": "Bebidas",
+   "de": "der Kaffee",
+   "es": "café"
+  },
+  {
+   "id": "noun-a1-04-04",
+   "family": "Bebidas",
+   "de": "der Tee",
+   "es": "té"
+  },
+  {
+   "id": "noun-a1-04-05",
+   "family": "Bebidas",
+   "de": "der Saft",
+   "es": "zumo"
+  },
+  {
+   "id": "noun-a1-04-06",
+   "family": "Bebidas",
+   "de": "das Bier",
+   "es": "cerveza"
+  },
+  {
+   "id": "noun-a1-04-07",
+   "family": "Bebidas",
+   "de": "der Wein",
+   "es": "vino"
+  },
+  {
+   "id": "noun-a1-04-08",
+   "family": "Bebidas",
+   "de": "die Limonade",
+   "es": "refresco de frutas"
+  },
+  {
+   "id": "noun-a1-04-09",
+   "family": "Bebidas",
+   "de": "die Cola",
+   "es": "refresco de cola"
+  },
+  {
+   "id": "noun-a1-04-10",
+   "family": "Bebidas",
+   "de": "der Kakao",
+   "es": "cacao / bebida de cacao"
+  },
+  {
+   "id": "noun-a1-05-01",
+   "family": "Cuerpo humano",
+   "de": "der Kopf",
+   "es": "cabeza"
+  },
+  {
+   "id": "noun-a1-05-02",
+   "family": "Cuerpo humano",
+   "de": "das Gesicht",
+   "es": "cara"
+  },
+  {
+   "id": "noun-a1-05-03",
+   "family": "Cuerpo humano",
+   "de": "das Auge",
+   "es": "ojo"
+  },
+  {
+   "id": "noun-a1-05-04",
+   "family": "Cuerpo humano",
+   "de": "das Ohr",
+   "es": "oreja / oído"
+  },
+  {
+   "id": "noun-a1-05-05",
+   "family": "Cuerpo humano",
+   "de": "die Nase",
+   "es": "nariz"
+  },
+  {
+   "id": "noun-a1-05-06",
+   "family": "Cuerpo humano",
+   "de": "der Mund",
+   "es": "boca"
+  },
+  {
+   "id": "noun-a1-05-07",
+   "family": "Cuerpo humano",
+   "de": "der Arm",
+   "es": "brazo"
+  },
+  {
+   "id": "noun-a1-05-08",
+   "family": "Cuerpo humano",
+   "de": "die Hand",
+   "es": "mano"
+  },
+  {
+   "id": "noun-a1-05-09",
+   "family": "Cuerpo humano",
+   "de": "das Bein",
+   "es": "pierna"
+  },
+  {
+   "id": "noun-a1-05-10",
+   "family": "Cuerpo humano",
+   "de": "der Fuß",
+   "es": "pie"
+  },
+  {
+   "id": "noun-a1-06-01",
+   "family": "Ropa y accesorios",
+   "de": "das Hemd",
+   "es": "camisa"
+  },
+  {
+   "id": "noun-a1-06-02",
+   "family": "Ropa y accesorios",
+   "de": "das T-Shirt",
+   "es": "camiseta"
+  },
+  {
+   "id": "noun-a1-06-03",
+   "family": "Ropa y accesorios",
+   "de": "die Hose",
+   "es": "pantalón"
+  },
+  {
+   "id": "noun-a1-06-04",
+   "family": "Ropa y accesorios",
+   "de": "der Pullover",
+   "es": "jersey"
+  },
+  {
+   "id": "noun-a1-06-05",
+   "family": "Ropa y accesorios",
+   "de": "die Jacke",
+   "es": "chaqueta"
+  },
+  {
+   "id": "noun-a1-06-06",
+   "family": "Ropa y accesorios",
+   "de": "der Mantel",
+   "es": "abrigo"
+  },
+  {
+   "id": "noun-a1-06-07",
+   "family": "Ropa y accesorios",
+   "de": "das Kleid",
+   "es": "vestido"
+  },
+  {
+   "id": "noun-a1-06-08",
+   "family": "Ropa y accesorios",
+   "de": "der Rock",
+   "es": "falda"
+  },
+  {
+   "id": "noun-a1-06-09",
+   "family": "Ropa y accesorios",
+   "de": "der Schuh",
+   "es": "zapato"
+  },
+  {
+   "id": "noun-a1-06-10",
+   "family": "Ropa y accesorios",
+   "de": "die Socke",
+   "es": "calcetín"
+  },
+  {
+   "id": "noun-a1-07-01",
+   "family": "Ciudad y lugares",
+   "de": "die Stadt",
+   "es": "ciudad"
+  },
+  {
+   "id": "noun-a1-07-02",
+   "family": "Ciudad y lugares",
+   "de": "das Dorf",
+   "es": "pueblo"
+  },
+  {
+   "id": "noun-a1-07-03",
+   "family": "Ciudad y lugares",
+   "de": "die Straße",
+   "es": "calle"
+  },
+  {
+   "id": "noun-a1-07-04",
+   "family": "Ciudad y lugares",
+   "de": "der Platz",
+   "es": "plaza"
+  },
+  {
+   "id": "noun-a1-07-05",
+   "family": "Ciudad y lugares",
+   "de": "der Park",
+   "es": "parque"
+  },
+  {
+   "id": "noun-a1-07-06",
+   "family": "Ciudad y lugares",
+   "de": "der Supermarkt",
+   "es": "supermercado"
+  },
+  {
+   "id": "noun-a1-07-07",
+   "family": "Ciudad y lugares",
+   "de": "die Apotheke",
+   "es": "farmacia"
+  },
+  {
+   "id": "noun-a1-07-08",
+   "family": "Ciudad y lugares",
+   "de": "das Krankenhaus",
+   "es": "hospital"
+  },
+  {
+   "id": "noun-a1-07-09",
+   "family": "Ciudad y lugares",
+   "de": "die Bank",
+   "es": "banco"
+  },
+  {
+   "id": "noun-a1-07-10",
+   "family": "Ciudad y lugares",
+   "de": "das Restaurant",
+   "es": "restaurante"
+  },
+  {
+   "id": "noun-a1-08-01",
+   "family": "Transporte y viajes",
+   "de": "das Auto",
+   "es": "coche"
+  },
+  {
+   "id": "noun-a1-08-02",
+   "family": "Transporte y viajes",
+   "de": "der Bus",
+   "es": "autobús"
+  },
+  {
+   "id": "noun-a1-08-03",
+   "family": "Transporte y viajes",
+   "de": "der Zug",
+   "es": "tren"
+  },
+  {
+   "id": "noun-a1-08-04",
+   "family": "Transporte y viajes",
+   "de": "das Fahrrad",
+   "es": "bicicleta"
+  },
+  {
+   "id": "noun-a1-08-05",
+   "family": "Transporte y viajes",
+   "de": "das Motorrad",
+   "es": "motocicleta"
+  },
+  {
+   "id": "noun-a1-08-06",
+   "family": "Transporte y viajes",
+   "de": "das Flugzeug",
+   "es": "avión"
+  },
+  {
+   "id": "noun-a1-08-07",
+   "family": "Transporte y viajes",
+   "de": "das Schiff",
+   "es": "barco"
+  },
+  {
+   "id": "noun-a1-08-08",
+   "family": "Transporte y viajes",
+   "de": "der Bahnhof",
+   "es": "estación de tren"
+  },
+  {
+   "id": "noun-a1-08-09",
+   "family": "Transporte y viajes",
+   "de": "der Flughafen",
+   "es": "aeropuerto"
+  },
+  {
+   "id": "noun-a1-08-10",
+   "family": "Transporte y viajes",
+   "de": "die Fahrkarte",
+   "es": "billete de transporte"
+  },
+  {
+   "id": "noun-a1-09-01",
+   "family": "Tiempo y calendario",
+   "de": "der Tag",
+   "es": "día"
+  },
+  {
+   "id": "noun-a1-09-02",
+   "family": "Tiempo y calendario",
+   "de": "die Woche",
+   "es": "semana"
+  },
+  {
+   "id": "noun-a1-09-03",
+   "family": "Tiempo y calendario",
+   "de": "der Monat",
+   "es": "mes"
+  },
+  {
+   "id": "noun-a1-09-04",
+   "family": "Tiempo y calendario",
+   "de": "das Jahr",
+   "es": "año"
+  },
+  {
+   "id": "noun-a1-09-05",
+   "family": "Tiempo y calendario",
+   "de": "die Stunde",
+   "es": "hora"
+  },
+  {
+   "id": "noun-a1-09-06",
+   "family": "Tiempo y calendario",
+   "de": "die Minute",
+   "es": "minuto"
+  },
+  {
+   "id": "noun-a1-09-07",
+   "family": "Tiempo y calendario",
+   "de": "die Sekunde",
+   "es": "segundo"
+  },
+  {
+   "id": "noun-a1-09-08",
+   "family": "Tiempo y calendario",
+   "de": "der Morgen",
+   "es": "mañana (parte del día)"
+  },
+  {
+   "id": "noun-a1-09-09",
+   "family": "Tiempo y calendario",
+   "de": "der Abend",
+   "es": "tarde / noche (antes de acostarse)"
+  },
+  {
+   "id": "noun-a1-09-10",
+   "family": "Tiempo y calendario",
+   "de": "die Nacht",
+   "es": "noche"
+  },
+  {
+   "id": "noun-a1-10-01",
+   "family": "Estudios y material",
+   "de": "das Buch",
+   "es": "libro"
+  },
+  {
+   "id": "noun-a1-10-02",
+   "family": "Estudios y material",
+   "de": "das Heft",
+   "es": "cuaderno"
+  },
+  {
+   "id": "noun-a1-10-03",
+   "family": "Estudios y material",
+   "de": "der Stift",
+   "es": "lápiz / bolígrafo"
+  },
+  {
+   "id": "noun-a1-10-04",
+   "family": "Estudios y material",
+   "de": "das Papier",
+   "es": "papel"
+  },
+  {
+   "id": "noun-a1-10-05",
+   "family": "Estudios y material",
+   "de": "die Schule",
+   "es": "escuela"
+  },
+  {
+   "id": "noun-a1-10-06",
+   "family": "Estudios y material",
+   "de": "die Universität",
+   "es": "universidad"
+  },
+  {
+   "id": "noun-a1-10-07",
+   "family": "Estudios y material",
+   "de": "der Lehrer",
+   "es": "profesor"
+  },
+  {
+   "id": "noun-a1-10-08",
+   "family": "Estudios y material",
+   "de": "die Lehrerin",
+   "es": "profesora"
+  },
+  {
+   "id": "noun-a1-10-09",
+   "family": "Estudios y material",
+   "de": "die Prüfung",
+   "es": "examen"
+  },
+  {
+   "id": "noun-a1-10-10",
+   "family": "Estudios y material",
+   "de": "die Aufgabe",
+   "es": "tarea / ejercicio"
+  }
+ ]
+}

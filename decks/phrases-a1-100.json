@@ -1,0 +1,711 @@
+{
+ "format": "lexico-mazo",
+ "version": 1,
+ "deck": {
+  "id": "phrases-a1-100",
+  "name": "Alemán · 100 frases fáciles",
+  "status": "active"
+ },
+ "words": [
+  {
+   "id": "phrase-a1-1-01",
+   "family": "01 · Simples · 1–10",
+   "de": "Ich trinke morgens Wasser.",
+   "es": "Bebo agua por las mañanas.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-02",
+   "family": "01 · Simples · 1–10",
+   "de": "Du lernst jeden Tag Deutsch.",
+   "es": "Aprendes alemán todos los días.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-03",
+   "family": "01 · Simples · 1–10",
+   "de": "Meine Schwester wohnt hier.",
+   "es": "Mi hermana vive aquí.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-04",
+   "family": "01 · Simples · 1–10",
+   "de": "Mein Bruder arbeitet heute.",
+   "es": "Mi hermano trabaja hoy.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-05",
+   "family": "01 · Simples · 1–10",
+   "de": "Wir essen zusammen.",
+   "es": "Comemos juntos.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-06",
+   "family": "01 · Simples · 1–10",
+   "de": "Ihr spielt dort draußen.",
+   "es": "Jugáis allí fuera.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-07",
+   "family": "01 · Simples · 1–10",
+   "de": "Sie liest ein Buch.",
+   "es": "Ella lee un libro.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-08",
+   "family": "01 · Simples · 1–10",
+   "de": "Er schreibt eine E-Mail.",
+   "es": "Él escribe un correo electrónico.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-09",
+   "family": "01 · Simples · 1–10",
+   "de": "Ich höre gern Musik.",
+   "es": "Me gusta escuchar música.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-10",
+   "family": "01 · Simples · 1–10",
+   "de": "Das Kind schläft noch.",
+   "es": "El niño todavía duerme.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-11",
+   "family": "02 · Simples · 11–20",
+   "de": "Meine Mutter ist jetzt zu Hause.",
+   "es": "Mi madre está ahora en casa.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-12",
+   "family": "02 · Simples · 11–20",
+   "de": "Mein Vater kommt später.",
+   "es": "Mi padre viene más tarde.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-13",
+   "family": "02 · Simples · 11–20",
+   "de": "Die Küche ist sehr klein.",
+   "es": "La cocina es muy pequeña.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-14",
+   "family": "02 · Simples · 11–20",
+   "de": "Das Fenster ist offen.",
+   "es": "La ventana está abierta.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-15",
+   "family": "02 · Simples · 11–20",
+   "de": "Die Tür ist geschlossen.",
+   "es": "La puerta está cerrada.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-16",
+   "family": "02 · Simples · 11–20",
+   "de": "Mein Kaffee ist schon kalt.",
+   "es": "Mi café ya está frío.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-17",
+   "family": "02 · Simples · 11–20",
+   "de": "Die Suppe ist noch heiß.",
+   "es": "La sopa todavía está caliente.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-18",
+   "family": "02 · Simples · 11–20",
+   "de": "Ich bin heute müde.",
+   "es": "Hoy estoy cansado.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-19",
+   "family": "02 · Simples · 11–20",
+   "de": "Du bist immer freundlich.",
+   "es": "Siempre eres amable.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-20",
+   "family": "02 · Simples · 11–20",
+   "de": "Wir haben morgen Zeit.",
+   "es": "Tenemos tiempo mañana.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-21",
+   "family": "03 · Simples · 21–30",
+   "de": "Ich habe leider kein Geld.",
+   "es": "Por desgracia, no tengo dinero.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-22",
+   "family": "03 · Simples · 21–30",
+   "de": "Ich brauche einen Stift.",
+   "es": "Necesito un bolígrafo.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-23",
+   "family": "03 · Simples · 21–30",
+   "de": "Sie kauft Brot und Milch.",
+   "es": "Ella compra pan y leche.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-24",
+   "family": "03 · Simples · 21–30",
+   "de": "Wir trinken keinen Wein.",
+   "es": "No bebemos vino.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-25",
+   "family": "03 · Simples · 21–30",
+   "de": "Er isst gern Reis.",
+   "es": "A él le gusta comer arroz.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-26",
+   "family": "03 · Simples · 21–30",
+   "de": "Ich wohne in Madrid.",
+   "es": "Vivo en Madrid.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-27",
+   "family": "03 · Simples · 21–30",
+   "de": "Du kommst aus Spanien.",
+   "es": "Vienes de España.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-28",
+   "family": "03 · Simples · 21–30",
+   "de": "Wir fahren mit dem Bus.",
+   "es": "Vamos en autobús.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-29",
+   "family": "03 · Simples · 21–30",
+   "de": "Der Zug fährt nach Berlin.",
+   "es": "El tren va a Berlín.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-30",
+   "family": "03 · Simples · 21–30",
+   "de": "Ich komme gerade vom Bahnhof.",
+   "es": "Ahora mismo vengo de la estación de tren.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-31",
+   "family": "04 · Simples · 31–40",
+   "de": "Sie arbeitet im Büro.",
+   "es": "Ella trabaja en la oficina.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-32",
+   "family": "04 · Simples · 31–40",
+   "de": "Das Buch liegt auf dem Tisch.",
+   "es": "El libro está sobre la mesa.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-33",
+   "family": "04 · Simples · 31–40",
+   "de": "Die Tasche liegt unter dem Stuhl.",
+   "es": "El bolso está debajo de la silla.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-34",
+   "family": "04 · Simples · 31–40",
+   "de": "Der Supermarkt ist neben der Bank.",
+   "es": "El supermercado está al lado del banco.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-35",
+   "family": "04 · Simples · 31–40",
+   "de": "Die Apotheke ist gegenüber dem Hotel.",
+   "es": "La farmacia está enfrente del hotel.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-36",
+   "family": "04 · Simples · 31–40",
+   "de": "Ich warte hier auf dich.",
+   "es": "Te espero aquí.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-37",
+   "family": "04 · Simples · 31–40",
+   "de": "Er sitzt vor dem Fenster.",
+   "es": "Él está sentado delante de la ventana.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-38",
+   "family": "04 · Simples · 31–40",
+   "de": "Das Fahrrad steht hinter dem Haus.",
+   "es": "La bicicleta está detrás de la casa.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-39",
+   "family": "04 · Simples · 31–40",
+   "de": "Die Lampe hängt über dem Tisch.",
+   "es": "La lámpara cuelga encima de la mesa.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-40",
+   "family": "04 · Simples · 31–40",
+   "de": "Das Café ist zwischen der Bank und dem Kino.",
+   "es": "La cafetería está entre el banco y el cine.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-41",
+   "family": "05 · Simples · 41–50",
+   "de": "Ich esse oft Obst.",
+   "es": "Como fruta a menudo.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-42",
+   "family": "05 · Simples · 41–50",
+   "de": "Wir kochen manchmal zusammen.",
+   "es": "A veces cocinamos juntos.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-43",
+   "family": "05 · Simples · 41–50",
+   "de": "Sie kommt nie zu spät.",
+   "es": "Ella nunca llega tarde.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-44",
+   "family": "05 · Simples · 41–50",
+   "de": "Ich gehe heute früh ins Bett.",
+   "es": "Hoy me voy temprano a la cama.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-45",
+   "family": "05 · Simples · 41–50",
+   "de": "Wir sehen uns bald.",
+   "es": "Nos vemos pronto.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-46",
+   "family": "05 · Simples · 41–50",
+   "de": "Die Kinder spielen drinnen.",
+   "es": "Los niños juegan dentro.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-47",
+   "family": "05 · Simples · 41–50",
+   "de": "Der Aufzug ist links.",
+   "es": "El ascensor está a la izquierda.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-48",
+   "family": "05 · Simples · 41–50",
+   "de": "Die Treppe ist rechts.",
+   "es": "La escalera está a la derecha.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-49",
+   "family": "05 · Simples · 41–50",
+   "de": "Das Bad ist oben.",
+   "es": "El baño está arriba.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-1-50",
+   "family": "05 · Simples · 41–50",
+   "de": "Die Küche ist unten.",
+   "es": "La cocina está abajo.",
+   "difficulty": 1
+  },
+  {
+   "id": "phrase-a1-2-01",
+   "family": "06 · Ampliadas · 1–10",
+   "de": "Heute lerne ich nach der Arbeit eine Stunde Deutsch.",
+   "es": "Hoy estudio alemán una hora después del trabajo.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-02",
+   "family": "06 · Ampliadas · 1–10",
+   "de": "Am Morgen trinke ich zuerst Wasser und dann Kaffee.",
+   "es": "Por la mañana bebo primero agua y después café.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-03",
+   "family": "06 · Ampliadas · 1–10",
+   "de": "Nach dem Essen gehe ich mit meiner Schwester spazieren.",
+   "es": "Después de comer voy a pasear con mi hermana.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-04",
+   "family": "06 · Ampliadas · 1–10",
+   "de": "Um acht Uhr fahren wir mit dem Zug nach Berlin.",
+   "es": "A las ocho vamos en tren a Berlín.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-05",
+   "family": "06 · Ampliadas · 1–10",
+   "de": "Am Wochenende besuche ich meine Eltern auf dem Land.",
+   "es": "El fin de semana visito a mis padres en el campo.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-06",
+   "family": "06 · Ampliadas · 1–10",
+   "de": "In der Schule spreche ich oft mit meinen Freunden.",
+   "es": "En la escuela hablo a menudo con mis amigos.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-07",
+   "family": "06 · Ampliadas · 1–10",
+   "de": "Seit einer Woche lerne ich jeden Abend Deutsch.",
+   "es": "Desde hace una semana estudio alemán todas las tardes.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-08",
+   "family": "06 · Ampliadas · 1–10",
+   "de": "Bis Freitag bleibe ich bei meiner Freundin.",
+   "es": "Me quedo en casa de mi amiga hasta el viernes.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-09",
+   "family": "06 · Ampliadas · 1–10",
+   "de": "Auf dem Weg zur Schule gehe ich durch den Park.",
+   "es": "De camino a la escuela paso por el parque.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-10",
+   "family": "06 · Ampliadas · 1–10",
+   "de": "Morgen fahre ich ohne meinen Bruder zum Flughafen.",
+   "es": "Mañana voy al aeropuerto sin mi hermano.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-11",
+   "family": "07 · Ampliadas · 11–20",
+   "de": "Ich möchte heute ein neues Buch kaufen.",
+   "es": "Hoy me gustaría comprar un libro nuevo.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-12",
+   "family": "07 · Ampliadas · 11–20",
+   "de": "Kannst du mir bitte mit dieser Aufgabe helfen?",
+   "es": "¿Puedes ayudarme con este ejercicio, por favor?",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-13",
+   "family": "07 · Ampliadas · 11–20",
+   "de": "Wir müssen morgen um sieben Uhr aufstehen.",
+   "es": "Mañana tenemos que levantarnos a las siete.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-14",
+   "family": "07 · Ampliadas · 11–20",
+   "de": "Du darfst hier nicht mit dem Fahrrad fahren.",
+   "es": "Aquí no puedes ir en bicicleta: no está permitido.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-15",
+   "family": "07 · Ampliadas · 11–20",
+   "de": "Ich will am Samstag mit meinen Freunden kochen.",
+   "es": "El sábado quiero cocinar con mis amigos.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-16",
+   "family": "07 · Ampliadas · 11–20",
+   "de": "Soll ich dir einen Kaffee bringen?",
+   "es": "¿Te traigo un café?",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-17",
+   "family": "07 · Ampliadas · 11–20",
+   "de": "Wir können nach der Arbeit zusammen essen.",
+   "es": "Podemos comer juntos después del trabajo.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-18",
+   "family": "07 · Ampliadas · 11–20",
+   "de": "Ich möchte für meine Mutter ein Geschenk kaufen.",
+   "es": "Me gustaría comprar un regalo para mi madre.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-19",
+   "family": "07 · Ampliadas · 11–20",
+   "de": "Musst du heute bis sechs Uhr arbeiten?",
+   "es": "¿Tienes que trabajar hoy hasta las seis?",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-20",
+   "family": "07 · Ampliadas · 11–20",
+   "de": "Können Sie mir bitte den Weg zum Bahnhof zeigen?",
+   "es": "¿Puede indicarme el camino a la estación, por favor?",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-21",
+   "family": "08 · Ampliadas · 21–30",
+   "de": "Ich stehe jeden Morgen um halb acht auf.",
+   "es": "Me levanto cada mañana a las siete y media.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-22",
+   "family": "08 · Ampliadas · 21–30",
+   "de": "Nach der Arbeit kaufe ich im Supermarkt ein.",
+   "es": "Después del trabajo hago la compra en el supermercado.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-23",
+   "family": "08 · Ampliadas · 21–30",
+   "de": "Ich rufe dich morgen nach dem Unterricht an.",
+   "es": "Te llamo mañana después de clase.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-24",
+   "family": "08 · Ampliadas · 21–30",
+   "de": "Um neun Uhr fängt der Deutschkurs an.",
+   "es": "El curso de alemán empieza a las nueve.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-25",
+   "family": "08 · Ampliadas · 21–30",
+   "de": "Ich mache vor dem Schlafen das Licht aus.",
+   "es": "Apago la luz antes de dormir.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-26",
+   "family": "08 · Ampliadas · 21–30",
+   "de": "Bitte mach das Fenster in der Küche auf.",
+   "es": "Abre la ventana de la cocina, por favor.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-27",
+   "family": "08 · Ampliadas · 21–30",
+   "de": "Wir räumen am Samstag zusammen die Wohnung auf.",
+   "es": "El sábado ordenamos juntos el piso.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-28",
+   "family": "08 · Ampliadas · 21–30",
+   "de": "Bring bitte etwas Brot und Käse mit.",
+   "es": "Trae algo de pan y queso, por favor.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-29",
+   "family": "08 · Ampliadas · 21–30",
+   "de": "Ich nehme heute einen Regenschirm mit.",
+   "es": "Hoy me llevo un paraguas.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-30",
+   "family": "08 · Ampliadas · 21–30",
+   "de": "Nach dem Essen wasche ich das Geschirr ab.",
+   "es": "Después de comer lavo los platos.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-31",
+   "family": "09 · Ampliadas · 31–40",
+   "de": "Ich trinke Tee, aber meine Schwester trinkt Kaffee.",
+   "es": "Yo bebo té, pero mi hermana bebe café.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-32",
+   "family": "09 · Ampliadas · 31–40",
+   "de": "Wir bleiben zu Hause, denn es regnet draußen.",
+   "es": "Nos quedamos en casa porque fuera llueve.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-33",
+   "family": "09 · Ampliadas · 31–40",
+   "de": "Möchtest du Wasser trinken oder lieber einen Tee?",
+   "es": "¿Quieres beber agua o prefieres un té?",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-34",
+   "family": "09 · Ampliadas · 31–40",
+   "de": "Ich kaufe keine Äpfel, sondern zwei Bananen.",
+   "es": "No compro manzanas, sino dos plátanos.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-35",
+   "family": "09 · Ampliadas · 31–40",
+   "de": "Er arbeitet heute und hat nur wenig Zeit.",
+   "es": "Él trabaja hoy y tiene poco tiempo.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-36",
+   "family": "09 · Ampliadas · 31–40",
+   "de": "Der Bus kommt zu spät, deshalb gehe ich zu Fuß.",
+   "es": "El autobús llega tarde; por eso voy a pie.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-37",
+   "family": "09 · Ampliadas · 31–40",
+   "de": "Zuerst mache ich meine Hausaufgaben, dann spiele ich.",
+   "es": "Primero hago los deberes; después juego.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-38",
+   "family": "09 · Ampliadas · 31–40",
+   "de": "Ich bin krank, aber morgen gehe ich wieder zur Schule.",
+   "es": "Estoy enfermo, pero mañana vuelvo a la escuela.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-39",
+   "family": "09 · Ampliadas · 31–40",
+   "de": "Meine Schwester kann auch gut Deutsch sprechen.",
+   "es": "Mi hermana también sabe hablar bien alemán.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-40",
+   "family": "09 · Ampliadas · 31–40",
+   "de": "Ich lerne allein, aber am Abend üben wir zusammen.",
+   "es": "Estudio solo, pero por la tarde practicamos juntos.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-41",
+   "family": "10 · Ampliadas · 41–50",
+   "de": "Ich bleibe heute zu Hause, weil ich krank bin.",
+   "es": "Hoy me quedo en casa porque estoy enfermo.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-42",
+   "family": "10 · Ampliadas · 41–50",
+   "de": "Wir nehmen den Bus, weil unser Auto kaputt ist.",
+   "es": "Cogemos el autobús porque nuestro coche está averiado.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-43",
+   "family": "10 · Ampliadas · 41–50",
+   "de": "Ich lerne Deutsch, weil ich in Deutschland arbeiten möchte.",
+   "es": "Aprendo alemán porque me gustaría trabajar en Alemania.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-44",
+   "family": "10 · Ampliadas · 41–50",
+   "de": "Ich glaube, dass der Supermarkt noch offen ist.",
+   "es": "Creo que el supermercado todavía está abierto.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-45",
+   "family": "10 · Ampliadas · 41–50",
+   "de": "Sie sagt, dass sie heute keine Zeit hat.",
+   "es": "Ella dice que hoy no tiene tiempo.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-46",
+   "family": "10 · Ampliadas · 41–50",
+   "de": "Ich weiß, dass du morgen eine Prüfung hast.",
+   "es": "Sé que mañana tienes un examen.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-47",
+   "family": "10 · Ampliadas · 41–50",
+   "de": "Wenn ich Zeit habe, lese ich ein Buch.",
+   "es": "Cuando tengo tiempo, leo un libro.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-48",
+   "family": "10 · Ampliadas · 41–50",
+   "de": "Wenn es regnet, bleiben wir zu Hause.",
+   "es": "Si llueve, nos quedamos en casa.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-49",
+   "family": "10 · Ampliadas · 41–50",
+   "de": "Ich höre Musik, wenn ich mit dem Bus fahre.",
+   "es": "Escucho música cuando voy en autobús.",
+   "difficulty": 2
+  },
+  {
+   "id": "phrase-a1-2-50",
+   "family": "10 · Ampliadas · 41–50",
+   "de": "Kannst du mir sagen, wann der nächste Zug kommt?",
+   "es": "¿Puedes decirme cuándo llega el próximo tren?",
+   "difficulty": 2
+  }
+ ]
+}

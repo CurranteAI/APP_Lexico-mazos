@@ -1,0 +1,740 @@
+{
+ "format": "lexico-teoria",
+ "version": 1,
+ "id": "gramatica",
+ "name": "Gramática",
+ "sections": {
+  "Gramática": [
+   {
+    "title": "Interrogativos",
+    "rule": "",
+    "items": [
+     [
+      "Wo wohnst du?",
+      "¿Dónde vives?"
+     ],
+     [
+      "Woher kommst du?",
+      "¿De dónde eres?"
+     ],
+     [
+      "Wohin gehst du?",
+      "¿Adónde vas?"
+     ],
+     [
+      "Wann kommst du?",
+      "¿Cuándo vienes?"
+     ],
+     [
+      "Wie heißt du?",
+      "¿Cómo te llamas?"
+     ],
+     [
+      "Warum lachst du?",
+      "¿Por qué te ríes?"
+     ],
+     [
+      "Was trinkst du?",
+      "¿Qué bebes?"
+     ],
+     [
+      "Wer ist das?",
+      "¿Quién es?"
+     ],
+     [
+      "Wen suchst du?",
+      "¿A quién buscas?"
+     ],
+     [
+      "Wem hilfst du?",
+      "¿A quién ayudas?"
+     ],
+     [
+      "Wessen Tasche ist das?",
+      "¿De quién es esa bolsa?"
+     ],
+     [
+      "Wie viel kostet das?",
+      "¿Cuánto cuesta eso?"
+     ],
+     [
+      "Wie viele Kinder kommen?",
+      "¿Cuántos niños vienen?"
+     ],
+     [
+      "Welcher Bus kommt?",
+      "¿Qué autobús viene?"
+     ],
+     [
+      "Welche Tasche möchtest du?",
+      "¿Qué bolsa quieres?"
+     ],
+     [
+      "Welches Buch liest du?",
+      "¿Qué libro lees?"
+     ]
+    ]
+   },
+   {
+    "title": "Pronombres personales",
+    "rule": "",
+    "items": [
+     [
+      "Ich lerne Deutsch.",
+      "Yo estudio alemán."
+     ],
+     [
+      "Du bist hier.",
+      "Tú estás aquí."
+     ],
+     [
+      "Er kommt heute.",
+      "Él viene hoy."
+     ],
+     [
+      "Sie heißt Anna.",
+      "Ella se llama Anna."
+     ],
+     [
+      "Es regnet heute.",
+      "Hoy llueve."
+     ],
+     [
+      "Wir lernen Deutsch.",
+      "Nosotros estudiamos alemán."
+     ],
+     [
+      "Ihr seid müde.",
+      "Vosotros estáis cansados."
+     ],
+     [
+      "Heute kommen sie beide.",
+      "Hoy vienen ambos."
+     ],
+     [
+      "Kommen Sie bitte!",
+      "¡Venga usted, por favor!"
+     ]
+    ]
+   },
+   {
+    "title": "Pronombres acusativo",
+    "rule": "",
+    "items": [
+     [
+      "Du siehst mich.",
+      "Tú me ves."
+     ],
+     [
+      "Ich sehe dich.",
+      "Yo te veo."
+     ],
+     [
+      "Ich kenne ihn.",
+      "Yo lo conozco a él."
+     ],
+     [
+      "Ich kenne sie.",
+      "Yo la conozco a ella."
+     ],
+     [
+      "Ich kaufe es.",
+      "Yo lo compro."
+     ],
+     [
+      "Du siehst uns.",
+      "Tú nos ves."
+     ],
+     [
+      "Ich sehe euch.",
+      "Yo os veo."
+     ],
+     [
+      "Ich kenne sie beide.",
+      "Yo los conozco a ambos."
+     ],
+     [
+      "Ich verstehe Sie.",
+      "Yo lo entiendo a usted."
+     ]
+    ]
+   },
+   {
+    "title": "Pronombres dativo",
+    "rule": "",
+    "items": [
+     [
+      "Du hilfst mir.",
+      "Tú me ayudas."
+     ],
+     [
+      "Ich helfe dir.",
+      "Yo te ayudo."
+     ],
+     [
+      "Ich helfe ihm.",
+      "Yo le ayudo a él."
+     ],
+     [
+      "Ich helfe ihr.",
+      "Yo le ayudo a ella."
+     ],
+     [
+      "Du hilfst uns.",
+      "Tú nos ayudas."
+     ],
+     [
+      "Ich helfe euch.",
+      "Yo os ayudo."
+     ],
+     [
+      "Ich helfe ihnen beiden.",
+      "Yo les ayudo a ambos."
+     ],
+     [
+      "Ich helfe Ihnen.",
+      "Yo le ayudo a usted."
+     ]
+    ]
+   },
+   {
+    "title": "Artículos",
+    "rule": "",
+    "items": [
+     [
+      "Der Bus kommt.",
+      "El autobús viene."
+     ],
+     [
+      "Die Tasche ist rot.",
+      "La bolsa es roja."
+     ],
+     [
+      "Das Kind spielt.",
+      "El niño juega."
+     ],
+     [
+      "Die Kinder spielen.",
+      "Los niños juegan."
+     ],
+     [
+      "Hier ist ein Tisch.",
+      "Aquí hay una mesa."
+     ],
+     [
+      "Hier ist eine Tasche.",
+      "Aquí hay una bolsa."
+     ]
+    ]
+   },
+   {
+    "title": "Determinantes y cantidad",
+    "rule": "",
+    "items": [
+     [
+      "Ich habe kein Auto.",
+      "No tengo coche."
+     ],
+     [
+      "Ich habe keine Zeit.",
+      "No tengo tiempo."
+     ],
+     [
+      "Dieser Bus fährt.",
+      "Este autobús circula."
+     ],
+     [
+      "Diese Tasche gefällt mir.",
+      "Esta bolsa me gusta."
+     ],
+     [
+      "Dieses Buch gefällt mir.",
+      "Este libro me gusta."
+     ],
+     [
+      "Jeder Schüler lernt.",
+      "Cada alumno estudia."
+     ],
+     [
+      "Jede Familie kommt.",
+      "Cada familia viene."
+     ],
+     [
+      "Jedes Kind spielt.",
+      "Cada niño juega."
+     ],
+     [
+      "Alle Kinder spielen.",
+      "Todos los niños juegan."
+     ],
+     [
+      "Viele Kinder spielen.",
+      "Muchos niños juegan."
+     ],
+     [
+      "Einige Kinder spielen.",
+      "Algunos niños juegan."
+     ],
+     [
+      "Ich möchte etwas Wasser.",
+      "Quisiera un poco de agua."
+     ],
+     [
+      "Ich höre nichts.",
+      "No oigo nada."
+     ],
+     [
+      "Ich verstehe alles.",
+      "Lo entiendo todo."
+     ]
+    ]
+   },
+   {
+    "title": "Posesivos",
+    "rule": "",
+    "items": [
+     [
+      "Das ist mein Bruder.",
+      "Ese es mi hermano."
+     ],
+     [
+      "Das ist meine Schwester.",
+      "Esa es mi hermana."
+     ],
+     [
+      "Ist das dein Bruder?",
+      "¿Ese es tu hermano?"
+     ],
+     [
+      "Ist das deine Schwester?",
+      "¿Esa es tu hermana?"
+     ],
+     [
+      "Paul sucht sein Auto.",
+      "Paul busca su coche."
+     ],
+     [
+      "Paul sucht seine Tasche.",
+      "Paul busca su bolsa."
+     ],
+     [
+      "Anna sucht ihr Auto.",
+      "Anna busca su coche."
+     ],
+     [
+      "Anna sucht ihre Tasche.",
+      "Anna busca su bolsa."
+     ],
+     [
+      "Das ist unser Haus.",
+      "Esa es nuestra casa."
+     ],
+     [
+      "Das ist unsere Wohnung.",
+      "Esa es nuestra vivienda."
+     ],
+     [
+      "Ist das euer Haus?",
+      "¿Esa es vuestra casa?"
+     ],
+     [
+      "Ist das eure Wohnung?",
+      "¿Esa es vuestra vivienda?"
+     ],
+     [
+      "Das ist ihr Spielzeug.",
+      "Esos son sus juguetes (de ellos)."
+     ],
+     [
+      "Kinder lieben ihre Mutter.",
+      "Los niños quieren a su madre."
+     ],
+     [
+      "Ist das Ihr Auto?",
+      "¿Ese es su coche, de usted?"
+     ],
+     [
+      "Ist das Ihre Tasche?",
+      "¿Esa es su bolsa, de usted?"
+     ]
+    ]
+   },
+   {
+    "title": "Preposiciones",
+    "rule": "",
+    "items": [
+     [
+      "Ich komme aus Spanien.",
+      "Soy de España."
+     ],
+     [
+      "Ich wohne bei Anna.",
+      "Vivo en casa de Anna."
+     ],
+     [
+      "Ich fahre mit Anna.",
+      "Voy con Anna."
+     ],
+     [
+      "Wir fahren nach Berlin.",
+      "Vamos a Berlín."
+     ],
+     [
+      "Das ist von Anna.",
+      "Eso es de Anna."
+     ],
+     [
+      "Ich gehe zu Anna.",
+      "Voy a casa de Anna."
+     ],
+     [
+      "Das ist für dich.",
+      "Eso es para ti."
+     ],
+     [
+      "Kaffee ohne Zucker, bitte.",
+      "Café sin azúcar, por favor."
+     ],
+     [
+      "Wir kommen um acht.",
+      "Venimos a las ocho."
+     ],
+     [
+      "Ich bleibe bis morgen.",
+      "Me quedo hasta mañana."
+     ],
+     [
+      "Wir gehen durch Berlin.",
+      "Caminamos por Berlín."
+     ],
+     [
+      "Wir spielen gegen Anna.",
+      "Jugamos contra Anna."
+     ],
+     [
+      "Ich wohne in Berlin.",
+      "Vivo en Berlín."
+     ],
+     [
+      "Warte an Gleis zwei.",
+      "Espera en la vía dos."
+     ],
+     [
+      "Das liegt auf mir.",
+      "Eso está encima de mí."
+     ],
+     [
+      "Er sitzt unter mir.",
+      "Él está sentado debajo de mí."
+     ],
+     [
+      "Das hängt über uns.",
+      "Eso cuelga encima de nosotros."
+     ],
+     [
+      "Anna steht vor mir.",
+      "Anna está de pie delante de mí."
+     ],
+     [
+      "Anna steht hinter mir.",
+      "Anna está de pie detrás de mí."
+     ],
+     [
+      "Anna sitzt neben mir.",
+      "Anna está sentada a mi lado."
+     ],
+     [
+      "Das liegt zwischen uns.",
+      "Eso está entre nosotros."
+     ]
+    ]
+   },
+   {
+    "title": "Contracciones",
+    "rule": "",
+    "items": [
+     [
+      "Ich bin im Kino.",
+      "Estoy en el cine."
+     ],
+     [
+      "Wir kommen am Montag.",
+      "Venimos el lunes."
+     ],
+     [
+      "Ich gehe zum Arzt.",
+      "Voy al médico."
+     ],
+     [
+      "Ich gehe zur Schule.",
+      "Voy a la escuela."
+     ],
+     [
+      "Ich komme vom Arzt.",
+      "Vengo del médico."
+     ],
+     [
+      "Wir gehen ins Kino.",
+      "Vamos al cine."
+     ]
+    ]
+   },
+   {
+    "title": "Tiempo y frecuencia",
+    "rule": "",
+    "items": [
+     [
+      "Ich komme heute.",
+      "Vengo hoy."
+     ],
+     [
+      "Ich komme morgen.",
+      "Vengo mañana."
+     ],
+     [
+      "Ich war gestern hier.",
+      "Estuve aquí ayer."
+     ],
+     [
+      "Ich lerne jetzt.",
+      "Estoy estudiando ahora."
+     ],
+     [
+      "Ich komme später.",
+      "Vengo más tarde."
+     ],
+     [
+      "Ich komme früh.",
+      "Vengo temprano."
+     ],
+     [
+      "Ich komme spät.",
+      "Vengo tarde."
+     ],
+     [
+      "Ich lerne immer abends.",
+      "Siempre estudio por las tardes."
+     ],
+     [
+      "Ich lese oft.",
+      "Leo a menudo."
+     ],
+     [
+      "Ich koche manchmal.",
+      "Cocino a veces."
+     ],
+     [
+      "Ich koche selten.",
+      "Cocino pocas veces."
+     ],
+     [
+      "Ich rauche nie.",
+      "Nunca fumo."
+     ],
+     [
+      "Ich bin wieder hier.",
+      "Estoy aquí otra vez."
+     ],
+     [
+      "Ich bin schon hier.",
+      "Ya estoy aquí."
+     ],
+     [
+      "Ich bin noch hier.",
+      "Todavía estoy aquí."
+     ],
+     [
+      "Ich esse zuerst.",
+      "Como primero."
+     ],
+     [
+      "Dann komme ich.",
+      "Después vengo."
+     ],
+     [
+      "Ich komme bald.",
+      "Vengo pronto."
+     ],
+     [
+      "Ich esse gerade.",
+      "Estoy comiendo ahora mismo."
+     ],
+     [
+      "Ich lerne morgens.",
+      "Estudio por las mañanas."
+     ],
+     [
+      "Ich lerne abends.",
+      "Estudio por las tardes/noches."
+     ]
+    ]
+   },
+   {
+    "title": "Lugar y modo",
+    "rule": "",
+    "items": [
+     [
+      "Ich wohne hier.",
+      "Vivo aquí."
+     ],
+     [
+      "Ich wohne dort.",
+      "Vivo allí."
+     ],
+     [
+      "Anna ist da.",
+      "Anna está ahí."
+     ],
+     [
+      "Die Schule ist links.",
+      "La escuela está a la izquierda."
+     ],
+     [
+      "Die Schule ist rechts.",
+      "La escuela está a la derecha."
+     ],
+     [
+      "Anna ist oben.",
+      "Anna está arriba."
+     ],
+     [
+      "Anna ist unten.",
+      "Anna está abajo."
+     ],
+     [
+      "Wir spielen drinnen.",
+      "Jugamos dentro."
+     ],
+     [
+      "Wir spielen draußen.",
+      "Jugamos fuera."
+     ],
+     [
+      "Wir lernen zusammen.",
+      "Estudiamos juntos."
+     ],
+     [
+      "Ich wohne allein.",
+      "Vivo solo."
+     ],
+     [
+      "Ich koche gern.",
+      "Me gusta cocinar."
+     ],
+     [
+      "Ich trinke lieber Wasser.",
+      "Prefiero beber agua."
+     ],
+     [
+      "Das ist sehr schön.",
+      "Eso es muy bonito."
+     ],
+     [
+      "Das ist zu teuer.",
+      "Eso es demasiado caro."
+     ],
+     [
+      "Ich komme auch.",
+      "Yo también voy."
+     ],
+     [
+      "Ich trinke nur Wasser.",
+      "Solo bebo agua."
+     ],
+     [
+      "Anna fehlt leider.",
+      "Lamentablemente, Anna no está."
+     ],
+     [
+      "Anna kommt vielleicht.",
+      "Quizá venga Anna."
+     ]
+    ]
+   },
+   {
+    "title": "Conectores",
+    "rule": "",
+    "items": [
+     [
+      "Anna und Paul kommen.",
+      "Anna y Paul vienen."
+     ],
+     [
+      "Tee oder Kaffee?",
+      "¿Té o café?"
+     ],
+     [
+      "Klein, aber schön.",
+      "Pequeño, pero bonito."
+     ],
+     [
+      "Geh, denn Anna wartet.",
+      "Vete, porque Anna está esperando."
+     ],
+     [
+      "Nicht Tee, sondern Kaffee.",
+      "No té, sino café."
+     ],
+     [
+      "Deshalb bleibe ich.",
+      "Por eso me quedo."
+     ],
+     [
+      "Weil ich müde bin.",
+      "Porque estoy cansado."
+     ],
+     [
+      "Wenn du Zeit hast.",
+      "Si tienes tiempo."
+     ]
+    ]
+   },
+   {
+    "title": "Negación y partículas",
+    "rule": "",
+    "items": [
+     [
+      "Ich komme nicht.",
+      "No voy."
+     ],
+     [
+      "Ja, ich komme.",
+      "Sí, voy."
+     ],
+     [
+      "Nein, danke schön.",
+      "No, muchas gracias."
+     ],
+     [
+      "Doch, ich komme!",
+      "¡Sí que voy! (Frente a una negación)."
+     ],
+     [
+      "Wasser, bitte.",
+      "Agua, por favor."
+     ],
+     [
+      "Danke für alles.",
+      "Gracias por todo."
+     ],
+     [
+      "Ich brauche mehr Wasser.",
+      "Necesito más agua."
+     ],
+     [
+      "Ich brauche weniger Zucker.",
+      "Necesito menos azúcar."
+     ],
+     [
+      "Ich habe genug Zeit.",
+      "Tengo suficiente tiempo."
+     ],
+     [
+      "Das ist so schön.",
+      "Eso es tan bonito."
+     ]
+    ]
+   }
+  ]
+ }
+}

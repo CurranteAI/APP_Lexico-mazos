@@ -1,0 +1,1019 @@
+{
+ "format": "lexico-mazo",
+ "version": 1,
+ "deck": {
+  "id": "a1",
+  "name": "Alemán · Primeros pasos",
+  "status": "active"
+ },
+ "words": [
+  {
+   "id": "seed0",
+   "family": "Pronombres personales",
+   "de": "ich",
+   "es": "yo"
+  },
+  {
+   "id": "seed1",
+   "family": "Pronombres personales",
+   "de": "du",
+   "es": "tú"
+  },
+  {
+   "id": "seed2",
+   "family": "Pronombres personales",
+   "de": "er",
+   "es": "él"
+  },
+  {
+   "id": "seed3",
+   "family": "Pronombres personales",
+   "de": "sie",
+   "es": "ella"
+  },
+  {
+   "id": "seed4",
+   "family": "Pronombres personales",
+   "de": "es",
+   "es": "ello; neutro"
+  },
+  {
+   "id": "seed5",
+   "family": "Pronombres personales",
+   "de": "wir",
+   "es": "nosotros/as"
+  },
+  {
+   "id": "seed6",
+   "family": "Pronombres personales",
+   "de": "ihr",
+   "es": "vosotros/as"
+  },
+  {
+   "id": "seed7",
+   "family": "Pronombres personales",
+   "de": "sie",
+   "es": "ellos/as"
+  },
+  {
+   "id": "seed8",
+   "family": "Pronombres personales",
+   "de": "Sie",
+   "es": "usted / ustedes"
+  },
+  {
+   "id": "seed9",
+   "family": "Artículos",
+   "de": "der Mann",
+   "es": "el hombre"
+  },
+  {
+   "id": "seed10",
+   "family": "Artículos",
+   "de": "die Frau",
+   "es": "la mujer"
+  },
+  {
+   "id": "seed11",
+   "family": "Artículos",
+   "de": "das Kind",
+   "es": "el niño / la niña"
+  },
+  {
+   "id": "seed12",
+   "family": "Artículos",
+   "de": "die Kinder",
+   "es": "los niños / las niñas"
+  },
+  {
+   "id": "seed13",
+   "family": "Artículos",
+   "de": "ein Mann",
+   "es": "un hombre"
+  },
+  {
+   "id": "seed14",
+   "family": "Artículos",
+   "de": "eine Frau",
+   "es": "una mujer"
+  },
+  {
+   "id": "seed15",
+   "family": "Artículos",
+   "de": "ein Kind",
+   "es": "un niño / una niña"
+  },
+  {
+   "id": "seed16",
+   "family": "Verbos esenciales",
+   "de": "sein",
+   "es": "ser / estar"
+  },
+  {
+   "id": "seed17",
+   "family": "Verbos esenciales",
+   "de": "haben",
+   "es": "tener"
+  },
+  {
+   "id": "seed18",
+   "family": "Verbos esenciales",
+   "de": "heißen",
+   "es": "llamarse"
+  },
+  {
+   "id": "seed19",
+   "family": "Verbos esenciales",
+   "de": "kommen",
+   "es": "venir"
+  },
+  {
+   "id": "seed20",
+   "family": "Verbos esenciales",
+   "de": "wohnen",
+   "es": "vivir / residir"
+  },
+  {
+   "id": "seed21",
+   "family": "Verbos esenciales",
+   "de": "sprechen",
+   "es": "hablar"
+  },
+  {
+   "id": "seed22",
+   "family": "Verbos esenciales",
+   "de": "lernen",
+   "es": "aprender"
+  },
+  {
+   "id": "seed23",
+   "family": "Verbos esenciales",
+   "de": "gehen",
+   "es": "ir / andar"
+  },
+  {
+   "id": "seed24",
+   "family": "Verbos esenciales",
+   "de": "brauchen",
+   "es": "necesitar"
+  },
+  {
+   "id": "seed25",
+   "family": "Verbos esenciales",
+   "de": "mögen",
+   "es": "gustar"
+  },
+  {
+   "id": "seed26",
+   "family": "Verbos esenciales",
+   "de": "essen",
+   "es": "comer"
+  },
+  {
+   "id": "seed27",
+   "family": "Verbos esenciales",
+   "de": "trinken",
+   "es": "beber"
+  },
+  {
+   "id": "seed28",
+   "family": "Verbos esenciales",
+   "de": "machen",
+   "es": "hacer"
+  },
+  {
+   "id": "seed29",
+   "family": "Verbos esenciales",
+   "de": "arbeiten",
+   "es": "trabajar"
+  },
+  {
+   "id": "seed30",
+   "family": "Verbos esenciales",
+   "de": "kaufen",
+   "es": "comprar"
+  },
+  {
+   "id": "seed31",
+   "family": "Verbos esenciales",
+   "de": "suchen",
+   "es": "buscar"
+  },
+  {
+   "id": "seed32",
+   "family": "Verbos esenciales",
+   "de": "verstehen",
+   "es": "entender"
+  },
+  {
+   "id": "seed33",
+   "family": "Verbos esenciales",
+   "de": "können",
+   "es": "poder"
+  },
+  {
+   "id": "seed34",
+   "family": "Verbos esenciales",
+   "de": "wollen",
+   "es": "querer"
+  },
+  {
+   "id": "seed35",
+   "family": "Verbos esenciales",
+   "de": "wissen",
+   "es": "saber un dato"
+  },
+  {
+   "id": "seed36",
+   "family": "Preguntas",
+   "de": "wer",
+   "es": "quién"
+  },
+  {
+   "id": "seed37",
+   "family": "Preguntas",
+   "de": "was",
+   "es": "qué"
+  },
+  {
+   "id": "seed38",
+   "family": "Preguntas",
+   "de": "wo",
+   "es": "dónde"
+  },
+  {
+   "id": "seed39",
+   "family": "Preguntas",
+   "de": "wohin",
+   "es": "adónde"
+  },
+  {
+   "id": "seed40",
+   "family": "Preguntas",
+   "de": "woher",
+   "es": "de dónde"
+  },
+  {
+   "id": "seed41",
+   "family": "Preguntas",
+   "de": "wie",
+   "es": "cómo"
+  },
+  {
+   "id": "seed42",
+   "family": "Preguntas",
+   "de": "wann",
+   "es": "cuándo"
+  },
+  {
+   "id": "seed43",
+   "family": "Preguntas",
+   "de": "warum",
+   "es": "por qué"
+  },
+  {
+   "id": "seed44",
+   "family": "Preguntas",
+   "de": "wie viel",
+   "es": "cuánto"
+  },
+  {
+   "id": "seed45",
+   "family": "Saludos y expresiones",
+   "de": "Hallo",
+   "es": "Hola"
+  },
+  {
+   "id": "seed46",
+   "family": "Saludos y expresiones",
+   "de": "Guten Morgen",
+   "es": "Buenos días"
+  },
+  {
+   "id": "seed47",
+   "family": "Saludos y expresiones",
+   "de": "Guten Tag",
+   "es": "Buenos días / buenas tardes"
+  },
+  {
+   "id": "seed48",
+   "family": "Saludos y expresiones",
+   "de": "Guten Abend",
+   "es": "Buenas tardes / noches al llegar"
+  },
+  {
+   "id": "seed49",
+   "family": "Saludos y expresiones",
+   "de": "Gute Nacht",
+   "es": "Buenas noches antes de dormir"
+  },
+  {
+   "id": "seed50",
+   "family": "Saludos y expresiones",
+   "de": "Tschüss",
+   "es": "Adiós informal"
+  },
+  {
+   "id": "seed51",
+   "family": "Saludos y expresiones",
+   "de": "Auf Wiedersehen",
+   "es": "Adiós formal"
+  },
+  {
+   "id": "seed52",
+   "family": "Saludos y expresiones",
+   "de": "bitte",
+   "es": "por favor / de nada"
+  },
+  {
+   "id": "seed53",
+   "family": "Saludos y expresiones",
+   "de": "danke",
+   "es": "gracias"
+  },
+  {
+   "id": "seed54",
+   "family": "Saludos y expresiones",
+   "de": "Entschuldigung",
+   "es": "perdón"
+  },
+  {
+   "id": "seed55",
+   "family": "Saludos y expresiones",
+   "de": "Ich heiße Roi.",
+   "es": "Me llamo Roi."
+  },
+  {
+   "id": "seed56",
+   "family": "Saludos y expresiones",
+   "de": "Ich brauche Hilfe.",
+   "es": "Necesito ayuda."
+  },
+  {
+   "id": "seed57",
+   "family": "Colores",
+   "de": "schwarz",
+   "es": "negro"
+  },
+  {
+   "id": "seed58",
+   "family": "Colores",
+   "de": "weiß",
+   "es": "blanco"
+  },
+  {
+   "id": "seed59",
+   "family": "Colores",
+   "de": "rot",
+   "es": "rojo"
+  },
+  {
+   "id": "seed60",
+   "family": "Colores",
+   "de": "blau",
+   "es": "azul"
+  },
+  {
+   "id": "seed61",
+   "family": "Colores",
+   "de": "grün",
+   "es": "verde"
+  },
+  {
+   "id": "seed62",
+   "family": "Colores",
+   "de": "gelb",
+   "es": "amarillo"
+  },
+  {
+   "id": "seed63",
+   "family": "Colores",
+   "de": "orange",
+   "es": "naranja"
+  },
+  {
+   "id": "seed64",
+   "family": "Colores",
+   "de": "rosa",
+   "es": "rosa"
+  },
+  {
+   "id": "seed65",
+   "family": "Colores",
+   "de": "lila",
+   "es": "violeta"
+  },
+  {
+   "id": "seed66",
+   "family": "Colores",
+   "de": "grau",
+   "es": "gris"
+  },
+  {
+   "id": "seed67",
+   "family": "Números 0–100",
+   "de": "null",
+   "es": "0"
+  },
+  {
+   "id": "seed68",
+   "family": "Números 0–100",
+   "de": "eins",
+   "es": "1"
+  },
+  {
+   "id": "seed69",
+   "family": "Números 0–100",
+   "de": "zwei",
+   "es": "2"
+  },
+  {
+   "id": "seed70",
+   "family": "Números 0–100",
+   "de": "drei",
+   "es": "3"
+  },
+  {
+   "id": "seed71",
+   "family": "Números 0–100",
+   "de": "vier",
+   "es": "4"
+  },
+  {
+   "id": "seed72",
+   "family": "Números 0–100",
+   "de": "fünf",
+   "es": "5"
+  },
+  {
+   "id": "seed73",
+   "family": "Números 0–100",
+   "de": "sechs",
+   "es": "6"
+  },
+  {
+   "id": "seed74",
+   "family": "Números 0–100",
+   "de": "sieben",
+   "es": "7"
+  },
+  {
+   "id": "seed75",
+   "family": "Números 0–100",
+   "de": "acht",
+   "es": "8"
+  },
+  {
+   "id": "seed76",
+   "family": "Números 0–100",
+   "de": "neun",
+   "es": "9"
+  },
+  {
+   "id": "seed77",
+   "family": "Números 0–100",
+   "de": "zehn",
+   "es": "10"
+  },
+  {
+   "id": "seed78",
+   "family": "Números 0–100",
+   "de": "elf",
+   "es": "11"
+  },
+  {
+   "id": "seed79",
+   "family": "Números 0–100",
+   "de": "zwölf",
+   "es": "12"
+  },
+  {
+   "id": "seed80",
+   "family": "Números 0–100",
+   "de": "dreizehn",
+   "es": "13"
+  },
+  {
+   "id": "seed81",
+   "family": "Números 0–100",
+   "de": "vierzehn",
+   "es": "14"
+  },
+  {
+   "id": "seed82",
+   "family": "Números 0–100",
+   "de": "fünfzehn",
+   "es": "15"
+  },
+  {
+   "id": "seed83",
+   "family": "Números 0–100",
+   "de": "sechzehn",
+   "es": "16"
+  },
+  {
+   "id": "seed84",
+   "family": "Números 0–100",
+   "de": "siebzehn",
+   "es": "17"
+  },
+  {
+   "id": "seed85",
+   "family": "Números 0–100",
+   "de": "achtzehn",
+   "es": "18"
+  },
+  {
+   "id": "seed86",
+   "family": "Números 0–100",
+   "de": "neunzehn",
+   "es": "19"
+  },
+  {
+   "id": "seed87",
+   "family": "Números 0–100",
+   "de": "zwanzig",
+   "es": "20"
+  },
+  {
+   "id": "seed88",
+   "family": "Números 0–100",
+   "de": "einundzwanzig",
+   "es": "21"
+  },
+  {
+   "id": "seed89",
+   "family": "Números 0–100",
+   "de": "zweiundzwanzig",
+   "es": "22"
+  },
+  {
+   "id": "seed90",
+   "family": "Números 0–100",
+   "de": "dreiundzwanzig",
+   "es": "23"
+  },
+  {
+   "id": "seed91",
+   "family": "Números 0–100",
+   "de": "vierundzwanzig",
+   "es": "24"
+  },
+  {
+   "id": "seed92",
+   "family": "Números 0–100",
+   "de": "fünfundzwanzig",
+   "es": "25"
+  },
+  {
+   "id": "seed93",
+   "family": "Números 0–100",
+   "de": "sechsundzwanzig",
+   "es": "26"
+  },
+  {
+   "id": "seed94",
+   "family": "Números 0–100",
+   "de": "siebenundzwanzig",
+   "es": "27"
+  },
+  {
+   "id": "seed95",
+   "family": "Números 0–100",
+   "de": "achtundzwanzig",
+   "es": "28"
+  },
+  {
+   "id": "seed96",
+   "family": "Números 0–100",
+   "de": "neunundzwanzig",
+   "es": "29"
+  },
+  {
+   "id": "seed97",
+   "family": "Números 0–100",
+   "de": "dreißig",
+   "es": "30"
+  },
+  {
+   "id": "seed98",
+   "family": "Números 0–100",
+   "de": "einunddreißig",
+   "es": "31"
+  },
+  {
+   "id": "seed99",
+   "family": "Números 0–100",
+   "de": "zweiunddreißig",
+   "es": "32"
+  },
+  {
+   "id": "seed100",
+   "family": "Números 0–100",
+   "de": "dreiunddreißig",
+   "es": "33"
+  },
+  {
+   "id": "seed101",
+   "family": "Números 0–100",
+   "de": "vierunddreißig",
+   "es": "34"
+  },
+  {
+   "id": "seed102",
+   "family": "Números 0–100",
+   "de": "fünfunddreißig",
+   "es": "35"
+  },
+  {
+   "id": "seed103",
+   "family": "Números 0–100",
+   "de": "sechsunddreißig",
+   "es": "36"
+  },
+  {
+   "id": "seed104",
+   "family": "Números 0–100",
+   "de": "siebenunddreißig",
+   "es": "37"
+  },
+  {
+   "id": "seed105",
+   "family": "Números 0–100",
+   "de": "achtunddreißig",
+   "es": "38"
+  },
+  {
+   "id": "seed106",
+   "family": "Números 0–100",
+   "de": "neununddreißig",
+   "es": "39"
+  },
+  {
+   "id": "seed107",
+   "family": "Números 0–100",
+   "de": "vierzig",
+   "es": "40"
+  },
+  {
+   "id": "seed108",
+   "family": "Números 0–100",
+   "de": "einundvierzig",
+   "es": "41"
+  },
+  {
+   "id": "seed109",
+   "family": "Números 0–100",
+   "de": "zweiundvierzig",
+   "es": "42"
+  },
+  {
+   "id": "seed110",
+   "family": "Números 0–100",
+   "de": "dreiundvierzig",
+   "es": "43"
+  },
+  {
+   "id": "seed111",
+   "family": "Números 0–100",
+   "de": "vierundvierzig",
+   "es": "44"
+  },
+  {
+   "id": "seed112",
+   "family": "Números 0–100",
+   "de": "fünfundvierzig",
+   "es": "45"
+  },
+  {
+   "id": "seed113",
+   "family": "Números 0–100",
+   "de": "sechsundvierzig",
+   "es": "46"
+  },
+  {
+   "id": "seed114",
+   "family": "Números 0–100",
+   "de": "siebenundvierzig",
+   "es": "47"
+  },
+  {
+   "id": "seed115",
+   "family": "Números 0–100",
+   "de": "achtundvierzig",
+   "es": "48"
+  },
+  {
+   "id": "seed116",
+   "family": "Números 0–100",
+   "de": "neunundvierzig",
+   "es": "49"
+  },
+  {
+   "id": "seed117",
+   "family": "Números 0–100",
+   "de": "fünfzig",
+   "es": "50"
+  },
+  {
+   "id": "seed118",
+   "family": "Números 0–100",
+   "de": "einundfünfzig",
+   "es": "51"
+  },
+  {
+   "id": "seed119",
+   "family": "Números 0–100",
+   "de": "zweiundfünfzig",
+   "es": "52"
+  },
+  {
+   "id": "seed120",
+   "family": "Números 0–100",
+   "de": "dreiundfünfzig",
+   "es": "53"
+  },
+  {
+   "id": "seed121",
+   "family": "Números 0–100",
+   "de": "vierundfünfzig",
+   "es": "54"
+  },
+  {
+   "id": "seed122",
+   "family": "Números 0–100",
+   "de": "fünfundfünfzig",
+   "es": "55"
+  },
+  {
+   "id": "seed123",
+   "family": "Números 0–100",
+   "de": "sechsundfünfzig",
+   "es": "56"
+  },
+  {
+   "id": "seed124",
+   "family": "Números 0–100",
+   "de": "siebenundfünfzig",
+   "es": "57"
+  },
+  {
+   "id": "seed125",
+   "family": "Números 0–100",
+   "de": "achtundfünfzig",
+   "es": "58"
+  },
+  {
+   "id": "seed126",
+   "family": "Números 0–100",
+   "de": "neunundfünfzig",
+   "es": "59"
+  },
+  {
+   "id": "seed127",
+   "family": "Números 0–100",
+   "de": "sechzig",
+   "es": "60"
+  },
+  {
+   "id": "seed128",
+   "family": "Números 0–100",
+   "de": "einundsechzig",
+   "es": "61"
+  },
+  {
+   "id": "seed129",
+   "family": "Números 0–100",
+   "de": "zweiundsechzig",
+   "es": "62"
+  },
+  {
+   "id": "seed130",
+   "family": "Números 0–100",
+   "de": "dreiundsechzig",
+   "es": "63"
+  },
+  {
+   "id": "seed131",
+   "family": "Números 0–100",
+   "de": "vierundsechzig",
+   "es": "64"
+  },
+  {
+   "id": "seed132",
+   "family": "Números 0–100",
+   "de": "fünfundsechzig",
+   "es": "65"
+  },
+  {
+   "id": "seed133",
+   "family": "Números 0–100",
+   "de": "sechsundsechzig",
+   "es": "66"
+  },
+  {
+   "id": "seed134",
+   "family": "Números 0–100",
+   "de": "siebenundsechzig",
+   "es": "67"
+  },
+  {
+   "id": "seed135",
+   "family": "Números 0–100",
+   "de": "achtundsechzig",
+   "es": "68"
+  },
+  {
+   "id": "seed136",
+   "family": "Números 0–100",
+   "de": "neunundsechzig",
+   "es": "69"
+  },
+  {
+   "id": "seed137",
+   "family": "Números 0–100",
+   "de": "siebzig",
+   "es": "70"
+  },
+  {
+   "id": "seed138",
+   "family": "Números 0–100",
+   "de": "einundsiebzig",
+   "es": "71"
+  },
+  {
+   "id": "seed139",
+   "family": "Números 0–100",
+   "de": "zweiundsiebzig",
+   "es": "72"
+  },
+  {
+   "id": "seed140",
+   "family": "Números 0–100",
+   "de": "dreiundsiebzig",
+   "es": "73"
+  },
+  {
+   "id": "seed141",
+   "family": "Números 0–100",
+   "de": "vierundsiebzig",
+   "es": "74"
+  },
+  {
+   "id": "seed142",
+   "family": "Números 0–100",
+   "de": "fünfundsiebzig",
+   "es": "75"
+  },
+  {
+   "id": "seed143",
+   "family": "Números 0–100",
+   "de": "sechsundsiebzig",
+   "es": "76"
+  },
+  {
+   "id": "seed144",
+   "family": "Números 0–100",
+   "de": "siebenundsiebzig",
+   "es": "77"
+  },
+  {
+   "id": "seed145",
+   "family": "Números 0–100",
+   "de": "achtundsiebzig",
+   "es": "78"
+  },
+  {
+   "id": "seed146",
+   "family": "Números 0–100",
+   "de": "neunundsiebzig",
+   "es": "79"
+  },
+  {
+   "id": "seed147",
+   "family": "Números 0–100",
+   "de": "achtzig",
+   "es": "80"
+  },
+  {
+   "id": "seed148",
+   "family": "Números 0–100",
+   "de": "einundachtzig",
+   "es": "81"
+  },
+  {
+   "id": "seed149",
+   "family": "Números 0–100",
+   "de": "zweiundachtzig",
+   "es": "82"
+  },
+  {
+   "id": "seed150",
+   "family": "Números 0–100",
+   "de": "dreiundachtzig",
+   "es": "83"
+  },
+  {
+   "id": "seed151",
+   "family": "Números 0–100",
+   "de": "vierundachtzig",
+   "es": "84"
+  },
+  {
+   "id": "seed152",
+   "family": "Números 0–100",
+   "de": "fünfundachtzig",
+   "es": "85"
+  },
+  {
+   "id": "seed153",
+   "family": "Números 0–100",
+   "de": "sechsundachtzig",
+   "es": "86"
+  },
+  {
+   "id": "seed154",
+   "family": "Números 0–100",
+   "de": "siebenundachtzig",
+   "es": "87"
+  },
+  {
+   "id": "seed155",
+   "family": "Números 0–100",
+   "de": "achtundachtzig",
+   "es": "88"
+  },
+  {
+   "id": "seed156",
+   "family": "Números 0–100",
+   "de": "neunundachtzig",
+   "es": "89"
+  },
+  {
+   "id": "seed157",
+   "family": "Números 0–100",
+   "de": "neunzig",
+   "es": "90"
+  },
+  {
+   "id": "seed158",
+   "family": "Números 0–100",
+   "de": "einundneunzig",
+   "es": "91"
+  },
+  {
+   "id": "seed159",
+   "family": "Números 0–100",
+   "de": "zweiundneunzig",
+   "es": "92"
+  },
+  {
+   "id": "seed160",
+   "family": "Números 0–100",
+   "de": "dreiundneunzig",
+   "es": "93"
+  },
+  {
+   "id": "seed161",
+   "family": "Números 0–100",
+   "de": "vierundneunzig",
+   "es": "94"
+  },
+  {
+   "id": "seed162",
+   "family": "Números 0–100",
+   "de": "fünfundneunzig",
+   "es": "95"
+  },
+  {
+   "id": "seed163",
+   "family": "Números 0–100",
+   "de": "sechsundneunzig",
+   "es": "96"
+  },
+  {
+   "id": "seed164",
+   "family": "Números 0–100",
+   "de": "siebenundneunzig",
+   "es": "97"
+  },
+  {
+   "id": "seed165",
+   "family": "Números 0–100",
+   "de": "achtundneunzig",
+   "es": "98"
+  },
+  {
+   "id": "seed166",
+   "family": "Números 0–100",
+   "de": "neunundneunzig",
+   "es": "99"
+  },
+  {
+   "id": "seed167",
+   "family": "Números 0–100",
+   "de": "hundert",
+   "es": "100"
+  }
+ ]
+}
