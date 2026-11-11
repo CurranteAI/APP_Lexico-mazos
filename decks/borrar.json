@@ -1,0 +1,23 @@
+{
+ "format": "lexico-mazo",
+ "version": 1,
+ "deck": {
+  "id": "borrar",
+  "name": "borrar",
+  "status": "active"
+ },
+ "words": [
+  {
+   "id": "borrar-01",
+   "family": "Prueba",
+   "de": "das Haus",
+   "es": "casa"
+  },
+  {
+   "id": "borrar-02",
+   "family": "Prueba",
+   "de": "der Hund",
+   "es": "perro"
+  }
+ ]
+}
