@@ -1,7 +1,7 @@
 {
  "format": "lexico-catalogo",
  "version": 1,
- "updated": "2026-11-08",
+ "updated": "2026-11-11",
  "items": [
   {
    "kind": "deck",
@@ -28,6 +28,15 @@
    "description": "100 frases fáciles en dos niveles de dificultad.",
    "file": "decks/phrases-a1-100.json",
    "words": 100,
+   "version": 1
+  },
+  {
+   "kind": "deck",
+   "id": "borrar",
+   "name": "borrar",
+   "description": "Dos palabras para probar los estados de aprendizaje.",
+   "file": "decks/borrar.json",
+   "words": 2,
    "version": 1
   },
   {
