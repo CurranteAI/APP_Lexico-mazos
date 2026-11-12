@@ -31,15 +31,6 @@
       "version": 1
     },
     {
-      "kind": "deck",
-      "id": "borrar",
-      "name": "borrar",
-      "description": "Dos palabras para probar los estados de aprendizaje.",
-      "file": "decks/borrar.json",
-      "words": 2,
-      "version": 1
-    },
-    {
       "kind": "theory",
       "id": "gramatica",
       "name": "Gramática alemana",
