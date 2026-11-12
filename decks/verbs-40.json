@@ -1,0 +1,251 @@
+{
+  "format": "lexico-mazo",
+  "version": 1,
+  "deck": {
+    "id": "verbs-40",
+    "name": "40 verbos",
+    "status": "active"
+  },
+  "words": [
+    {
+      "id": "verb-40-organisieren",
+      "family": "01 · Dificultad 1",
+      "de": "organisieren",
+      "es": "organizar"
+    },
+    {
+      "id": "verb-40-telefonieren",
+      "family": "01 · Dificultad 1",
+      "de": "telefonieren",
+      "es": "hablar por teléfono"
+    },
+    {
+      "id": "verb-40-studieren",
+      "family": "01 · Dificultad 1",
+      "de": "studieren",
+      "es": "cursar estudios universitarios"
+    },
+    {
+      "id": "verb-40-bringen",
+      "family": "01 · Dificultad 1",
+      "de": "bringen",
+      "es": "traer / llevar"
+    },
+    {
+      "id": "verb-40-helfen",
+      "family": "02 · Dificultad 2",
+      "de": "helfen",
+      "es": "ayudar"
+    },
+    {
+      "id": "verb-40-hören",
+      "family": "02 · Dificultad 2",
+      "de": "hören",
+      "es": "oír / escuchar"
+    },
+    {
+      "id": "verb-40-sehen",
+      "family": "02 · Dificultad 2",
+      "de": "sehen",
+      "es": "ver"
+    },
+    {
+      "id": "verb-40-sitzen",
+      "family": "02 · Dificultad 2",
+      "de": "sitzen",
+      "es": "estar sentado"
+    },
+    {
+      "id": "verb-40-liegen",
+      "family": "03 · Dificultad 3",
+      "de": "liegen",
+      "es": "estar tumbado / estar situado"
+    },
+    {
+      "id": "verb-40-stehen",
+      "family": "03 · Dificultad 3",
+      "de": "stehen",
+      "es": "estar de pie / estar situado"
+    },
+    {
+      "id": "verb-40-hängen",
+      "family": "03 · Dificultad 3",
+      "de": "hängen",
+      "es": "colgar / estar colgado"
+    },
+    {
+      "id": "verb-40-schlafen",
+      "family": "03 · Dificultad 3",
+      "de": "schlafen",
+      "es": "dormir"
+    },
+    {
+      "id": "verb-40-kochen",
+      "family": "04 · Dificultad 4",
+      "de": "kochen",
+      "es": "cocinar"
+    },
+    {
+      "id": "verb-40-regnen",
+      "family": "04 · Dificultad 4",
+      "de": "regnen",
+      "es": "llover"
+    },
+    {
+      "id": "verb-40-warten",
+      "family": "04 · Dificultad 4",
+      "de": "warten",
+      "es": "esperar"
+    },
+    {
+      "id": "verb-40-nehmen",
+      "family": "04 · Dificultad 4",
+      "de": "nehmen",
+      "es": "tomar / coger"
+    },
+    {
+      "id": "verb-40-fahren",
+      "family": "05 · Dificultad 5",
+      "de": "fahren",
+      "es": "ir en un vehículo / conducir"
+    },
+    {
+      "id": "verb-40-sagen",
+      "family": "05 · Dificultad 5",
+      "de": "sagen",
+      "es": "decir"
+    },
+    {
+      "id": "verb-40-bleiben",
+      "family": "05 · Dificultad 5",
+      "de": "bleiben",
+      "es": "quedarse / permanecer"
+    },
+    {
+      "id": "verb-40-spielen",
+      "family": "05 · Dificultad 5",
+      "de": "spielen",
+      "es": "jugar / tocar un instrumento"
+    },
+    {
+      "id": "verb-40-lesen",
+      "family": "06 · Dificultad 6",
+      "de": "lesen",
+      "es": "leer"
+    },
+    {
+      "id": "verb-40-schreiben",
+      "family": "06 · Dificultad 6",
+      "de": "schreiben",
+      "es": "escribir"
+    },
+    {
+      "id": "verb-40-besuchen",
+      "family": "06 · Dificultad 6",
+      "de": "besuchen",
+      "es": "visitar"
+    },
+    {
+      "id": "verb-40-spazieren",
+      "family": "06 · Dificultad 6",
+      "de": "spazieren",
+      "es": "pasear"
+    },
+    {
+      "id": "verb-40-mitbringen",
+      "family": "07 · Dificultad 7",
+      "de": "mitbringen",
+      "es": "traer consigo"
+    },
+    {
+      "id": "verb-40-mitnehmen",
+      "family": "07 · Dificultad 7",
+      "de": "mitnehmen",
+      "es": "llevarse / llevar consigo"
+    },
+    {
+      "id": "verb-40-aufstehen",
+      "family": "07 · Dificultad 7",
+      "de": "aufstehen",
+      "es": "levantarse"
+    },
+    {
+      "id": "verb-40-anfangen",
+      "family": "07 · Dificultad 7",
+      "de": "anfangen",
+      "es": "empezar"
+    },
+    {
+      "id": "verb-40-einkaufen",
+      "family": "08 · Dificultad 8",
+      "de": "einkaufen",
+      "es": "hacer la compra"
+    },
+    {
+      "id": "verb-40-aufmachen",
+      "family": "08 · Dificultad 8",
+      "de": "aufmachen",
+      "es": "abrir"
+    },
+    {
+      "id": "verb-40-ausmachen",
+      "family": "08 · Dificultad 8",
+      "de": "ausmachen",
+      "es": "apagar"
+    },
+    {
+      "id": "verb-40-anrufen",
+      "family": "08 · Dificultad 8",
+      "de": "anrufen",
+      "es": "llamar por teléfono"
+    },
+    {
+      "id": "verb-40-aufräumen",
+      "family": "09 · Dificultad 9",
+      "de": "aufräumen",
+      "es": "ordenar / recoger"
+    },
+    {
+      "id": "verb-40-abwaschen",
+      "family": "09 · Dificultad 9",
+      "de": "abwaschen",
+      "es": "lavar los platos"
+    },
+    {
+      "id": "verb-40-zeigen",
+      "family": "09 · Dificultad 9",
+      "de": "zeigen",
+      "es": "mostrar / indicar"
+    },
+    {
+      "id": "verb-40-üben",
+      "family": "09 · Dificultad 9",
+      "de": "üben",
+      "es": "practicar"
+    },
+    {
+      "id": "verb-40-müssen",
+      "family": "10 · Dificultad 10",
+      "de": "müssen",
+      "es": "tener que / deber por necesidad"
+    },
+    {
+      "id": "verb-40-dürfen",
+      "family": "10 · Dificultad 10",
+      "de": "dürfen",
+      "es": "poder por permiso / tener permiso"
+    },
+    {
+      "id": "verb-40-sollen",
+      "family": "10 · Dificultad 10",
+      "de": "sollen",
+      "es": "deber por encargo o recomendación"
+    },
+    {
+      "id": "verb-40-glauben",
+      "family": "10 · Dificultad 10",
+      "de": "glauben",
+      "es": "creer"
+    }
+  ]
+}

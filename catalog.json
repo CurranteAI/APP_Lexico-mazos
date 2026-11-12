@@ -1,52 +1,61 @@
 {
- "format": "lexico-catalogo",
- "version": 1,
- "updated": "2026-11-11",
- "items": [
-  {
-   "kind": "deck",
-   "id": "a1",
-   "name": "Alemán · Primeros pasos",
-   "description": "Vocabulario básico: números, colores, verbos y palabras de uso diario.",
-   "file": "decks/a1.json",
-   "words": 168,
-   "version": 1
-  },
-  {
-   "kind": "deck",
-   "id": "nouns-a1-100",
-   "name": "Alemán · 100 sustantivos",
-   "description": "100 sustantivos básicos repartidos en diez temas.",
-   "file": "decks/nouns-a1-100.json",
-   "words": 100,
-   "version": 1
-  },
-  {
-   "kind": "deck",
-   "id": "phrases-a1-100",
-   "name": "Alemán · 100 frases fáciles",
-   "description": "100 frases fáciles en dos niveles de dificultad.",
-   "file": "decks/phrases-a1-100.json",
-   "words": 100,
-   "version": 1
-  },
-  {
-   "kind": "deck",
-   "id": "borrar",
-   "name": "borrar",
-   "description": "Dos palabras para probar los estados de aprendizaje.",
-   "file": "decks/borrar.json",
-   "words": 2,
-   "version": 1
-  },
-  {
-   "kind": "theory",
-   "id": "gramatica",
-   "name": "Gramática alemana",
-   "description": "Interrogativos, artículos, verbos y otras reglas con ejemplos.",
-   "file": "teoria/gramatica.json",
-   "sections": 13,
-   "version": 1
-  }
- ]
+  "format": "lexico-catalogo",
+  "version": 1,
+  "updated": "2026-11-12",
+  "items": [
+    {
+      "kind": "deck",
+      "id": "a1",
+      "name": "Alemán · Primeros pasos",
+      "description": "Vocabulario básico: números, colores, verbos y palabras de uso diario.",
+      "file": "decks/a1.json",
+      "words": 168,
+      "version": 1
+    },
+    {
+      "kind": "deck",
+      "id": "nouns-a1-100",
+      "name": "Alemán · 100 sustantivos",
+      "description": "100 sustantivos básicos repartidos en diez temas.",
+      "file": "decks/nouns-a1-100.json",
+      "words": 100,
+      "version": 1
+    },
+    {
+      "kind": "deck",
+      "id": "phrases-a1-100",
+      "name": "Alemán · 100 frases fáciles",
+      "description": "100 frases fáciles en dos niveles de dificultad.",
+      "file": "decks/phrases-a1-100.json",
+      "words": 100,
+      "version": 1
+    },
+    {
+      "kind": "deck",
+      "id": "borrar",
+      "name": "borrar",
+      "description": "Dos palabras para probar los estados de aprendizaje.",
+      "file": "decks/borrar.json",
+      "words": 2,
+      "version": 1
+    },
+    {
+      "kind": "theory",
+      "id": "gramatica",
+      "name": "Gramática alemana",
+      "description": "Interrogativos, artículos, verbos y otras reglas con ejemplos.",
+      "file": "teoria/gramatica.json",
+      "sections": 13,
+      "version": 1
+    },
+    {
+      "kind": "deck",
+      "id": "verbs-40",
+      "name": "40 verbos",
+      "description": "37 verbos de las 100 frases y 3 adicionales, en 10 submazos de 4. Orden orientativo por semejanza léxica con español, inglés y latín; no es una escala etimológica medida.",
+      "file": "decks/verbs-40.json",
+      "words": 40,
+      "version": 1
+    }
+  ]
 }
