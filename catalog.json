@@ -43,10 +43,10 @@
       "kind": "deck",
       "id": "verbs-40",
       "name": "40 verbos",
-      "description": "37 verbos de las 100 frases y 3 adicionales, en 10 submazos de 4. Orden orientativo por semejanza léxica con español, inglés y latín; no es una escala etimológica medida.",
+      "description": "37 verbos de las 100 frases y 3 adicionales, en 4 submazos de 10. Orden orientativo por semejanza léxica con español, inglés y latín; no es una escala etimológica medida.",
       "file": "decks/verbs-40.json",
       "words": 40,
-      "version": 1
+      "version": 2
     }
   ]
 }
