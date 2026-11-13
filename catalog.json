@@ -1,7 +1,7 @@
 {
   "format": "lexico-catalogo",
   "version": 1,
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "items": [
     {
       "kind": "deck",
@@ -47,6 +47,42 @@
       "file": "decks/verbs-40.json",
       "words": 40,
       "version": 2
+    },
+    {
+      "kind": "deck",
+      "id": "gramatica-contexto",
+      "name": "Gramática en contexto",
+      "description": "Palabras de la teoría (interrogativos, pronombres, artículos, posesivos, preposiciones…). No sabida: frase completa con la palabra resaltada; aprendida: la palabra sola.",
+      "file": "decks/gramatica-contexto.json",
+      "words": 161,
+      "version": 1
+    },
+    {
+      "kind": "deck",
+      "id": "a1-gemini",
+      "name": "Alemán · Primeros pasos (GEMINI)",
+      "description": "Versión alternativa con audio de la base GEMINI para comparar con el mazo original.",
+      "file": "decks/a1-gemini.json",
+      "words": 168,
+      "version": 1
+    },
+    {
+      "kind": "deck",
+      "id": "nouns-a1-100-gemini",
+      "name": "Alemán · 100 sustantivos (GEMINI)",
+      "description": "Versión alternativa con plural y audio de la base GEMINI para comparar con el mazo original.",
+      "file": "decks/nouns-a1-100-gemini.json",
+      "words": 100,
+      "version": 1
+    },
+    {
+      "kind": "deck",
+      "id": "verbs-40-gemini",
+      "name": "40 verbos (GEMINI)",
+      "description": "Versión alternativa con audio de la base GEMINI para comparar con el mazo original.",
+      "file": "decks/verbs-40-gemini.json",
+      "words": 40,
+      "version": 1
     }
   ]
 }

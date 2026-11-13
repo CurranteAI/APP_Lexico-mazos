@@ -1,0 +1,740 @@
+{
+ "format": "lexico-mazo",
+ "version": 1,
+ "deck": {
+  "id": "nouns-a1-100-gemini",
+  "name": "Alemán · 100 sustantivos (GEMINI)",
+  "status": "active"
+ },
+ "words": [
+  {
+   "id": "noun-a1-01-01-g",
+   "family": "Familia",
+   "de": "die Familie",
+   "es": "familia",
+   "plural": "die Familien"
+  },
+  {
+   "id": "noun-a1-01-02-g",
+   "family": "Familia",
+   "de": "die Mutter",
+   "es": "madre",
+   "plural": "die Mütter"
+  },
+  {
+   "id": "noun-a1-01-03-g",
+   "family": "Familia",
+   "de": "der Vater",
+   "es": "padre",
+   "audio": "audio/3f9a735c0bc70a6f.mp3",
+   "plural": "die Väter"
+  },
+  {
+   "id": "noun-a1-01-04-g",
+   "family": "Familia",
+   "de": "der Bruder",
+   "es": "hermano",
+   "plural": "die Brüder"
+  },
+  {
+   "id": "noun-a1-01-05-g",
+   "family": "Familia",
+   "de": "die Schwester",
+   "es": "hermana",
+   "plural": "die Schwestern"
+  },
+  {
+   "id": "noun-a1-01-06-g",
+   "family": "Familia",
+   "de": "der Sohn",
+   "es": "hijo",
+   "plural": "die Söhne"
+  },
+  {
+   "id": "noun-a1-01-07-g",
+   "family": "Familia",
+   "de": "die Tochter",
+   "es": "hija",
+   "audio": "audio/071e1075908fccaa.mp3",
+   "plural": "die Töchter"
+  },
+  {
+   "id": "noun-a1-01-08-g",
+   "family": "Familia",
+   "de": "die Großmutter",
+   "es": "abuela",
+   "audio": "audio/23e9eb3a561806d6.mp3",
+   "plural": "die Großmütter"
+  },
+  {
+   "id": "noun-a1-01-09-g",
+   "family": "Familia",
+   "de": "der Großvater",
+   "es": "abuelo",
+   "audio": "audio/0e3d33a7e89d7673.mp3",
+   "plural": "die Großväter"
+  },
+  {
+   "id": "noun-a1-01-10-g",
+   "family": "Familia",
+   "de": "das Kind",
+   "es": "niño/a",
+   "audio": "audio/26a424c556ee6f7d.mp3",
+   "plural": "die Kinder"
+  },
+  {
+   "id": "noun-a1-02-01-g",
+   "family": "Casa y muebles",
+   "de": "das Haus",
+   "es": "casa",
+   "audio": "audio/0fa385f9e6169b89.mp3",
+   "plural": "die Häuser"
+  },
+  {
+   "id": "noun-a1-02-02-g",
+   "family": "Casa y muebles",
+   "de": "die Wohnung",
+   "es": "vivienda / piso",
+   "plural": "die Wohnungen"
+  },
+  {
+   "id": "noun-a1-02-03-g",
+   "family": "Casa y muebles",
+   "de": "das Zimmer",
+   "es": "habitación",
+   "plural": "die Zimmer"
+  },
+  {
+   "id": "noun-a1-02-04-g",
+   "family": "Casa y muebles",
+   "de": "die Küche",
+   "es": "cocina",
+   "plural": "die Küchen"
+  },
+  {
+   "id": "noun-a1-02-05-g",
+   "family": "Casa y muebles",
+   "de": "das Badezimmer",
+   "es": "cuarto de baño",
+   "plural": "die Badezimmer"
+  },
+  {
+   "id": "noun-a1-02-06-g",
+   "family": "Casa y muebles",
+   "de": "die Tür",
+   "es": "puerta",
+   "audio": "audio/26f26b8647c4361c.mp3",
+   "plural": "die Türen"
+  },
+  {
+   "id": "noun-a1-02-07-g",
+   "family": "Casa y muebles",
+   "de": "das Fenster",
+   "es": "ventana",
+   "audio": "audio/1307bd94224c377d.mp3",
+   "plural": "die Fenster"
+  },
+  {
+   "id": "noun-a1-02-08-g",
+   "family": "Casa y muebles",
+   "de": "der Tisch",
+   "es": "mesa",
+   "audio": "audio/7797767fd1a61164.mp3",
+   "plural": "die Tische"
+  },
+  {
+   "id": "noun-a1-02-09-g",
+   "family": "Casa y muebles",
+   "de": "der Stuhl",
+   "es": "silla",
+   "plural": "die Stühle"
+  },
+  {
+   "id": "noun-a1-02-10-g",
+   "family": "Casa y muebles",
+   "de": "das Bett",
+   "es": "cama",
+   "audio": "audio/5392175efaef2c98.mp3",
+   "plural": "die Betten"
+  },
+  {
+   "id": "noun-a1-03-01-g",
+   "family": "Alimentos",
+   "de": "das Brot",
+   "es": "pan",
+   "audio": "audio/132d3b0e47c21fef.mp3",
+   "plural": "die Brote"
+  },
+  {
+   "id": "noun-a1-03-02-g",
+   "family": "Alimentos",
+   "de": "der Reis",
+   "es": "arroz",
+   "audio": "audio/3e8932eb6ffa10f8.mp3"
+  },
+  {
+   "id": "noun-a1-03-03-g",
+   "family": "Alimentos",
+   "de": "der Käse",
+   "es": "queso",
+   "audio": "audio/110931f271134d28.mp3",
+   "plural": "die Käse"
+  },
+  {
+   "id": "noun-a1-03-04-g",
+   "family": "Alimentos",
+   "de": "das Ei",
+   "es": "huevo",
+   "plural": "die Eier"
+  },
+  {
+   "id": "noun-a1-03-05-g",
+   "family": "Alimentos",
+   "de": "der Apfel",
+   "es": "manzana",
+   "plural": "die Äpfel"
+  },
+  {
+   "id": "noun-a1-03-06-g",
+   "family": "Alimentos",
+   "de": "die Banane",
+   "es": "plátano",
+   "plural": "die Bananen"
+  },
+  {
+   "id": "noun-a1-03-07-g",
+   "family": "Alimentos",
+   "de": "die Kartoffel",
+   "es": "patata",
+   "plural": "die Kartoffeln"
+  },
+  {
+   "id": "noun-a1-03-08-g",
+   "family": "Alimentos",
+   "de": "die Tomate",
+   "es": "tomate",
+   "audio": "audio/32e502e200214dd0.mp3",
+   "plural": "die Tomaten"
+  },
+  {
+   "id": "noun-a1-03-09-g",
+   "family": "Alimentos",
+   "de": "der Fisch",
+   "es": "pescado / pez",
+   "audio": "audio/0f55da38fdfb520c.mp3",
+   "plural": "die Fische"
+  },
+  {
+   "id": "noun-a1-03-10-g",
+   "family": "Alimentos",
+   "de": "das Fleisch",
+   "es": "carne",
+   "audio": "audio/0f1d23a3477a896f.mp3"
+  },
+  {
+   "id": "noun-a1-04-01-g",
+   "family": "Bebidas",
+   "de": "das Wasser",
+   "es": "agua",
+   "audio": "audio/128b03f2f903739b.mp3",
+   "plural": "die Wasser"
+  },
+  {
+   "id": "noun-a1-04-02-g",
+   "family": "Bebidas",
+   "de": "die Milch",
+   "es": "leche",
+   "audio": "audio/1b7da4f94f468855.mp3"
+  },
+  {
+   "id": "noun-a1-04-03-g",
+   "family": "Bebidas",
+   "de": "der Kaffee",
+   "es": "café",
+   "audio": "audio/3e650e91edb49f49.mp3",
+   "plural": "die Kaffees"
+  },
+  {
+   "id": "noun-a1-04-04-g",
+   "family": "Bebidas",
+   "de": "der Tee",
+   "es": "té",
+   "plural": "die Tees"
+  },
+  {
+   "id": "noun-a1-04-05-g",
+   "family": "Bebidas",
+   "de": "der Saft",
+   "es": "zumo",
+   "plural": "die Säfte"
+  },
+  {
+   "id": "noun-a1-04-06-g",
+   "family": "Bebidas",
+   "de": "das Bier",
+   "es": "cerveza",
+   "plural": "die Biere"
+  },
+  {
+   "id": "noun-a1-04-07-g",
+   "family": "Bebidas",
+   "de": "der Wein",
+   "es": "vino",
+   "audio": "audio/0b6d63b74753062d.mp3",
+   "plural": "die Weine"
+  },
+  {
+   "id": "noun-a1-04-08-g",
+   "family": "Bebidas",
+   "de": "die Limonade",
+   "es": "refresco de frutas",
+   "plural": "die Limonaden"
+  },
+  {
+   "id": "noun-a1-04-09-g",
+   "family": "Bebidas",
+   "de": "die Cola",
+   "es": "refresco de cola",
+   "plural": "die Colas"
+  },
+  {
+   "id": "noun-a1-04-10-g",
+   "family": "Bebidas",
+   "de": "der Kakao",
+   "es": "cacao / bebida de cacao",
+   "plural": "die Kakaos"
+  },
+  {
+   "id": "noun-a1-05-01-g",
+   "family": "Cuerpo humano",
+   "de": "der Kopf",
+   "es": "cabeza",
+   "audio": "audio/1fa97d6ee17fcd63.mp3",
+   "plural": "die Köpfe"
+  },
+  {
+   "id": "noun-a1-05-02-g",
+   "family": "Cuerpo humano",
+   "de": "das Gesicht",
+   "es": "cara",
+   "audio": "audio/08649f68fa83d32b.mp3",
+   "plural": "die Gesichter"
+  },
+  {
+   "id": "noun-a1-05-03-g",
+   "family": "Cuerpo humano",
+   "de": "das Auge",
+   "es": "ojo",
+   "plural": "die Augen"
+  },
+  {
+   "id": "noun-a1-05-04-g",
+   "family": "Cuerpo humano",
+   "de": "das Ohr",
+   "es": "oreja / oído",
+   "plural": "die Ohren"
+  },
+  {
+   "id": "noun-a1-05-05-g",
+   "family": "Cuerpo humano",
+   "de": "die Nase",
+   "es": "nariz",
+   "plural": "die Nasen"
+  },
+  {
+   "id": "noun-a1-05-06-g",
+   "family": "Cuerpo humano",
+   "de": "der Mund",
+   "es": "boca",
+   "plural": "die Münder"
+  },
+  {
+   "id": "noun-a1-05-07-g",
+   "family": "Cuerpo humano",
+   "de": "der Arm",
+   "es": "brazo",
+   "audio": "audio/02f6014bf1c26a02.mp3",
+   "plural": "die Arme"
+  },
+  {
+   "id": "noun-a1-05-08-g",
+   "family": "Cuerpo humano",
+   "de": "die Hand",
+   "es": "mano",
+   "plural": "die Hände"
+  },
+  {
+   "id": "noun-a1-05-09-g",
+   "family": "Cuerpo humano",
+   "de": "das Bein",
+   "es": "pierna",
+   "plural": "die Beine"
+  },
+  {
+   "id": "noun-a1-05-10-g",
+   "family": "Cuerpo humano",
+   "de": "der Fuß",
+   "es": "pie",
+   "plural": "die Füße"
+  },
+  {
+   "id": "noun-a1-06-01-g",
+   "family": "Ropa y accesorios",
+   "de": "das Hemd",
+   "es": "camisa",
+   "plural": "die Hemden"
+  },
+  {
+   "id": "noun-a1-06-02-g",
+   "family": "Ropa y accesorios",
+   "de": "das T-Shirt",
+   "es": "camiseta",
+   "plural": "die T-Shirts"
+  },
+  {
+   "id": "noun-a1-06-03-g",
+   "family": "Ropa y accesorios",
+   "de": "die Hose",
+   "es": "pantalón",
+   "plural": "die Hosen"
+  },
+  {
+   "id": "noun-a1-06-04-g",
+   "family": "Ropa y accesorios",
+   "de": "der Pullover",
+   "es": "jersey",
+   "plural": "die Pullover"
+  },
+  {
+   "id": "noun-a1-06-05-g",
+   "family": "Ropa y accesorios",
+   "de": "die Jacke",
+   "es": "chaqueta",
+   "audio": "audio/7ebe1a549e1665f9.mp3",
+   "plural": "die Jacken"
+  },
+  {
+   "id": "noun-a1-06-06-g",
+   "family": "Ropa y accesorios",
+   "de": "der Mantel",
+   "es": "abrigo",
+   "plural": "die Mäntel"
+  },
+  {
+   "id": "noun-a1-06-07-g",
+   "family": "Ropa y accesorios",
+   "de": "das Kleid",
+   "es": "vestido",
+   "plural": "die Kleider"
+  },
+  {
+   "id": "noun-a1-06-08-g",
+   "family": "Ropa y accesorios",
+   "de": "der Rock",
+   "es": "falda",
+   "plural": "die Röcke"
+  },
+  {
+   "id": "noun-a1-06-09-g",
+   "family": "Ropa y accesorios",
+   "de": "der Schuh",
+   "es": "zapato",
+   "plural": "die Schuhe"
+  },
+  {
+   "id": "noun-a1-06-10-g",
+   "family": "Ropa y accesorios",
+   "de": "die Socke",
+   "es": "calcetín",
+   "plural": "die Socken"
+  },
+  {
+   "id": "noun-a1-07-01-g",
+   "family": "Ciudad y lugares",
+   "de": "die Stadt",
+   "es": "ciudad",
+   "audio": "audio/97097a909d5e4be6.mp3",
+   "plural": "die Städte"
+  },
+  {
+   "id": "noun-a1-07-02-g",
+   "family": "Ciudad y lugares",
+   "de": "das Dorf",
+   "es": "pueblo",
+   "plural": "die Dörfer"
+  },
+  {
+   "id": "noun-a1-07-03-g",
+   "family": "Ciudad y lugares",
+   "de": "die Straße",
+   "es": "calle",
+   "plural": "die Straßen"
+  },
+  {
+   "id": "noun-a1-07-04-g",
+   "family": "Ciudad y lugares",
+   "de": "der Platz",
+   "es": "plaza",
+   "audio": "audio/2b308a3d736ba072.mp3",
+   "plural": "die Plätze"
+  },
+  {
+   "id": "noun-a1-07-05-g",
+   "family": "Ciudad y lugares",
+   "de": "der Park",
+   "es": "parque",
+   "plural": "die Parks"
+  },
+  {
+   "id": "noun-a1-07-06-g",
+   "family": "Ciudad y lugares",
+   "de": "der Supermarkt",
+   "es": "supermercado",
+   "plural": "die Supermärkte"
+  },
+  {
+   "id": "noun-a1-07-07-g",
+   "family": "Ciudad y lugares",
+   "de": "die Apotheke",
+   "es": "farmacia",
+   "plural": "die Apotheken"
+  },
+  {
+   "id": "noun-a1-07-08-g",
+   "family": "Ciudad y lugares",
+   "de": "das Krankenhaus",
+   "es": "hospital",
+   "plural": "die Krankenhäuser"
+  },
+  {
+   "id": "noun-a1-07-09-g",
+   "family": "Ciudad y lugares",
+   "de": "die Bank",
+   "es": "banco",
+   "plural": "die Bänke"
+  },
+  {
+   "id": "noun-a1-07-10-g",
+   "family": "Ciudad y lugares",
+   "de": "das Restaurant",
+   "es": "restaurante",
+   "plural": "die Restaurants"
+  },
+  {
+   "id": "noun-a1-08-01-g",
+   "family": "Transporte y viajes",
+   "de": "das Auto",
+   "es": "coche",
+   "plural": "die Autos"
+  },
+  {
+   "id": "noun-a1-08-02-g",
+   "family": "Transporte y viajes",
+   "de": "der Bus",
+   "es": "autobús",
+   "plural": "die Busse"
+  },
+  {
+   "id": "noun-a1-08-03-g",
+   "family": "Transporte y viajes",
+   "de": "der Zug",
+   "es": "tren",
+   "plural": "die Züge"
+  },
+  {
+   "id": "noun-a1-08-04-g",
+   "family": "Transporte y viajes",
+   "de": "das Fahrrad",
+   "es": "bicicleta",
+   "plural": "die Fahrräder"
+  },
+  {
+   "id": "noun-a1-08-05-g",
+   "family": "Transporte y viajes",
+   "de": "das Motorrad",
+   "es": "motocicleta",
+   "plural": "die Motorräder"
+  },
+  {
+   "id": "noun-a1-08-06-g",
+   "family": "Transporte y viajes",
+   "de": "das Flugzeug",
+   "es": "avión",
+   "plural": "die Flugzeuge"
+  },
+  {
+   "id": "noun-a1-08-07-g",
+   "family": "Transporte y viajes",
+   "de": "das Schiff",
+   "es": "barco",
+   "plural": "die Schiffe"
+  },
+  {
+   "id": "noun-a1-08-08-g",
+   "family": "Transporte y viajes",
+   "de": "der Bahnhof",
+   "es": "estación de tren",
+   "plural": "die Bahnhöfe"
+  },
+  {
+   "id": "noun-a1-08-09-g",
+   "family": "Transporte y viajes",
+   "de": "der Flughafen",
+   "es": "aeropuerto",
+   "plural": "die Flughäfen"
+  },
+  {
+   "id": "noun-a1-08-10-g",
+   "family": "Transporte y viajes",
+   "de": "die Fahrkarte",
+   "es": "billete de transporte",
+   "plural": "die Fahrkarten"
+  },
+  {
+   "id": "noun-a1-09-01-g",
+   "family": "Tiempo y calendario",
+   "de": "der Tag",
+   "es": "día",
+   "plural": "die Tage"
+  },
+  {
+   "id": "noun-a1-09-02-g",
+   "family": "Tiempo y calendario",
+   "de": "die Woche",
+   "es": "semana",
+   "audio": "audio/1ded6503739ddeb1.mp3",
+   "plural": "die Wochen"
+  },
+  {
+   "id": "noun-a1-09-03-g",
+   "family": "Tiempo y calendario",
+   "de": "der Monat",
+   "es": "mes",
+   "audio": "audio/0d67f849782264ba.mp3",
+   "plural": "die Monate"
+  },
+  {
+   "id": "noun-a1-09-04-g",
+   "family": "Tiempo y calendario",
+   "de": "das Jahr",
+   "es": "año",
+   "plural": "die Jahre"
+  },
+  {
+   "id": "noun-a1-09-05-g",
+   "family": "Tiempo y calendario",
+   "de": "die Stunde",
+   "es": "hora",
+   "plural": "die Stunden"
+  },
+  {
+   "id": "noun-a1-09-06-g",
+   "family": "Tiempo y calendario",
+   "de": "die Minute",
+   "es": "minuto",
+   "plural": "die Minuten"
+  },
+  {
+   "id": "noun-a1-09-07-g",
+   "family": "Tiempo y calendario",
+   "de": "die Sekunde",
+   "es": "segundo",
+   "audio": "audio/9638e9c802dfbfc4.mp3",
+   "plural": "die Sekunden"
+  },
+  {
+   "id": "noun-a1-09-08-g",
+   "family": "Tiempo y calendario",
+   "de": "der Morgen",
+   "es": "mañana (parte del día)",
+   "plural": "die Morgen"
+  },
+  {
+   "id": "noun-a1-09-09-g",
+   "family": "Tiempo y calendario",
+   "de": "der Abend",
+   "es": "tarde / noche (antes de acostarse)",
+   "plural": "die Abende"
+  },
+  {
+   "id": "noun-a1-09-10-g",
+   "family": "Tiempo y calendario",
+   "de": "die Nacht",
+   "es": "noche",
+   "audio": "audio/00439a4fe319b3f7.mp3",
+   "plural": "die Nächte"
+  },
+  {
+   "id": "noun-a1-10-01-g",
+   "family": "Estudios y material",
+   "de": "das Buch",
+   "es": "libro",
+   "plural": "die Bücher"
+  },
+  {
+   "id": "noun-a1-10-02-g",
+   "family": "Estudios y material",
+   "de": "das Heft",
+   "es": "cuaderno",
+   "plural": "die Hefte"
+  },
+  {
+   "id": "noun-a1-10-03-g",
+   "family": "Estudios y material",
+   "de": "der Stift",
+   "es": "lápiz / bolígrafo",
+   "plural": "die Stifte"
+  },
+  {
+   "id": "noun-a1-10-04-g",
+   "family": "Estudios y material",
+   "de": "das Papier",
+   "es": "papel",
+   "audio": "audio/4918d204370da5a4.mp3",
+   "plural": "die Papiere"
+  },
+  {
+   "id": "noun-a1-10-05-g",
+   "family": "Estudios y material",
+   "de": "die Schule",
+   "es": "escuela",
+   "plural": "die Schulen"
+  },
+  {
+   "id": "noun-a1-10-06-g",
+   "family": "Estudios y material",
+   "de": "die Universität",
+   "es": "universidad",
+   "audio": "audio/7e7b2bcafa9bb471.mp3",
+   "plural": "die Universitäten"
+  },
+  {
+   "id": "noun-a1-10-07-g",
+   "family": "Estudios y material",
+   "de": "der Lehrer",
+   "es": "profesor",
+   "plural": "die Lehrer"
+  },
+  {
+   "id": "noun-a1-10-08-g",
+   "family": "Estudios y material",
+   "de": "die Lehrerin",
+   "es": "profesora",
+   "plural": "die Lehrerinnen"
+  },
+  {
+   "id": "noun-a1-10-09-g",
+   "family": "Estudios y material",
+   "de": "die Prüfung",
+   "es": "examen",
+   "plural": "die Prüfungen"
+  },
+  {
+   "id": "noun-a1-10-10-g",
+   "family": "Estudios y material",
+   "de": "die Aufgabe",
+   "es": "tarea / ejercicio",
+   "plural": "die Aufgaben"
+  }
+ ]
+}

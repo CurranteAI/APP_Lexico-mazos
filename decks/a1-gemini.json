@@ -1,0 +1,1088 @@
+{
+ "format": "lexico-mazo",
+ "version": 1,
+ "deck": {
+  "id": "a1-gemini",
+  "name": "Alemán · Primeros pasos (GEMINI)",
+  "status": "active"
+ },
+ "words": [
+  {
+   "id": "seed0-g",
+   "family": "Pronombres personales",
+   "de": "ich",
+   "es": "yo",
+   "audio": "audio/236dee369f2416f4.mp3"
+  },
+  {
+   "id": "seed1-g",
+   "family": "Pronombres personales",
+   "de": "du",
+   "es": "tú",
+   "audio": "audio/4f3f4db13fd85131.mp3"
+  },
+  {
+   "id": "seed2-g",
+   "family": "Pronombres personales",
+   "de": "er",
+   "es": "él",
+   "audio": "audio/44a6211c8f17e432.mp3"
+  },
+  {
+   "id": "seed3-g",
+   "family": "Pronombres personales",
+   "de": "sie",
+   "es": "ella",
+   "audio": "audio/69072181b6359273.mp3"
+  },
+  {
+   "id": "seed4-g",
+   "family": "Pronombres personales",
+   "de": "es",
+   "es": "ello; neutro",
+   "audio": "audio/2ac30a43e6ace9ce.mp3"
+  },
+  {
+   "id": "seed5-g",
+   "family": "Pronombres personales",
+   "de": "wir",
+   "es": "nosotros/as",
+   "audio": "audio/4b72e3fe45f747a0.mp3"
+  },
+  {
+   "id": "seed6-g",
+   "family": "Pronombres personales",
+   "de": "ihr",
+   "es": "vosotros/as",
+   "audio": "audio/06d2494f2a0ad533.mp3"
+  },
+  {
+   "id": "seed7-g",
+   "family": "Pronombres personales",
+   "de": "sie",
+   "es": "ellos/as",
+   "audio": "audio/69072181b6359273.mp3"
+  },
+  {
+   "id": "seed8-g",
+   "family": "Pronombres personales",
+   "de": "Sie",
+   "es": "usted / ustedes",
+   "audio": "audio/69072181b6359273.mp3"
+  },
+  {
+   "id": "seed9-g",
+   "family": "Artículos",
+   "de": "der Mann",
+   "es": "el hombre"
+  },
+  {
+   "id": "seed10-g",
+   "family": "Artículos",
+   "de": "die Frau",
+   "es": "la mujer"
+  },
+  {
+   "id": "seed11-g",
+   "family": "Artículos",
+   "de": "das Kind",
+   "es": "el niño / la niña",
+   "audio": "audio/26a424c556ee6f7d.mp3"
+  },
+  {
+   "id": "seed12-g",
+   "family": "Artículos",
+   "de": "die Kinder",
+   "es": "los niños / las niñas"
+  },
+  {
+   "id": "seed13-g",
+   "family": "Artículos",
+   "de": "ein Mann",
+   "es": "un hombre"
+  },
+  {
+   "id": "seed14-g",
+   "family": "Artículos",
+   "de": "eine Frau",
+   "es": "una mujer"
+  },
+  {
+   "id": "seed15-g",
+   "family": "Artículos",
+   "de": "ein Kind",
+   "es": "un niño / una niña"
+  },
+  {
+   "id": "seed16-g",
+   "family": "Verbos esenciales",
+   "de": "sein",
+   "es": "ser / estar",
+   "audio": "audio/01bac7362113bc24.mp3"
+  },
+  {
+   "id": "seed17-g",
+   "family": "Verbos esenciales",
+   "de": "haben",
+   "es": "tener",
+   "audio": "audio/0236221364f858e1.mp3"
+  },
+  {
+   "id": "seed18-g",
+   "family": "Verbos esenciales",
+   "de": "heißen",
+   "es": "llamarse",
+   "audio": "audio/37112dcbe34f58a1.mp3"
+  },
+  {
+   "id": "seed19-g",
+   "family": "Verbos esenciales",
+   "de": "kommen",
+   "es": "venir",
+   "audio": "audio/5e29352ffee24790.mp3"
+  },
+  {
+   "id": "seed20-g",
+   "family": "Verbos esenciales",
+   "de": "wohnen",
+   "es": "vivir / residir",
+   "audio": "audio/22259aae899ff1c2.mp3"
+  },
+  {
+   "id": "seed21-g",
+   "family": "Verbos esenciales",
+   "de": "sprechen",
+   "es": "hablar"
+  },
+  {
+   "id": "seed22-g",
+   "family": "Verbos esenciales",
+   "de": "lernen",
+   "es": "aprender"
+  },
+  {
+   "id": "seed23-g",
+   "family": "Verbos esenciales",
+   "de": "gehen",
+   "es": "ir / andar"
+  },
+  {
+   "id": "seed24-g",
+   "family": "Verbos esenciales",
+   "de": "brauchen",
+   "es": "necesitar"
+  },
+  {
+   "id": "seed25-g",
+   "family": "Verbos esenciales",
+   "de": "mögen",
+   "es": "gustar"
+  },
+  {
+   "id": "seed26-g",
+   "family": "Verbos esenciales",
+   "de": "essen",
+   "es": "comer"
+  },
+  {
+   "id": "seed27-g",
+   "family": "Verbos esenciales",
+   "de": "trinken",
+   "es": "beber",
+   "audio": "audio/1197511a14069534.mp3"
+  },
+  {
+   "id": "seed28-g",
+   "family": "Verbos esenciales",
+   "de": "machen",
+   "es": "hacer"
+  },
+  {
+   "id": "seed29-g",
+   "family": "Verbos esenciales",
+   "de": "arbeiten",
+   "es": "trabajar"
+  },
+  {
+   "id": "seed30-g",
+   "family": "Verbos esenciales",
+   "de": "kaufen",
+   "es": "comprar"
+  },
+  {
+   "id": "seed31-g",
+   "family": "Verbos esenciales",
+   "de": "suchen",
+   "es": "buscar",
+   "audio": "audio/00b038ffb13b2b7c.mp3"
+  },
+  {
+   "id": "seed32-g",
+   "family": "Verbos esenciales",
+   "de": "verstehen",
+   "es": "entender",
+   "audio": "audio/0a0632c3ab5e6a99.mp3"
+  },
+  {
+   "id": "seed33-g",
+   "family": "Verbos esenciales",
+   "de": "können",
+   "es": "poder"
+  },
+  {
+   "id": "seed34-g",
+   "family": "Verbos esenciales",
+   "de": "wollen",
+   "es": "querer"
+  },
+  {
+   "id": "seed35-g",
+   "family": "Verbos esenciales",
+   "de": "wissen",
+   "es": "saber un dato"
+  },
+  {
+   "id": "seed36-g",
+   "family": "Preguntas",
+   "de": "wer",
+   "es": "quién",
+   "audio": "audio/9961245b3972fc46.mp3"
+  },
+  {
+   "id": "seed37-g",
+   "family": "Preguntas",
+   "de": "was",
+   "es": "qué",
+   "audio": "audio/89cda82312fbf0c0.mp3"
+  },
+  {
+   "id": "seed38-g",
+   "family": "Preguntas",
+   "de": "wo",
+   "es": "dónde",
+   "audio": "audio/88e2ea7a1e6624e1.mp3"
+  },
+  {
+   "id": "seed39-g",
+   "family": "Preguntas",
+   "de": "wohin",
+   "es": "adónde"
+  },
+  {
+   "id": "seed40-g",
+   "family": "Preguntas",
+   "de": "woher",
+   "es": "de dónde",
+   "audio": "audio/1aa6f7df961cd227.mp3"
+  },
+  {
+   "id": "seed41-g",
+   "family": "Preguntas",
+   "de": "wie",
+   "es": "cómo",
+   "audio": "audio/64f6439a43dc4ff6.mp3"
+  },
+  {
+   "id": "seed42-g",
+   "family": "Preguntas",
+   "de": "wann",
+   "es": "cuándo",
+   "audio": "audio/6f2fa80f3c310967.mp3"
+  },
+  {
+   "id": "seed43-g",
+   "family": "Preguntas",
+   "de": "warum",
+   "es": "por qué",
+   "audio": "audio/b508c4a8b6cca62d.mp3"
+  },
+  {
+   "id": "seed44-g",
+   "family": "Preguntas",
+   "de": "wie viel",
+   "es": "cuánto",
+   "audio": "audio/1311096e4a0dd0b5.mp3"
+  },
+  {
+   "id": "seed45-g",
+   "family": "Saludos y expresiones",
+   "de": "Hallo",
+   "es": "Hola",
+   "audio": "audio/09bf99c2bfedf6f2.mp3"
+  },
+  {
+   "id": "seed46-g",
+   "family": "Saludos y expresiones",
+   "de": "Guten Morgen",
+   "es": "Buenos días"
+  },
+  {
+   "id": "seed47-g",
+   "family": "Saludos y expresiones",
+   "de": "Guten Tag",
+   "es": "Buenos días / buenas tardes",
+   "audio": "audio/a593c8c94501dc00.mp3"
+  },
+  {
+   "id": "seed48-g",
+   "family": "Saludos y expresiones",
+   "de": "Guten Abend",
+   "es": "Buenas tardes / noches al llegar"
+  },
+  {
+   "id": "seed49-g",
+   "family": "Saludos y expresiones",
+   "de": "Gute Nacht",
+   "es": "Buenas noches antes de dormir"
+  },
+  {
+   "id": "seed50-g",
+   "family": "Saludos y expresiones",
+   "de": "Tschüss",
+   "es": "Adiós informal"
+  },
+  {
+   "id": "seed51-g",
+   "family": "Saludos y expresiones",
+   "de": "Auf Wiedersehen",
+   "es": "Adiós formal"
+  },
+  {
+   "id": "seed52-g",
+   "family": "Saludos y expresiones",
+   "de": "bitte",
+   "es": "por favor / de nada",
+   "audio": "audio/c77a3c6d19676e4e.mp3"
+  },
+  {
+   "id": "seed53-g",
+   "family": "Saludos y expresiones",
+   "de": "danke",
+   "es": "gracias",
+   "audio": "audio/9d326e28289c6669.mp3"
+  },
+  {
+   "id": "seed54-g",
+   "family": "Saludos y expresiones",
+   "de": "Entschuldigung",
+   "es": "perdón"
+  },
+  {
+   "id": "seed55-g",
+   "family": "Saludos y expresiones",
+   "de": "Ich heiße Roi.",
+   "es": "Me llamo Roi."
+  },
+  {
+   "id": "seed56-g",
+   "family": "Saludos y expresiones",
+   "de": "Ich brauche Hilfe.",
+   "es": "Necesito ayuda."
+  },
+  {
+   "id": "seed57-g",
+   "family": "Colores",
+   "de": "schwarz",
+   "es": "negro",
+   "audio": "audio/46e7a7dbef5efd6a.mp3"
+  },
+  {
+   "id": "seed58-g",
+   "family": "Colores",
+   "de": "weiß",
+   "es": "blanco",
+   "audio": "audio/58e7bf9b348b74a2.mp3"
+  },
+  {
+   "id": "seed59-g",
+   "family": "Colores",
+   "de": "rot",
+   "es": "rojo",
+   "audio": "audio/32e941ce9af6aff9.mp3"
+  },
+  {
+   "id": "seed60-g",
+   "family": "Colores",
+   "de": "blau",
+   "es": "azul",
+   "audio": "audio/84ec2caae6e42991.mp3"
+  },
+  {
+   "id": "seed61-g",
+   "family": "Colores",
+   "de": "grün",
+   "es": "verde",
+   "audio": "audio/1ea225d5a6c053ea.mp3"
+  },
+  {
+   "id": "seed62-g",
+   "family": "Colores",
+   "de": "gelb",
+   "es": "amarillo",
+   "audio": "audio/0a943535d15363df.mp3"
+  },
+  {
+   "id": "seed63-g",
+   "family": "Colores",
+   "de": "orange",
+   "es": "naranja",
+   "audio": "audio/2198b25f439c8832.mp3"
+  },
+  {
+   "id": "seed64-g",
+   "family": "Colores",
+   "de": "rosa",
+   "es": "rosa",
+   "audio": "audio/795779edb572953c.mp3"
+  },
+  {
+   "id": "seed65-g",
+   "family": "Colores",
+   "de": "lila",
+   "es": "violeta"
+  },
+  {
+   "id": "seed66-g",
+   "family": "Colores",
+   "de": "grau",
+   "es": "gris",
+   "audio": "audio/6be27424690b9bfa.mp3"
+  },
+  {
+   "id": "seed67-g",
+   "family": "Números 0–100",
+   "de": "null",
+   "es": "0",
+   "audio": "audio/44cc0bddc8b02a27.mp3"
+  },
+  {
+   "id": "seed68-g",
+   "family": "Números 0–100",
+   "de": "eins",
+   "es": "1",
+   "audio": "audio/06f2bf4d18decdad.mp3"
+  },
+  {
+   "id": "seed69-g",
+   "family": "Números 0–100",
+   "de": "zwei",
+   "es": "2",
+   "audio": "audio/374b377ee9c420c4.mp3"
+  },
+  {
+   "id": "seed70-g",
+   "family": "Números 0–100",
+   "de": "drei",
+   "es": "3",
+   "audio": "audio/3d771ecdd17db512.mp3"
+  },
+  {
+   "id": "seed71-g",
+   "family": "Números 0–100",
+   "de": "vier",
+   "es": "4",
+   "audio": "audio/12e329212dd6882a.mp3"
+  },
+  {
+   "id": "seed72-g",
+   "family": "Números 0–100",
+   "de": "fünf",
+   "es": "5",
+   "audio": "audio/73dba697cfbb44a5.mp3"
+  },
+  {
+   "id": "seed73-g",
+   "family": "Números 0–100",
+   "de": "sechs",
+   "es": "6",
+   "audio": "audio/51515b6435a118ae.mp3"
+  },
+  {
+   "id": "seed74-g",
+   "family": "Números 0–100",
+   "de": "sieben",
+   "es": "7",
+   "audio": "audio/6bce77b850ed17bd.mp3"
+  },
+  {
+   "id": "seed75-g",
+   "family": "Números 0–100",
+   "de": "acht",
+   "es": "8",
+   "audio": "audio/24cabb3b7ca04b39.mp3"
+  },
+  {
+   "id": "seed76-g",
+   "family": "Números 0–100",
+   "de": "neun",
+   "es": "9",
+   "audio": "audio/5da000cde9f071f4.mp3"
+  },
+  {
+   "id": "seed77-g",
+   "family": "Números 0–100",
+   "de": "zehn",
+   "es": "10",
+   "audio": "audio/01ced8fc2279e695.mp3"
+  },
+  {
+   "id": "seed78-g",
+   "family": "Números 0–100",
+   "de": "elf",
+   "es": "11",
+   "audio": "audio/0e0521b8f31febaa.mp3"
+  },
+  {
+   "id": "seed79-g",
+   "family": "Números 0–100",
+   "de": "zwölf",
+   "es": "12",
+   "audio": "audio/07d807ae519d5489.mp3"
+  },
+  {
+   "id": "seed80-g",
+   "family": "Números 0–100",
+   "de": "dreizehn",
+   "es": "13",
+   "audio": "audio/3bbe1b7c6b455016.mp3"
+  },
+  {
+   "id": "seed81-g",
+   "family": "Números 0–100",
+   "de": "vierzehn",
+   "es": "14",
+   "audio": "audio/3bdd844126c72273.mp3"
+  },
+  {
+   "id": "seed82-g",
+   "family": "Números 0–100",
+   "de": "fünfzehn",
+   "es": "15",
+   "audio": "audio/89f46fed3c7bb041.mp3"
+  },
+  {
+   "id": "seed83-g",
+   "family": "Números 0–100",
+   "de": "sechzehn",
+   "es": "16",
+   "audio": "audio/7b5f9804dab0521b.mp3"
+  },
+  {
+   "id": "seed84-g",
+   "family": "Números 0–100",
+   "de": "siebzehn",
+   "es": "17",
+   "audio": "audio/b4698558d5c0a594.mp3"
+  },
+  {
+   "id": "seed85-g",
+   "family": "Números 0–100",
+   "de": "achtzehn",
+   "es": "18",
+   "audio": "audio/0e0be0a2c4b542cd.mp3"
+  },
+  {
+   "id": "seed86-g",
+   "family": "Números 0–100",
+   "de": "neunzehn",
+   "es": "19",
+   "audio": "audio/4e73d4c10fd1cb76.mp3"
+  },
+  {
+   "id": "seed87-g",
+   "family": "Números 0–100",
+   "de": "zwanzig",
+   "es": "20",
+   "audio": "audio/1a64bbdfa9737601.mp3"
+  },
+  {
+   "id": "seed88-g",
+   "family": "Números 0–100",
+   "de": "einundzwanzig",
+   "es": "21"
+  },
+  {
+   "id": "seed89-g",
+   "family": "Números 0–100",
+   "de": "zweiundzwanzig",
+   "es": "22"
+  },
+  {
+   "id": "seed90-g",
+   "family": "Números 0–100",
+   "de": "dreiundzwanzig",
+   "es": "23"
+  },
+  {
+   "id": "seed91-g",
+   "family": "Números 0–100",
+   "de": "vierundzwanzig",
+   "es": "24"
+  },
+  {
+   "id": "seed92-g",
+   "family": "Números 0–100",
+   "de": "fünfundzwanzig",
+   "es": "25",
+   "audio": "audio/fdd5873f0ce3cd3e.mp3"
+  },
+  {
+   "id": "seed93-g",
+   "family": "Números 0–100",
+   "de": "sechsundzwanzig",
+   "es": "26"
+  },
+  {
+   "id": "seed94-g",
+   "family": "Números 0–100",
+   "de": "siebenundzwanzig",
+   "es": "27"
+  },
+  {
+   "id": "seed95-g",
+   "family": "Números 0–100",
+   "de": "achtundzwanzig",
+   "es": "28"
+  },
+  {
+   "id": "seed96-g",
+   "family": "Números 0–100",
+   "de": "neunundzwanzig",
+   "es": "29"
+  },
+  {
+   "id": "seed97-g",
+   "family": "Números 0–100",
+   "de": "dreißig",
+   "es": "30",
+   "audio": "audio/508bc072651e30df.mp3"
+  },
+  {
+   "id": "seed98-g",
+   "family": "Números 0–100",
+   "de": "einunddreißig",
+   "es": "31"
+  },
+  {
+   "id": "seed99-g",
+   "family": "Números 0–100",
+   "de": "zweiunddreißig",
+   "es": "32"
+  },
+  {
+   "id": "seed100-g",
+   "family": "Números 0–100",
+   "de": "dreiunddreißig",
+   "es": "33"
+  },
+  {
+   "id": "seed101-g",
+   "family": "Números 0–100",
+   "de": "vierunddreißig",
+   "es": "34"
+  },
+  {
+   "id": "seed102-g",
+   "family": "Números 0–100",
+   "de": "fünfunddreißig",
+   "es": "35"
+  },
+  {
+   "id": "seed103-g",
+   "family": "Números 0–100",
+   "de": "sechsunddreißig",
+   "es": "36"
+  },
+  {
+   "id": "seed104-g",
+   "family": "Números 0–100",
+   "de": "siebenunddreißig",
+   "es": "37"
+  },
+  {
+   "id": "seed105-g",
+   "family": "Números 0–100",
+   "de": "achtunddreißig",
+   "es": "38"
+  },
+  {
+   "id": "seed106-g",
+   "family": "Números 0–100",
+   "de": "neununddreißig",
+   "es": "39"
+  },
+  {
+   "id": "seed107-g",
+   "family": "Números 0–100",
+   "de": "vierzig",
+   "es": "40",
+   "audio": "audio/0e8fe28931a6dc0b.mp3"
+  },
+  {
+   "id": "seed108-g",
+   "family": "Números 0–100",
+   "de": "einundvierzig",
+   "es": "41"
+  },
+  {
+   "id": "seed109-g",
+   "family": "Números 0–100",
+   "de": "zweiundvierzig",
+   "es": "42"
+  },
+  {
+   "id": "seed110-g",
+   "family": "Números 0–100",
+   "de": "dreiundvierzig",
+   "es": "43"
+  },
+  {
+   "id": "seed111-g",
+   "family": "Números 0–100",
+   "de": "vierundvierzig",
+   "es": "44"
+  },
+  {
+   "id": "seed112-g",
+   "family": "Números 0–100",
+   "de": "fünfundvierzig",
+   "es": "45"
+  },
+  {
+   "id": "seed113-g",
+   "family": "Números 0–100",
+   "de": "sechsundvierzig",
+   "es": "46"
+  },
+  {
+   "id": "seed114-g",
+   "family": "Números 0–100",
+   "de": "siebenundvierzig",
+   "es": "47"
+  },
+  {
+   "id": "seed115-g",
+   "family": "Números 0–100",
+   "de": "achtundvierzig",
+   "es": "48"
+  },
+  {
+   "id": "seed116-g",
+   "family": "Números 0–100",
+   "de": "neunundvierzig",
+   "es": "49"
+  },
+  {
+   "id": "seed117-g",
+   "family": "Números 0–100",
+   "de": "fünfzig",
+   "es": "50",
+   "audio": "audio/61802a6115b75e76.mp3"
+  },
+  {
+   "id": "seed118-g",
+   "family": "Números 0–100",
+   "de": "einundfünfzig",
+   "es": "51"
+  },
+  {
+   "id": "seed119-g",
+   "family": "Números 0–100",
+   "de": "zweiundfünfzig",
+   "es": "52"
+  },
+  {
+   "id": "seed120-g",
+   "family": "Números 0–100",
+   "de": "dreiundfünfzig",
+   "es": "53"
+  },
+  {
+   "id": "seed121-g",
+   "family": "Números 0–100",
+   "de": "vierundfünfzig",
+   "es": "54"
+  },
+  {
+   "id": "seed122-g",
+   "family": "Números 0–100",
+   "de": "fünfundfünfzig",
+   "es": "55"
+  },
+  {
+   "id": "seed123-g",
+   "family": "Números 0–100",
+   "de": "sechsundfünfzig",
+   "es": "56"
+  },
+  {
+   "id": "seed124-g",
+   "family": "Números 0–100",
+   "de": "siebenundfünfzig",
+   "es": "57"
+  },
+  {
+   "id": "seed125-g",
+   "family": "Números 0–100",
+   "de": "achtundfünfzig",
+   "es": "58"
+  },
+  {
+   "id": "seed126-g",
+   "family": "Números 0–100",
+   "de": "neunundfünfzig",
+   "es": "59"
+  },
+  {
+   "id": "seed127-g",
+   "family": "Números 0–100",
+   "de": "sechzig",
+   "es": "60",
+   "audio": "audio/172993ad79d85112.mp3"
+  },
+  {
+   "id": "seed128-g",
+   "family": "Números 0–100",
+   "de": "einundsechzig",
+   "es": "61"
+  },
+  {
+   "id": "seed129-g",
+   "family": "Números 0–100",
+   "de": "zweiundsechzig",
+   "es": "62"
+  },
+  {
+   "id": "seed130-g",
+   "family": "Números 0–100",
+   "de": "dreiundsechzig",
+   "es": "63"
+  },
+  {
+   "id": "seed131-g",
+   "family": "Números 0–100",
+   "de": "vierundsechzig",
+   "es": "64"
+  },
+  {
+   "id": "seed132-g",
+   "family": "Números 0–100",
+   "de": "fünfundsechzig",
+   "es": "65"
+  },
+  {
+   "id": "seed133-g",
+   "family": "Números 0–100",
+   "de": "sechsundsechzig",
+   "es": "66"
+  },
+  {
+   "id": "seed134-g",
+   "family": "Números 0–100",
+   "de": "siebenundsechzig",
+   "es": "67"
+  },
+  {
+   "id": "seed135-g",
+   "family": "Números 0–100",
+   "de": "achtundsechzig",
+   "es": "68"
+  },
+  {
+   "id": "seed136-g",
+   "family": "Números 0–100",
+   "de": "neunundsechzig",
+   "es": "69"
+  },
+  {
+   "id": "seed137-g",
+   "family": "Números 0–100",
+   "de": "siebzig",
+   "es": "70",
+   "audio": "audio/1448c2d15eaa7c12.mp3"
+  },
+  {
+   "id": "seed138-g",
+   "family": "Números 0–100",
+   "de": "einundsiebzig",
+   "es": "71"
+  },
+  {
+   "id": "seed139-g",
+   "family": "Números 0–100",
+   "de": "zweiundsiebzig",
+   "es": "72"
+  },
+  {
+   "id": "seed140-g",
+   "family": "Números 0–100",
+   "de": "dreiundsiebzig",
+   "es": "73"
+  },
+  {
+   "id": "seed141-g",
+   "family": "Números 0–100",
+   "de": "vierundsiebzig",
+   "es": "74"
+  },
+  {
+   "id": "seed142-g",
+   "family": "Números 0–100",
+   "de": "fünfundsiebzig",
+   "es": "75"
+  },
+  {
+   "id": "seed143-g",
+   "family": "Números 0–100",
+   "de": "sechsundsiebzig",
+   "es": "76"
+  },
+  {
+   "id": "seed144-g",
+   "family": "Números 0–100",
+   "de": "siebenundsiebzig",
+   "es": "77"
+  },
+  {
+   "id": "seed145-g",
+   "family": "Números 0–100",
+   "de": "achtundsiebzig",
+   "es": "78"
+  },
+  {
+   "id": "seed146-g",
+   "family": "Números 0–100",
+   "de": "neunundsiebzig",
+   "es": "79"
+  },
+  {
+   "id": "seed147-g",
+   "family": "Números 0–100",
+   "de": "achtzig",
+   "es": "80",
+   "audio": "audio/1f263433c84a2718.mp3"
+  },
+  {
+   "id": "seed148-g",
+   "family": "Números 0–100",
+   "de": "einundachtzig",
+   "es": "81"
+  },
+  {
+   "id": "seed149-g",
+   "family": "Números 0–100",
+   "de": "zweiundachtzig",
+   "es": "82"
+  },
+  {
+   "id": "seed150-g",
+   "family": "Números 0–100",
+   "de": "dreiundachtzig",
+   "es": "83"
+  },
+  {
+   "id": "seed151-g",
+   "family": "Números 0–100",
+   "de": "vierundachtzig",
+   "es": "84"
+  },
+  {
+   "id": "seed152-g",
+   "family": "Números 0–100",
+   "de": "fünfundachtzig",
+   "es": "85"
+  },
+  {
+   "id": "seed153-g",
+   "family": "Números 0–100",
+   "de": "sechsundachtzig",
+   "es": "86"
+  },
+  {
+   "id": "seed154-g",
+   "family": "Números 0–100",
+   "de": "siebenundachtzig",
+   "es": "87"
+  },
+  {
+   "id": "seed155-g",
+   "family": "Números 0–100",
+   "de": "achtundachtzig",
+   "es": "88"
+  },
+  {
+   "id": "seed156-g",
+   "family": "Números 0–100",
+   "de": "neunundachtzig",
+   "es": "89"
+  },
+  {
+   "id": "seed157-g",
+   "family": "Números 0–100",
+   "de": "neunzig",
+   "es": "90",
+   "audio": "audio/4c6db026ef233e48.mp3"
+  },
+  {
+   "id": "seed158-g",
+   "family": "Números 0–100",
+   "de": "einundneunzig",
+   "es": "91"
+  },
+  {
+   "id": "seed159-g",
+   "family": "Números 0–100",
+   "de": "zweiundneunzig",
+   "es": "92"
+  },
+  {
+   "id": "seed160-g",
+   "family": "Números 0–100",
+   "de": "dreiundneunzig",
+   "es": "93"
+  },
+  {
+   "id": "seed161-g",
+   "family": "Números 0–100",
+   "de": "vierundneunzig",
+   "es": "94"
+  },
+  {
+   "id": "seed162-g",
+   "family": "Números 0–100",
+   "de": "fünfundneunzig",
+   "es": "95"
+  },
+  {
+   "id": "seed163-g",
+   "family": "Números 0–100",
+   "de": "sechsundneunzig",
+   "es": "96"
+  },
+  {
+   "id": "seed164-g",
+   "family": "Números 0–100",
+   "de": "siebenundneunzig",
+   "es": "97"
+  },
+  {
+   "id": "seed165-g",
+   "family": "Números 0–100",
+   "de": "achtundneunzig",
+   "es": "98"
+  },
+  {
+   "id": "seed166-g",
+   "family": "Números 0–100",
+   "de": "neunundneunzig",
+   "es": "99"
+  },
+  {
+   "id": "seed167-g",
+   "family": "Números 0–100",
+   "de": "hundert",
+   "es": "100",
+   "audio": "audio/62bfc9ae7495a13f.mp3"
+  }
+ ]
+}
