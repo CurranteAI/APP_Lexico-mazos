@@ -59,29 +59,11 @@
     },
     {
       "kind": "deck",
-      "id": "a1-gemini",
-      "name": "Alemán · Primeros pasos (GEMINI)",
-      "description": "Versión alternativa con audio de la base GEMINI para comparar con el mazo original.",
-      "file": "decks/a1-gemini.json",
-      "words": 168,
-      "version": 1
-    },
-    {
-      "kind": "deck",
       "id": "nouns-a1-100-gemini",
       "name": "Alemán · 100 sustantivos (GEMINI)",
-      "description": "Versión alternativa con plural y audio de la base GEMINI para comparar con el mazo original.",
+      "description": "Versión alternativa con plural (mismo tamaño que la palabra) y audio de singular y plural de la base GEMINI, para comparar con el original.",
       "file": "decks/nouns-a1-100-gemini.json",
       "words": 100,
-      "version": 1
-    },
-    {
-      "kind": "deck",
-      "id": "verbs-40-gemini",
-      "name": "40 verbos (GEMINI)",
-      "description": "Versión alternativa con audio de la base GEMINI para comparar con el mazo original.",
-      "file": "decks/verbs-40-gemini.json",
-      "words": 40,
       "version": 1
     }
   ]
