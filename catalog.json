@@ -59,10 +59,10 @@
     },
     {
       "kind": "deck",
-      "id": "nouns-a1-100-gemini",
-      "name": "Alemán · 100 sustantivos (GEMINI)",
-      "description": "Versión alternativa con plural (mismo tamaño que la palabra) y audio de singular y plural de la base GEMINI, para comparar con el original.",
-      "file": "decks/nouns-a1-100-gemini.json",
+      "id": "nouns-a1-100-v2",
+      "name": "Alemán · 100 sustantivos (versión 2)",
+      "description": "Copia del mazo de 100 sustantivos con el plural y el género de cada palabra. El original no se toca.",
+      "file": "decks/nouns-a1-100-v2.json",
       "words": 100,
       "version": 1
     }
