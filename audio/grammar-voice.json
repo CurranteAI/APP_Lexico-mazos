@@ -1,0 +1,829 @@
+{
+  "provider": "Microsoft Edge via edge-tts",
+  "voice": "de-DE-TanjaNeural",
+  "rate": "-10%",
+  "audio": [
+    {
+      "text": "abends",
+      "file": "grammar-635a0f87c8f35203.mp3",
+      "bytes": 10224,
+      "sha256": "aa0e8ae9ca3e26f6a460c3b2694f6d2ce2665c87a7b0f79051e187ee7aa331ed"
+    },
+    {
+      "text": "aber",
+      "file": "grammar-64acc9f068122091.mp3",
+      "bytes": 9216,
+      "sha256": "17cfaaed68c70cbbef40b2020790b0708a599a235ef617e760360b4f3bdfa535"
+    },
+    {
+      "text": "alle",
+      "file": "grammar-2146a029ad5e62ec.mp3",
+      "bytes": 8928,
+      "sha256": "419e0346376a8d25ba3f64acaed0089244ecb470ae45a5cc7753a4356948a880"
+    },
+    {
+      "text": "allein",
+      "file": "grammar-a9d5a11ce03dbf99.mp3",
+      "bytes": 10080,
+      "sha256": "b005cd77c382b71d3dfe17d0739a60fe28cc0c0745ed45274cc74ed42e8739da"
+    },
+    {
+      "text": "alles",
+      "file": "grammar-0ef6ec226337643d.mp3",
+      "bytes": 9936,
+      "sha256": "306eb94e5514aff426944310ba82c675c7f31a7ee44c2021be5dcdd5a641bc81"
+    },
+    {
+      "text": "am",
+      "file": "grammar-ab6db599234d2636.mp3",
+      "bytes": 8496,
+      "sha256": "8f32f30101afcef37ce3f69b69c4011ebfb6d30ba24d2be8d1a61e180e4ed0d4"
+    },
+    {
+      "text": "an",
+      "file": "grammar-ea325d761f98c6b7.mp3",
+      "bytes": 8640,
+      "sha256": "20aa351456efc403422c12d1a144b6545d4b8edb6e2c853333169c9396ef8db0"
+    },
+    {
+      "text": "auch",
+      "file": "grammar-f1b7384743db3616.mp3",
+      "bytes": 8928,
+      "sha256": "a6e09c322edff9c67c45f5236957cb498b5853e5b78b20f4f6bccd706fe4d0ee"
+    },
+    {
+      "text": "auf",
+      "file": "grammar-424c8eda8e3a16a7.mp3",
+      "bytes": 9216,
+      "sha256": "7bc684f7a6c88bda886afd40acaad9cf9a314d7fa8ce481533c47c90053fba71"
+    },
+    {
+      "text": "aus",
+      "file": "grammar-2337c37f0721980b.mp3",
+      "bytes": 9216,
+      "sha256": "654cfea5f1d353f6232a82cd5962e9b24e614e0ead571e7a8670d47b4df45e4a"
+    },
+    {
+      "text": "bald",
+      "file": "grammar-62cc13e735700e53.mp3",
+      "bytes": 9648,
+      "sha256": "c425f723626fe4821e1b5a63181a039c5e62aae74d97962ba8619dd8c7a7434a"
+    },
+    {
+      "text": "bei",
+      "file": "grammar-98970d1a1b801acf.mp3",
+      "bytes": 9072,
+      "sha256": "f64469fc0f6b5769178b094adcd68ad996eb8631a5c651fd67eefacd6dbf5fe7"
+    },
+    {
+      "text": "bis",
+      "file": "grammar-96147cdbfd6955d7.mp3",
+      "bytes": 8640,
+      "sha256": "7c8028ee6fd857416dcc4a013c5736fcc5b5f69974a1ad4e834d0da5f9667783"
+    },
+    {
+      "text": "bitte",
+      "file": "grammar-cca501495f4d40c2.mp3",
+      "bytes": 9216,
+      "sha256": "95035dff74f66ca41469dca89f3bc12bd4e0f30771cacfb8104292acfad987b1"
+    },
+    {
+      "text": "da",
+      "file": "grammar-aa58b21b01d6b8a9.mp3",
+      "bytes": 8496,
+      "sha256": "f5e5adcfa9fbb7c2bc0c2a2b025b32f0f62472638691f7bc460a2cd5eab3b2cb"
+    },
+    {
+      "text": "danke",
+      "file": "grammar-ff1fd0804def10ad.mp3",
+      "bytes": 10080,
+      "sha256": "8940b69756fdd7856750c85271fecc2ab5dd8e858b4b0fa6732d58abb439a39a"
+    },
+    {
+      "text": "dann",
+      "file": "grammar-06cb6c291501e7d4.mp3",
+      "bytes": 8928,
+      "sha256": "e49d433494689ab42eb8f717a46dc1bb78e614b751f83f6e7cafe077bf950e26"
+    },
+    {
+      "text": "dein",
+      "file": "grammar-37464907b09fda64.mp3",
+      "bytes": 9360,
+      "sha256": "9de04303a42b12e38b63631ff5a483270d596dcd0468eda14807d8dc764dd552"
+    },
+    {
+      "text": "deine",
+      "file": "grammar-dbd3c49fc4bbcc97.mp3",
+      "bytes": 9648,
+      "sha256": "9b10bcd122ff2438d6c3fa8d0e1be6c010f73fafa9595018f2057e28fd687c26"
+    },
+    {
+      "text": "denn",
+      "file": "grammar-39088faee2f1d10f.mp3",
+      "bytes": 8784,
+      "sha256": "cbca250d346859d287add1ec3088e580b19a034c896df5faa5ef212fc2dd0925"
+    },
+    {
+      "text": "deshalb",
+      "file": "grammar-e7161771a50251bf.mp3",
+      "bytes": 10512,
+      "sha256": "ef159e2588a41035e99833d817ab7ceeb71c2a420877957b2efa2bdb1863823a"
+    },
+    {
+      "text": "dich",
+      "file": "grammar-30ee9c81e22076a1.mp3",
+      "bytes": 8784,
+      "sha256": "3f0a876f2df4c02f969259da8abb9268327c8ceff13c0710e61b8f0345186abe"
+    },
+    {
+      "text": "diese",
+      "file": "grammar-26fb952d556e5ee9.mp3",
+      "bytes": 10080,
+      "sha256": "b5f3f84db369fd99ec21622a30855858a2cbcbe7d390f2914fe4c8a435668318"
+    },
+    {
+      "text": "dieser",
+      "file": "grammar-60b3cd1300a8930f.mp3",
+      "bytes": 10080,
+      "sha256": "1e986bfef36cdc9fb1e93ec52ae0d7b4e81931418f14053761bd93498f0c5fc0"
+    },
+    {
+      "text": "dieses",
+      "file": "grammar-82df26419dd64f5f.mp3",
+      "bytes": 10800,
+      "sha256": "59ede818c3f47aa28ab0e890d429c96152982091c504af98b75f991025919a1d"
+    },
+    {
+      "text": "dir",
+      "file": "grammar-2b64c6d9afd8a34e.mp3",
+      "bytes": 9216,
+      "sha256": "7926a621413e4be4f19aef0af9a893ceb295f2cc702dab1cc2dcb843709514d9"
+    },
+    {
+      "text": "doch",
+      "file": "grammar-0631a9cb488f2b66.mp3",
+      "bytes": 8928,
+      "sha256": "e23da349193508f25c957937541572c65d4181d59aaf04436e9a03cef9318c1c"
+    },
+    {
+      "text": "dort",
+      "file": "grammar-39c21f5b3b359f1e.mp3",
+      "bytes": 9648,
+      "sha256": "f410ea1168f69716c51cf82c9ab78918a533726ce42f89b61f335d5122198256"
+    },
+    {
+      "text": "draußen",
+      "file": "grammar-2bf128fb4ef828d3.mp3",
+      "bytes": 10656,
+      "sha256": "25af7b2a55231944864fee07f409944cd8a6e918183d0f8e1e80d9b11d79c5f2"
+    },
+    {
+      "text": "drinnen",
+      "file": "grammar-70b4bfcb10810427.mp3",
+      "bytes": 10224,
+      "sha256": "ab50d84fcb1c08643a729fcfa253eba2820fbcf3a898fcc99b45ea496a7f31a7"
+    },
+    {
+      "text": "durch",
+      "file": "grammar-1f5c80c33075f597.mp3",
+      "bytes": 9648,
+      "sha256": "b344812da3bfbd6a869b5b9b69e4e9a6b65763911a8c4b7b59c9b9d4d145ca72"
+    },
+    {
+      "text": "einige",
+      "file": "grammar-51c1cc2dcad075a8.mp3",
+      "bytes": 10080,
+      "sha256": "69eeb89bf9c0cf6fcecc1b28ac80e5bbf9bfb297fa1af87a4a7ae6be307ffb97"
+    },
+    {
+      "text": "es",
+      "file": "grammar-c0bc1e08f9743b2d.mp3",
+      "bytes": 8496,
+      "sha256": "3e344f5d611a553205f39ac985012c51ecf6a3b84cd12eb7a80e7a79929bffd4"
+    },
+    {
+      "text": "etwas",
+      "file": "grammar-b9373420d1622cd3.mp3",
+      "bytes": 10080,
+      "sha256": "9d4cb9922747bf0ced8cf6f51c267f906cbdd97a1cb4e870cefc0e4736842385"
+    },
+    {
+      "text": "euch",
+      "file": "grammar-135e825559810434.mp3",
+      "bytes": 9216,
+      "sha256": "41359c58f5f90735e2bbf434d3f557a521ac2b288cabe4ea1499e6846b41c27f"
+    },
+    {
+      "text": "euer",
+      "file": "grammar-81dbd757f7f4de80.mp3",
+      "bytes": 9360,
+      "sha256": "ae89d1db0983e62f3ae4d5f5ba42817d3948c39d20832a62b93dd37c819ad5ac"
+    },
+    {
+      "text": "eure",
+      "file": "grammar-c5cc99e3e418be99.mp3",
+      "bytes": 9504,
+      "sha256": "db54795112bd77757928a06f7aac175d23d1a34e500e5c652ee0415882f684ef"
+    },
+    {
+      "text": "früh",
+      "file": "grammar-a4fce28c6228b1a7.mp3",
+      "bytes": 9216,
+      "sha256": "7cdb939df64747db70da7bf0ba8eeebe76153f17239fd914198d2476ba52cfd4"
+    },
+    {
+      "text": "für",
+      "file": "grammar-cd23c4c603b344f6.mp3",
+      "bytes": 9504,
+      "sha256": "42b036b10ba4571dbd531b9e532337f7f980608be2e4dfc110cf23bc947a0ad7"
+    },
+    {
+      "text": "gegen",
+      "file": "grammar-092e1885c9576d20.mp3",
+      "bytes": 10080,
+      "sha256": "7282688eac649abf7c73947459ea841c54b27151be907fbb52db08b9cd7a62e9"
+    },
+    {
+      "text": "genug",
+      "file": "grammar-4304d22f1116197b.mp3",
+      "bytes": 10224,
+      "sha256": "172fca3de07fa0e2ef653170e88fc1ee85500853215d7203d134b2cdc577ceff"
+    },
+    {
+      "text": "gerade",
+      "file": "grammar-a303a7d1c0ffdb14.mp3",
+      "bytes": 10800,
+      "sha256": "ff668c1f28d05d490230d11c8f13a11d5379732b13e212b5effec3f6e673fbcb"
+    },
+    {
+      "text": "gern",
+      "file": "grammar-bfa14a61e77ecedf.mp3",
+      "bytes": 9648,
+      "sha256": "94bc33f1e5ada98b0963183a4094ff81c7daf8bdf7f2ca1ee330a28021092dec"
+    },
+    {
+      "text": "gestern",
+      "file": "grammar-93cae23fdfb8b75d.mp3",
+      "bytes": 10800,
+      "sha256": "7a33e38b6c26be163a22db20bfadecfb7453acd00c8018c60e65f2dc33ed9ea9"
+    },
+    {
+      "text": "heute",
+      "file": "grammar-b748a919ad3e0a2c.mp3",
+      "bytes": 10224,
+      "sha256": "0e66f7300a7b627f0d8d998041bf6b967b97b3e405568c248d817291227d4a47"
+    },
+    {
+      "text": "hier",
+      "file": "grammar-529cbc8f212773f2.mp3",
+      "bytes": 9648,
+      "sha256": "c3be1c51f62bcccfe73573aa38b53fdc7504f34ccbdd07a938ae4fdb891c78d2"
+    },
+    {
+      "text": "hinter",
+      "file": "grammar-f5b6e6eedd3dfc4c.mp3",
+      "bytes": 9936,
+      "sha256": "5695a7718053ffd02296356ca350de2d1dbea2ac00299d61f9d1a4e83f937150"
+    },
+    {
+      "text": "ihm",
+      "file": "grammar-92862c8a40643e4f.mp3",
+      "bytes": 8640,
+      "sha256": "d6bc3bfd2f52cfe934e1bc15f4d295fe01b16649a5fe4ba5de83c1f3186bb46b"
+    },
+    {
+      "text": "ihn",
+      "file": "grammar-d43dd7e5eca6eb8c.mp3",
+      "bytes": 8784,
+      "sha256": "ca937a6c6ebcd820a484d31083bb8bad7c8c298bc36df6c229b7846ce3e32d59"
+    },
+    {
+      "text": "ihnen",
+      "file": "grammar-1b22a46b261e99ab.mp3",
+      "bytes": 9648,
+      "sha256": "11cb16ff753e7ae5ceb1bafb0bc87a7c08a263aefaee2111eeb2f15babb85c76"
+    },
+    {
+      "text": "ihr",
+      "file": "grammar-f15e811721cd2c91.mp3",
+      "bytes": 8640,
+      "sha256": "07bb76cd3c4d3baad1310a130f5ad9fff8d4facda0acd5e4f3e3c7cdfc576dd0"
+    },
+    {
+      "text": "ihre",
+      "file": "grammar-df4f5a7315e63e16.mp3",
+      "bytes": 9216,
+      "sha256": "58595fa6ff82053f1d6530ab684cace2a6c7c8b987e67b8d26ee08b59743e698"
+    },
+    {
+      "text": "im",
+      "file": "grammar-a898df22bfc74a1a.mp3",
+      "bytes": 8496,
+      "sha256": "37e4aac6cb0c5f026c972c80828eda8e45d949ac84b53b29c4f2c7b6b5347c20"
+    },
+    {
+      "text": "immer",
+      "file": "grammar-4bfacbaf9dbb4fc4.mp3",
+      "bytes": 9072,
+      "sha256": "9d48a9e7caeda6a44090db71ac6313a84c8862d1f0e4975916d2aa80d4e18620"
+    },
+    {
+      "text": "in",
+      "file": "grammar-582967534d0f909d.mp3",
+      "bytes": 8496,
+      "sha256": "f4ee4a0cbaed4b56d1f0b37c54c64d27feb0eb4395c55e674b6259a18a08bbde"
+    },
+    {
+      "text": "ins",
+      "file": "grammar-e5bf1f03cacff6ad.mp3",
+      "bytes": 9216,
+      "sha256": "d2646dcbde077dd1fe3bc9c38e9ce6d86985435f484fa59784033d873cddf5f1"
+    },
+    {
+      "text": "ja",
+      "file": "grammar-3702fc1866630796.mp3",
+      "bytes": 9072,
+      "sha256": "f47cfa8660ab65ffd94f327382676e28f1a91668c43115271f5333e0167d8fd5"
+    },
+    {
+      "text": "jede",
+      "file": "grammar-d04b16ff98e71ef1.mp3",
+      "bytes": 9792,
+      "sha256": "44dd45590338ac9efd2d90b057060de239379e6aed78a7c7de106cbf3995b487"
+    },
+    {
+      "text": "jeder",
+      "file": "grammar-dd42d5e1f25787ff.mp3",
+      "bytes": 10080,
+      "sha256": "3a412bf3e4a4ee01df8ae722cb94e879baac071daa5787be19a7e03db5698a6f"
+    },
+    {
+      "text": "jedes",
+      "file": "grammar-1fde06d04e2e1ec2.mp3",
+      "bytes": 10224,
+      "sha256": "74f6e0130206e9bca8fd3858c1a512b10fb878fbb49d36c5302f8bfcef15f01a"
+    },
+    {
+      "text": "jetzt",
+      "file": "grammar-f1c98ccb91d3bc7f.mp3",
+      "bytes": 10224,
+      "sha256": "5226521c113b40db3aa2bac4dc4d54454a74f0c1032cee9c312d65de2de6ebaf"
+    },
+    {
+      "text": "kein",
+      "file": "grammar-34093e9013c2f638.mp3",
+      "bytes": 9504,
+      "sha256": "632aba7e07ec57d6828242c3320c533e45d194e3aad46eaccf31bd3e0cc602c9"
+    },
+    {
+      "text": "keine",
+      "file": "grammar-db028eeb570f2485.mp3",
+      "bytes": 9792,
+      "sha256": "f372dc01323ea3846ed2a93810d04a78ecfecdb02b88b2d1b44a968f9d2758db"
+    },
+    {
+      "text": "leider",
+      "file": "grammar-0fd942363abc7027.mp3",
+      "bytes": 10080,
+      "sha256": "8dc9812ade76108a015c5207a5f8e6ec97de0fb5d088634798165bfffaf3bbb8"
+    },
+    {
+      "text": "lieber",
+      "file": "grammar-6179d562d1bc6408.mp3",
+      "bytes": 10080,
+      "sha256": "f58969e4c2f59acf4e3b507b9cac481a533ea17093a424b83649cd6e036f9638"
+    },
+    {
+      "text": "links",
+      "file": "grammar-eef8b9fd5d437dd9.mp3",
+      "bytes": 9792,
+      "sha256": "daacb2db62ba57e124afaf6b49d7a4e77c031c1c21182d2a56d177ba452678a7"
+    },
+    {
+      "text": "manchmal",
+      "file": "grammar-bc1fbecf3a4b5e30.mp3",
+      "bytes": 11088,
+      "sha256": "30979e0569ff55f0d65d9e481a48ac2c86a4fe4f4cba8f667189ca371e9e8fd8"
+    },
+    {
+      "text": "mehr",
+      "file": "grammar-70d97a717bcc53fe.mp3",
+      "bytes": 9648,
+      "sha256": "6632d099aa72abdbad70f6082b91374f9e4bfdd99ba7e28f9170af763e7b1e1c"
+    },
+    {
+      "text": "mein",
+      "file": "grammar-25352d33fff0003d.mp3",
+      "bytes": 9504,
+      "sha256": "ca024279a5f02f3ad3c243395366a0c74a7aea14ed483075d5990d5b7566d4b1"
+    },
+    {
+      "text": "meine",
+      "file": "grammar-853fa4fa3f4ffa64.mp3",
+      "bytes": 9936,
+      "sha256": "790f65f53e36d19ff0308f8960845fbf500b84c880e6590b32815da4efc18342"
+    },
+    {
+      "text": "mich",
+      "file": "grammar-0d1ef3908454fc02.mp3",
+      "bytes": 8784,
+      "sha256": "40130a8a730a9eebdb1241f7ad01c55bddcfaf456834f005ec758466f21d0df9"
+    },
+    {
+      "text": "mir",
+      "file": "grammar-02d087933efc5d76.mp3",
+      "bytes": 9216,
+      "sha256": "4cfd6e13b6b86c1d2248bd7cc199a1bced5a9b07f917e7b94e7081ecf679ba34"
+    },
+    {
+      "text": "mit",
+      "file": "grammar-78198e7ab262449a.mp3",
+      "bytes": 8784,
+      "sha256": "66fd2c7d22a7bf7ff0a010e7294276312d3a8ae642a9ef2dd3882167ffa45e9d"
+    },
+    {
+      "text": "morgen",
+      "file": "grammar-eb26d4fa531af429.mp3",
+      "bytes": 10800,
+      "sha256": "5937b36bb665ba1a1a801f865798512ccc57e065df22f682e9749211c411bdca"
+    },
+    {
+      "text": "morgens",
+      "file": "grammar-e05d2c34c31c0d25.mp3",
+      "bytes": 11232,
+      "sha256": "fac3af12557e280366c5177be6ca693be3a0728c9bfd7356ae6d329937ce49e5"
+    },
+    {
+      "text": "nach",
+      "file": "grammar-d941a36dbe67051b.mp3",
+      "bytes": 9648,
+      "sha256": "363938772293cbf529c95f7d75ab8816141e3dee7775630892c20681a7115ff8"
+    },
+    {
+      "text": "neben",
+      "file": "grammar-8d31784680164d41.mp3",
+      "bytes": 10368,
+      "sha256": "45e1b377f842f35930cdfcdbd190990c307bd6948597283f07f4e029d05c07f3"
+    },
+    {
+      "text": "nein",
+      "file": "grammar-4d03db393cf10c84.mp3",
+      "bytes": 9504,
+      "sha256": "1e8ec8d730c97c8790132240d6dae856c2cfbdb514d08193569c1c4e785ee5e7"
+    },
+    {
+      "text": "nicht",
+      "file": "grammar-6a8cd96a4b778934.mp3",
+      "bytes": 9504,
+      "sha256": "ce57820e1c61395b9d428686b104268ff3b94dc1dec46e307148de9735219ca8"
+    },
+    {
+      "text": "nichts",
+      "file": "grammar-7f812985703138c5.mp3",
+      "bytes": 9936,
+      "sha256": "bb4cdd2feb6dd9630fa46ac94afda01e18b386534ee95ba6b1e50abcb1ecd0bc"
+    },
+    {
+      "text": "nie",
+      "file": "grammar-cd5b158f21b7588b.mp3",
+      "bytes": 8640,
+      "sha256": "e6547e5b3b695d5d7cd426245c5039837468a6d825f6eb407e7f5fa60ec3d59e"
+    },
+    {
+      "text": "noch",
+      "file": "grammar-a665c12561dff12c.mp3",
+      "bytes": 9216,
+      "sha256": "b38233d64c83bbd0256262e1044831b3c89053ee9bc39f6a922eeaf9a4a4a6fe"
+    },
+    {
+      "text": "nur",
+      "file": "grammar-e9b5b78ab02082e0.mp3",
+      "bytes": 9216,
+      "sha256": "b0df480443bd3665702cc46b4e1aa9f06adb575280769da2714991160838afa2"
+    },
+    {
+      "text": "oben",
+      "file": "grammar-67cb61fee4421509.mp3",
+      "bytes": 9792,
+      "sha256": "439188e915ef5ef6549faacf27a12a938f012c0e9318cfb2a7022a0efd357b6c"
+    },
+    {
+      "text": "oder",
+      "file": "grammar-b81d9593a3f6c4f7.mp3",
+      "bytes": 9360,
+      "sha256": "d7873c2accd119ea292e6cae8eec2d56de06acfa28e18c9b9295f6a475e99336"
+    },
+    {
+      "text": "oft",
+      "file": "grammar-8d1290503a08cb98.mp3",
+      "bytes": 9504,
+      "sha256": "182c7b4c62fb9e5fe2fb2ec455b88db4f155d1ab0a6800de1c80b7ef16eb5c92"
+    },
+    {
+      "text": "ohne",
+      "file": "grammar-c53a0674de4ba784.mp3",
+      "bytes": 9072,
+      "sha256": "8551a459ab397dffc366d307317da47be78effd1e0a92bd1123cfeb3ecd72682"
+    },
+    {
+      "text": "rechts",
+      "file": "grammar-dd3fbf0d05afcd41.mp3",
+      "bytes": 10656,
+      "sha256": "51134b75eb7ddefbbb3b034743ec89592e46b986d65fdd1c3bee8e3160ffa16b"
+    },
+    {
+      "text": "schon",
+      "file": "grammar-ed719858ee1b140e.mp3",
+      "bytes": 9504,
+      "sha256": "5893339973f124a40825bd10789d4f9d26d5cdf8ae34ba15e326a72a17e8d347"
+    },
+    {
+      "text": "sehr",
+      "file": "grammar-907114a73986290c.mp3",
+      "bytes": 9504,
+      "sha256": "154a85a31688df9e1dc67d239ab2cf690ecff5150a35a02871cb47ce9ae07195"
+    },
+    {
+      "text": "sein",
+      "file": "grammar-f0abec8675ebc550.mp3",
+      "bytes": 9792,
+      "sha256": "ef819b909f1770bc1999ac79f060b15a95bc61345eac5ef67df67a9b4d2f183a"
+    },
+    {
+      "text": "seine",
+      "file": "grammar-8905c34886fee014.mp3",
+      "bytes": 10080,
+      "sha256": "9a5d565774789ca2ae002b2588a60a77dea2f0c2c95c516ec4dff09504346fd5"
+    },
+    {
+      "text": "selten",
+      "file": "grammar-fea55ac7ed0b0eed.mp3",
+      "bytes": 10512,
+      "sha256": "57b3728b2d58fa32a2430878cc85d85c9ea13cc28aec6d09c4b11253367695a1"
+    },
+    {
+      "text": "sie",
+      "file": "grammar-70f0b8e6e13410a6.mp3",
+      "bytes": 8928,
+      "sha256": "7396925b5c42f49f7a06ba5990e532a84a31aafb97553b4c233e1267843bc289"
+    },
+    {
+      "text": "so",
+      "file": "grammar-a1d9890884c1b4b9.mp3",
+      "bytes": 9072,
+      "sha256": "b69c892e15e5fcc3963247ecb0155601e7ce44652c8f750dd0f95ad107e54f5e"
+    },
+    {
+      "text": "sondern",
+      "file": "grammar-5ec346d3c3e75a7c.mp3",
+      "bytes": 10944,
+      "sha256": "d5b643391555c5df2f711c9eaa5a5b5e116bc6b527d4437bc8881d9f60ec53dd"
+    },
+    {
+      "text": "spät",
+      "file": "grammar-386dbf01efbd156e.mp3",
+      "bytes": 10368,
+      "sha256": "7855875d07617d9cf67782250e1492f1859e4f757df012d9063893b6d247cc39"
+    },
+    {
+      "text": "später",
+      "file": "grammar-bfaef50e7ee665cd.mp3",
+      "bytes": 10800,
+      "sha256": "796658051f35d06164ce00a689a871669c4466eeeef0ac54d94435eef1b07e7d"
+    },
+    {
+      "text": "um",
+      "file": "grammar-289c90decf40c8ec.mp3",
+      "bytes": 8352,
+      "sha256": "c2cc8350e4cd4c7f4771c49d49fa020b37a289107067931322008acda6fe1f39"
+    },
+    {
+      "text": "und",
+      "file": "grammar-856cc99d87343400.mp3",
+      "bytes": 8928,
+      "sha256": "8fef6ea741c8ea3d5b1dfa708b7304cf8c4d5349d5542e03fa152a75bfae8d17"
+    },
+    {
+      "text": "uns",
+      "file": "grammar-df65e7b4f08bb349.mp3",
+      "bytes": 9360,
+      "sha256": "ddb7e3b2c3ff8609f5efc27bf343e680efc0c2c94dfe38cccaf12b04509d6ec8"
+    },
+    {
+      "text": "unser",
+      "file": "grammar-bed6b6065b4d7611.mp3",
+      "bytes": 9936,
+      "sha256": "efb54da789a96ecbf79b60a95a911c6b339a26763c4c48237906325d30d7fec6"
+    },
+    {
+      "text": "unsere",
+      "file": "grammar-a690ffcdd1cb1821.mp3",
+      "bytes": 10800,
+      "sha256": "a60b6c098e6f9c4465341852bed1b7e895a010b2758385ed5022fd3adbb01e2e"
+    },
+    {
+      "text": "unten",
+      "file": "grammar-bf65c1637f933b73.mp3",
+      "bytes": 10368,
+      "sha256": "6c947d09d749b332c6a800e21491649c41b8ee1c947d053bb8b5c0c9918fddc1"
+    },
+    {
+      "text": "unter",
+      "file": "grammar-266a2d74b84a28f0.mp3",
+      "bytes": 9504,
+      "sha256": "31b7b155f3a36a2440e252b1715065fddd39cc1bb8853876b89ab82e243cc3a6"
+    },
+    {
+      "text": "viele",
+      "file": "grammar-a03872d4b8894f05.mp3",
+      "bytes": 9792,
+      "sha256": "04e811a59c1004394d8f951312b431afed158acd44abe7a01372bd544a1b8862"
+    },
+    {
+      "text": "vielleicht",
+      "file": "grammar-89c96ec12b2a3008.mp3",
+      "bytes": 12240,
+      "sha256": "7c8b86b6bcdf648da8ce80392433df8b5574762a10613c4c2a0b88d17ffc566a"
+    },
+    {
+      "text": "vom",
+      "file": "grammar-6d111b98b316598f.mp3",
+      "bytes": 9216,
+      "sha256": "553f07833ecbb010522de85da8a5aba6968d222d34193c7e09dd3d8c98423bc1"
+    },
+    {
+      "text": "von",
+      "file": "grammar-43ce6022b9318e93.mp3",
+      "bytes": 9360,
+      "sha256": "50a9c84526b47319631838637c7a8e530c82062074ba42fe46a3bdb98115c96a"
+    },
+    {
+      "text": "vor",
+      "file": "grammar-929f1ca4b2be58d7.mp3",
+      "bytes": 9504,
+      "sha256": "e37ffb1f57f9f230dd5862ce8efb092aff042e49454c161d4d4fc8fbfb81ac7c"
+    },
+    {
+      "text": "wann",
+      "file": "grammar-5d99599b60a043d4.mp3",
+      "bytes": 9216,
+      "sha256": "baafdedaf72950674e5b1999c736dcf26bcf76b222c1e4fa405be677989caf39"
+    },
+    {
+      "text": "warum",
+      "file": "grammar-8686500d6c75cc9b.mp3",
+      "bytes": 10224,
+      "sha256": "c6dc863160380617121f4f4fa40067440311bba2f39853442076238678e0f961"
+    },
+    {
+      "text": "was",
+      "file": "grammar-b63b99f6383ba713.mp3",
+      "bytes": 9504,
+      "sha256": "1935e33b52eb607bb2589476dca3f82205dc33011fc09e94e252685d6e7ff43a"
+    },
+    {
+      "text": "weil",
+      "file": "grammar-740fc4991133b152.mp3",
+      "bytes": 9648,
+      "sha256": "d6e0d1dd8dc6d2a1a8a1994bcd4646192dda628292af02ca29f062f44ddaf2e8"
+    },
+    {
+      "text": "welche",
+      "file": "grammar-5e368aac938176f8.mp3",
+      "bytes": 10656,
+      "sha256": "71c94c0df14797bdddfe356e98df7ed504ae350ad0f1abad204b57efe728faf7"
+    },
+    {
+      "text": "welcher",
+      "file": "grammar-875b96c687aeed51.mp3",
+      "bytes": 10512,
+      "sha256": "1ffac58c3a12ce71a250906128a45758efb8fc2784cffeb03a07f21a3c3909cd"
+    },
+    {
+      "text": "welches",
+      "file": "grammar-1e958baf5b9768da.mp3",
+      "bytes": 11088,
+      "sha256": "9436f34ea172d5af18e72c6d914883d80548221202cf83d9a46725f98ebd0689"
+    },
+    {
+      "text": "wem",
+      "file": "grammar-d812c4d4431dac67.mp3",
+      "bytes": 9504,
+      "sha256": "b309b4865c1e6d79f24474456898f7592f83338abbc7d11680453020eba05e40"
+    },
+    {
+      "text": "wen",
+      "file": "grammar-f741046fdac8702d.mp3",
+      "bytes": 9504,
+      "sha256": "dfdab2f18c85fbca8722828e3e334e189177a8adef3f8c3a07527a24dcd6b12c"
+    },
+    {
+      "text": "weniger",
+      "file": "grammar-992e808ec6d96883.mp3",
+      "bytes": 11088,
+      "sha256": "7c5d38c51e6293344c602d2d76f6f4310070de71f10a488740c61352affd0a20"
+    },
+    {
+      "text": "wenn",
+      "file": "grammar-4da271bb37e5a8c6.mp3",
+      "bytes": 9072,
+      "sha256": "82b1ef872e1d4885372a7a3dc08c602717b595a6c2e0eaa620e1b0f2755767da"
+    },
+    {
+      "text": "wer",
+      "file": "grammar-e797c0013811a1d1.mp3",
+      "bytes": 9504,
+      "sha256": "f3c1c4eac6bc140e747c83fece454a46a15599a51e3520cac680976191ade59a"
+    },
+    {
+      "text": "wessen",
+      "file": "grammar-37d6c54da97ebaa1.mp3",
+      "bytes": 9936,
+      "sha256": "7cc71c403b2a57327905b0e9742c7c08139a4f80cf8c76019d5c43f88152d9c8"
+    },
+    {
+      "text": "wie",
+      "file": "grammar-4a3f1139f614aab2.mp3",
+      "bytes": 8640,
+      "sha256": "6b30880d2661f4ad795b0cf95d3aa444086af815b058b2f95a2bb5169f16d3b0"
+    },
+    {
+      "text": "wie viel",
+      "file": "grammar-3c37e4ca7c9e0e88.mp3",
+      "bytes": 10944,
+      "sha256": "af500e89a7ffbb1b4080ac07ff0440b6ddccda53b4bb3fd3c691fc7ad1b9b4f8"
+    },
+    {
+      "text": "wie viele",
+      "file": "grammar-aea424c7fa05917f.mp3",
+      "bytes": 11664,
+      "sha256": "4f7f3d2640fae7004e88350b6383946956cf7ece3651d254c9313475e6c6be84"
+    },
+    {
+      "text": "wieder",
+      "file": "grammar-0007489cd4b0a84b.mp3",
+      "bytes": 9792,
+      "sha256": "32e9347fa8c19bfaeedd72c83efd4d29c661b6b875118a7f4d0a623102117714"
+    },
+    {
+      "text": "wo",
+      "file": "grammar-f8f26225fd1d7a1c.mp3",
+      "bytes": 8784,
+      "sha256": "f48c996588eb38ff4181b27be4637482747296dbc34739b9acc68f98f829c85a"
+    },
+    {
+      "text": "woher",
+      "file": "grammar-c58061e325595c57.mp3",
+      "bytes": 10512,
+      "sha256": "813f1cf6d81d2e33402d7406bf8031703db5a0c260e30d39a211026cb09566e7"
+    },
+    {
+      "text": "wohin",
+      "file": "grammar-5d0f856ff3a6f541.mp3",
+      "bytes": 10080,
+      "sha256": "08dcf4129831c882cf24b590a68c14731a814223d7064b314e283f6143bea274"
+    },
+    {
+      "text": "zu",
+      "file": "grammar-82cefa8283d30fda.mp3",
+      "bytes": 8640,
+      "sha256": "6af9461e8b95622d01b0f870377217338704d999dc2165309a66f9897f7c2271"
+    },
+    {
+      "text": "zuerst",
+      "file": "grammar-ccd1d16622a3d2a1.mp3",
+      "bytes": 11664,
+      "sha256": "153c5b12fe306c2f63820195940a43c563c08a6986c98bf9f1537ab247b547d4"
+    },
+    {
+      "text": "zum",
+      "file": "grammar-eeccef1ac21b1189.mp3",
+      "bytes": 9360,
+      "sha256": "97985fd89240ea27e74b24f3eec512bda06fe93caa6d46aa429c7a61a4e45801"
+    },
+    {
+      "text": "zur",
+      "file": "grammar-09890dd421f069bd.mp3",
+      "bytes": 9504,
+      "sha256": "fc59fa37854279a59b0aaa133925065d2d0db12640cc34a69153022a0859f879"
+    },
+    {
+      "text": "zusammen",
+      "file": "grammar-b2253f5de165a720.mp3",
+      "bytes": 11232,
+      "sha256": "33b9c12435d89b0ea23c2ae9cda64ddfb4f85ca8214abaf1db5412365b6ffb47"
+    },
+    {
+      "text": "zwischen",
+      "file": "grammar-b07d6029c657fff6.mp3",
+      "bytes": 10224,
+      "sha256": "f1a781945336296f0a736e522ee5a8b52a7a1b9b08245618f6bb264a6ffa8636"
+    },
+    {
+      "text": "über",
+      "file": "grammar-b51c854170449c38.mp3",
+      "bytes": 9360,
+      "sha256": "e8549b005e0d68746aa0058fa8b07f3d06e752ac453b905f2688732f8e6aeefa"
+    }
+  ]
+}

@@ -47,6 +47,15 @@
       "file": "decks/verbs-40.json",
       "words": 40,
       "version": 2
+    },
+    {
+      "kind": "deck",
+      "id": "gramatica",
+      "name": "Gramática",
+      "description": "148 tarjetas en 10 submazos. Frase de apoyo hasta acertar; vuelve tras un fallo. Audio de cada palabra.",
+      "file": "decks/gramatica.json",
+      "words": 148,
+      "version": 1
     }
   ]
 }
