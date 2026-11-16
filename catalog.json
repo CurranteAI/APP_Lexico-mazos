@@ -1,7 +1,7 @@
 {
   "format": "lexico-catalogo",
   "version": 1,
-  "updated": "2026-11-13",
+  "updated": "2026-11-16",
   "items": [
     {
       "kind": "deck",
@@ -47,24 +47,6 @@
       "file": "decks/verbs-40.json",
       "words": 40,
       "version": 2
-    },
-    {
-      "kind": "deck",
-      "id": "gramatica-contexto",
-      "name": "Gramática en contexto",
-      "description": "Palabras de la teoría (interrogativos, pronombres, artículos, posesivos, preposiciones…). No sabida: frase completa con la palabra resaltada; aprendida: la palabra sola.",
-      "file": "decks/gramatica-contexto.json",
-      "words": 161,
-      "version": 1
-    },
-    {
-      "kind": "deck",
-      "id": "nouns-a1-100-v2",
-      "name": "Alemán · 100 sustantivos (versión 2)",
-      "description": "Copia del mazo de 100 sustantivos con el plural y el género de cada palabra. El original no se toca.",
-      "file": "decks/nouns-a1-100-v2.json",
-      "words": 100,
-      "version": 1
     }
   ]
 }
