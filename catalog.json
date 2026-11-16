@@ -56,6 +56,24 @@
       "file": "decks/gramatica.json",
       "words": 148,
       "version": 1
+    },
+    {
+      "kind": "deck",
+      "id": "a1-correccion",
+      "name": "Alemán · Primeros pasos_corrección",
+      "description": "Copia con artículos, género y audios Microsoft Tanja. Conserva las 168 tarjetas y añade 7 sustantivos de las expresiones.",
+      "file": "decks/a1_correccion.json",
+      "words": 175,
+      "version": 1
+    },
+    {
+      "kind": "deck",
+      "id": "nouns-a1-100-correccion",
+      "name": "Alemán · 100 sustantivos_corrección",
+      "description": "Copia con artículos, género y audios Microsoft Tanja. Conserva los 100 sustantivos originales.",
+      "file": "decks/nouns-a1-100_correccion.json",
+      "words": 100,
+      "version": 1
     }
   ]
 }

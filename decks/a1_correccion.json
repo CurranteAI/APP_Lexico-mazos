@@ -1,0 +1,1458 @@
+{
+  "format": "lexico-mazo",
+  "version": 1,
+  "deck": {
+    "id": "a1-correccion",
+    "name": "Alemán · Primeros pasos_corrección",
+    "status": "active"
+  },
+  "words": [
+    {
+      "id": "seed0-correccion",
+      "family": "Pronombres personales",
+      "de": "ich",
+      "es": "yo",
+      "sourceWord": "seed0",
+      "audio": "audio/tanja-correccion-84c92d8abf326bdb52f1fc6c.mp3"
+    },
+    {
+      "id": "seed1-correccion",
+      "family": "Pronombres personales",
+      "de": "du",
+      "es": "tú",
+      "sourceWord": "seed1",
+      "audio": "audio/tanja-correccion-601b2c2473811afea7864a21.mp3"
+    },
+    {
+      "id": "seed2-correccion",
+      "family": "Pronombres personales",
+      "de": "er",
+      "es": "él",
+      "sourceWord": "seed2",
+      "audio": "audio/tanja-correccion-cc7e4412564ba8a761bd32ab.mp3"
+    },
+    {
+      "id": "seed3-correccion",
+      "family": "Pronombres personales",
+      "de": "sie",
+      "es": "ella",
+      "sourceWord": "seed3",
+      "audio": "audio/tanja-correccion-70f0b8e6e13410a6852579ad.mp3"
+    },
+    {
+      "id": "seed4-correccion",
+      "family": "Pronombres personales",
+      "de": "es",
+      "es": "ello; neutro",
+      "sourceWord": "seed4",
+      "audio": "audio/tanja-correccion-c0bc1e08f9743b2d50d5f160.mp3"
+    },
+    {
+      "id": "seed5-correccion",
+      "family": "Pronombres personales",
+      "de": "wir",
+      "es": "nosotros/as",
+      "sourceWord": "seed5",
+      "audio": "audio/tanja-correccion-999da4de4d657b8e65d59368.mp3"
+    },
+    {
+      "id": "seed6-correccion",
+      "family": "Pronombres personales",
+      "de": "ihr",
+      "es": "vosotros/as",
+      "sourceWord": "seed6",
+      "audio": "audio/tanja-correccion-f15e811721cd2c91e9696fd7.mp3"
+    },
+    {
+      "id": "seed7-correccion",
+      "family": "Pronombres personales",
+      "de": "sie",
+      "es": "ellos/as",
+      "sourceWord": "seed7",
+      "audio": "audio/tanja-correccion-70f0b8e6e13410a6852579ad.mp3"
+    },
+    {
+      "id": "seed8-correccion",
+      "family": "Pronombres personales",
+      "de": "Sie",
+      "es": "usted / ustedes",
+      "sourceWord": "seed8",
+      "audio": "audio/tanja-correccion-752dd02be4dfaa40b9511853.mp3"
+    },
+    {
+      "id": "seed9-correccion",
+      "family": "Artículos",
+      "de": "der Mann",
+      "es": "el hombre",
+      "sourceWord": "seed9",
+      "article": "der",
+      "gender": "m",
+      "lemma": "Mann",
+      "audio": "audio/tanja-correccion-05d5f842296e77f3931b926f.mp3"
+    },
+    {
+      "id": "seed10-correccion",
+      "family": "Artículos",
+      "de": "die Frau",
+      "es": "la mujer",
+      "sourceWord": "seed10",
+      "article": "die",
+      "gender": "f",
+      "lemma": "Frau",
+      "audio": "audio/tanja-correccion-86d4dc95732c901f3619fa0d.mp3"
+    },
+    {
+      "id": "seed11-correccion",
+      "family": "Artículos",
+      "de": "das Kind",
+      "es": "el niño / la niña",
+      "sourceWord": "seed11",
+      "article": "das",
+      "gender": "n",
+      "lemma": "Kind",
+      "audio": "audio/tanja-correccion-1bf9a16f327c342b7b1c6a0c.mp3"
+    },
+    {
+      "id": "seed12-correccion",
+      "family": "Artículos",
+      "de": "die Kinder",
+      "es": "los niños / las niñas (plural de das Kind; género neutro)",
+      "sourceWord": "seed12",
+      "article": "die",
+      "gender": "n",
+      "lemma": "Kind",
+      "number": "plural",
+      "audio": "audio/tanja-correccion-09594b9df4c75a26298856b5.mp3"
+    },
+    {
+      "id": "seed13-correccion",
+      "family": "Artículos",
+      "de": "ein Mann",
+      "es": "un hombre",
+      "sourceWord": "seed13",
+      "article": "ein",
+      "gender": "m",
+      "lemma": "Mann",
+      "audio": "audio/tanja-correccion-064503c0c6df71208e8f2231.mp3"
+    },
+    {
+      "id": "seed14-correccion",
+      "family": "Artículos",
+      "de": "eine Frau",
+      "es": "una mujer",
+      "sourceWord": "seed14",
+      "article": "eine",
+      "gender": "f",
+      "lemma": "Frau",
+      "audio": "audio/tanja-correccion-44e2cd14aab0506e10af138e.mp3"
+    },
+    {
+      "id": "seed15-correccion",
+      "family": "Artículos",
+      "de": "ein Kind",
+      "es": "un niño / una niña",
+      "sourceWord": "seed15",
+      "article": "ein",
+      "gender": "n",
+      "lemma": "Kind",
+      "audio": "audio/tanja-correccion-6240aa3e5393d92fa8fff749.mp3"
+    },
+    {
+      "id": "seed16-correccion",
+      "family": "Verbos esenciales",
+      "de": "sein",
+      "es": "ser / estar",
+      "sourceWord": "seed16",
+      "audio": "audio/tanja-correccion-f0abec8675ebc5503c130517.mp3"
+    },
+    {
+      "id": "seed17-correccion",
+      "family": "Verbos esenciales",
+      "de": "haben",
+      "es": "tener",
+      "sourceWord": "seed17",
+      "audio": "audio/tanja-correccion-ba9d261f6e9cec059a82b9aa.mp3"
+    },
+    {
+      "id": "seed18-correccion",
+      "family": "Verbos esenciales",
+      "de": "heißen",
+      "es": "llamarse",
+      "sourceWord": "seed18",
+      "audio": "audio/tanja-correccion-d291857f6b4bf46279355394.mp3"
+    },
+    {
+      "id": "seed19-correccion",
+      "family": "Verbos esenciales",
+      "de": "kommen",
+      "es": "venir",
+      "sourceWord": "seed19",
+      "audio": "audio/tanja-correccion-529f00bc62dff975aab2f1a4.mp3"
+    },
+    {
+      "id": "seed20-correccion",
+      "family": "Verbos esenciales",
+      "de": "wohnen",
+      "es": "vivir / residir",
+      "sourceWord": "seed20",
+      "audio": "audio/tanja-correccion-4944af70480b82a6c3002d53.mp3"
+    },
+    {
+      "id": "seed21-correccion",
+      "family": "Verbos esenciales",
+      "de": "sprechen",
+      "es": "hablar",
+      "sourceWord": "seed21",
+      "audio": "audio/tanja-correccion-71b9f9cbf552fb790af91435.mp3"
+    },
+    {
+      "id": "seed22-correccion",
+      "family": "Verbos esenciales",
+      "de": "lernen",
+      "es": "aprender",
+      "sourceWord": "seed22",
+      "audio": "audio/tanja-correccion-9533f477c512a096fa5f5563.mp3"
+    },
+    {
+      "id": "seed23-correccion",
+      "family": "Verbos esenciales",
+      "de": "gehen",
+      "es": "ir / andar",
+      "sourceWord": "seed23",
+      "audio": "audio/tanja-correccion-837ceb63da7920ad96d1be73.mp3"
+    },
+    {
+      "id": "seed24-correccion",
+      "family": "Verbos esenciales",
+      "de": "brauchen",
+      "es": "necesitar",
+      "sourceWord": "seed24",
+      "audio": "audio/tanja-correccion-16a104d33063b4f60d6dbe76.mp3"
+    },
+    {
+      "id": "seed25-correccion",
+      "family": "Verbos esenciales",
+      "de": "mögen",
+      "es": "gustar",
+      "sourceWord": "seed25",
+      "audio": "audio/tanja-correccion-da4c4ad8b5593cb87849f5ad.mp3"
+    },
+    {
+      "id": "seed26-correccion",
+      "family": "Verbos esenciales",
+      "de": "essen",
+      "es": "comer",
+      "sourceWord": "seed26",
+      "audio": "audio/tanja-correccion-119ee6901316eec1fa79564f.mp3"
+    },
+    {
+      "id": "seed27-correccion",
+      "family": "Verbos esenciales",
+      "de": "trinken",
+      "es": "beber",
+      "sourceWord": "seed27",
+      "audio": "audio/tanja-correccion-7ab5d8bd3e5fc8eb3ca25215.mp3"
+    },
+    {
+      "id": "seed28-correccion",
+      "family": "Verbos esenciales",
+      "de": "machen",
+      "es": "hacer",
+      "sourceWord": "seed28",
+      "audio": "audio/tanja-correccion-8740c3f7ac25c8871b88a592.mp3"
+    },
+    {
+      "id": "seed29-correccion",
+      "family": "Verbos esenciales",
+      "de": "arbeiten",
+      "es": "trabajar",
+      "sourceWord": "seed29",
+      "audio": "audio/tanja-correccion-f1ce4cfaa9130b286bb732aa.mp3"
+    },
+    {
+      "id": "seed30-correccion",
+      "family": "Verbos esenciales",
+      "de": "kaufen",
+      "es": "comprar",
+      "sourceWord": "seed30",
+      "audio": "audio/tanja-correccion-168ec2b7d6cc9e85709b6665.mp3"
+    },
+    {
+      "id": "seed31-correccion",
+      "family": "Verbos esenciales",
+      "de": "suchen",
+      "es": "buscar",
+      "sourceWord": "seed31",
+      "audio": "audio/tanja-correccion-a02b10335a385c04ca0c36da.mp3"
+    },
+    {
+      "id": "seed32-correccion",
+      "family": "Verbos esenciales",
+      "de": "verstehen",
+      "es": "entender",
+      "sourceWord": "seed32",
+      "audio": "audio/tanja-correccion-bd001d4ba948e64b1665c78f.mp3"
+    },
+    {
+      "id": "seed33-correccion",
+      "family": "Verbos esenciales",
+      "de": "können",
+      "es": "poder",
+      "sourceWord": "seed33",
+      "audio": "audio/tanja-correccion-9bbc28d7306fc59307a76aa6.mp3"
+    },
+    {
+      "id": "seed34-correccion",
+      "family": "Verbos esenciales",
+      "de": "wollen",
+      "es": "querer",
+      "sourceWord": "seed34",
+      "audio": "audio/tanja-correccion-75e6d0fc3c87a18eefeaa867.mp3"
+    },
+    {
+      "id": "seed35-correccion",
+      "family": "Verbos esenciales",
+      "de": "wissen",
+      "es": "saber un dato",
+      "sourceWord": "seed35",
+      "audio": "audio/tanja-correccion-ed83bb1519d2dd3e9797c78a.mp3"
+    },
+    {
+      "id": "seed36-correccion",
+      "family": "Preguntas",
+      "de": "wer",
+      "es": "quién",
+      "sourceWord": "seed36",
+      "audio": "audio/tanja-correccion-e797c0013811a1d1e35ad7ed.mp3"
+    },
+    {
+      "id": "seed37-correccion",
+      "family": "Preguntas",
+      "de": "was",
+      "es": "qué",
+      "sourceWord": "seed37",
+      "audio": "audio/tanja-correccion-b63b99f6383ba713b57ddfc7.mp3"
+    },
+    {
+      "id": "seed38-correccion",
+      "family": "Preguntas",
+      "de": "wo",
+      "es": "dónde",
+      "sourceWord": "seed38",
+      "audio": "audio/tanja-correccion-f8f26225fd1d7a1c68981c94.mp3"
+    },
+    {
+      "id": "seed39-correccion",
+      "family": "Preguntas",
+      "de": "wohin",
+      "es": "adónde",
+      "sourceWord": "seed39",
+      "audio": "audio/tanja-correccion-5d0f856ff3a6f5417820c18e.mp3"
+    },
+    {
+      "id": "seed40-correccion",
+      "family": "Preguntas",
+      "de": "woher",
+      "es": "de dónde",
+      "sourceWord": "seed40",
+      "audio": "audio/tanja-correccion-c58061e325595c5714b8d7c3.mp3"
+    },
+    {
+      "id": "seed41-correccion",
+      "family": "Preguntas",
+      "de": "wie",
+      "es": "cómo",
+      "sourceWord": "seed41",
+      "audio": "audio/tanja-correccion-4a3f1139f614aab2af8d024c.mp3"
+    },
+    {
+      "id": "seed42-correccion",
+      "family": "Preguntas",
+      "de": "wann",
+      "es": "cuándo",
+      "sourceWord": "seed42",
+      "audio": "audio/tanja-correccion-5d99599b60a043d425432e6b.mp3"
+    },
+    {
+      "id": "seed43-correccion",
+      "family": "Preguntas",
+      "de": "warum",
+      "es": "por qué",
+      "sourceWord": "seed43",
+      "audio": "audio/tanja-correccion-8686500d6c75cc9bb9284481.mp3"
+    },
+    {
+      "id": "seed44-correccion",
+      "family": "Preguntas",
+      "de": "wie viel",
+      "es": "cuánto",
+      "sourceWord": "seed44",
+      "audio": "audio/tanja-correccion-3c37e4ca7c9e0e88693c58c7.mp3"
+    },
+    {
+      "id": "seed45-correccion",
+      "family": "Saludos y expresiones",
+      "de": "Hallo",
+      "es": "Hola",
+      "sourceWord": "seed45",
+      "audio": "audio/tanja-correccion-753692ec36adb4c794c97394.mp3"
+    },
+    {
+      "id": "seed46-correccion",
+      "family": "Saludos y expresiones",
+      "de": "Guten Morgen",
+      "es": "Buenos días",
+      "sourceWord": "seed46",
+      "audio": "audio/tanja-correccion-c872cd6d08e13b1c0d98910b.mp3"
+    },
+    {
+      "id": "seed47-correccion",
+      "family": "Saludos y expresiones",
+      "de": "Guten Tag",
+      "es": "Buenos días / buenas tardes",
+      "sourceWord": "seed47",
+      "audio": "audio/tanja-correccion-6b973d266dfceb93f1bb5a68.mp3"
+    },
+    {
+      "id": "seed48-correccion",
+      "family": "Saludos y expresiones",
+      "de": "Guten Abend",
+      "es": "Buenas tardes / noches al llegar",
+      "sourceWord": "seed48",
+      "audio": "audio/tanja-correccion-fa5eacd79f716293744c3aea.mp3"
+    },
+    {
+      "id": "seed49-correccion",
+      "family": "Saludos y expresiones",
+      "de": "Gute Nacht",
+      "es": "Buenas noches antes de dormir",
+      "sourceWord": "seed49",
+      "audio": "audio/tanja-correccion-1a88dbfbc73aecbdc39c62e7.mp3"
+    },
+    {
+      "id": "seed50-correccion",
+      "family": "Saludos y expresiones",
+      "de": "Tschüss",
+      "es": "Adiós informal",
+      "sourceWord": "seed50",
+      "audio": "audio/tanja-correccion-ae04312b91230acc75758bd3.mp3"
+    },
+    {
+      "id": "seed51-correccion",
+      "family": "Saludos y expresiones",
+      "de": "Auf Wiedersehen",
+      "es": "Adiós formal",
+      "sourceWord": "seed51",
+      "audio": "audio/tanja-correccion-6a8284819483191d20800c8b.mp3"
+    },
+    {
+      "id": "seed52-correccion",
+      "family": "Saludos y expresiones",
+      "de": "bitte",
+      "es": "por favor / de nada",
+      "sourceWord": "seed52",
+      "audio": "audio/tanja-correccion-cca501495f4d40c2a3c570b1.mp3"
+    },
+    {
+      "id": "seed53-correccion",
+      "family": "Saludos y expresiones",
+      "de": "danke",
+      "es": "gracias",
+      "sourceWord": "seed53",
+      "audio": "audio/tanja-correccion-ff1fd0804def10ad2c64ecd1.mp3"
+    },
+    {
+      "id": "seed54-correccion",
+      "family": "Saludos y expresiones",
+      "de": "Entschuldigung",
+      "es": "perdón",
+      "sourceWord": "seed54",
+      "audio": "audio/tanja-correccion-e71b04791a00ccfb0a0b3732.mp3"
+    },
+    {
+      "id": "seed55-correccion",
+      "family": "Saludos y expresiones",
+      "de": "Ich heiße Roi.",
+      "es": "Me llamo Roi.",
+      "sourceWord": "seed55",
+      "audio": "audio/tanja-correccion-aae5f68da5a718b7d380a814.mp3"
+    },
+    {
+      "id": "seed56-correccion",
+      "family": "Saludos y expresiones",
+      "de": "Ich brauche Hilfe.",
+      "es": "Necesito ayuda.",
+      "sourceWord": "seed56",
+      "audio": "audio/tanja-correccion-da4092712b6cb476ca50287c.mp3"
+    },
+    {
+      "id": "seed57-correccion",
+      "family": "Colores",
+      "de": "schwarz",
+      "es": "negro",
+      "sourceWord": "seed57",
+      "audio": "audio/tanja-correccion-2993f8453f06da87d9df99e0.mp3"
+    },
+    {
+      "id": "seed58-correccion",
+      "family": "Colores",
+      "de": "weiß",
+      "es": "blanco",
+      "sourceWord": "seed58",
+      "audio": "audio/tanja-correccion-5281e4cf0e28cc0e53f46204.mp3"
+    },
+    {
+      "id": "seed59-correccion",
+      "family": "Colores",
+      "de": "rot",
+      "es": "rojo",
+      "sourceWord": "seed59",
+      "audio": "audio/tanja-correccion-7ec879c8c860699e23145733.mp3"
+    },
+    {
+      "id": "seed60-correccion",
+      "family": "Colores",
+      "de": "blau",
+      "es": "azul",
+      "sourceWord": "seed60",
+      "audio": "audio/tanja-correccion-f4335a17539e2af6bc91454d.mp3"
+    },
+    {
+      "id": "seed61-correccion",
+      "family": "Colores",
+      "de": "grün",
+      "es": "verde",
+      "sourceWord": "seed61",
+      "audio": "audio/tanja-correccion-fe263064ba02eaeac482aaf1.mp3"
+    },
+    {
+      "id": "seed62-correccion",
+      "family": "Colores",
+      "de": "gelb",
+      "es": "amarillo",
+      "sourceWord": "seed62",
+      "audio": "audio/tanja-correccion-c55da503600697df3f5d1097.mp3"
+    },
+    {
+      "id": "seed63-correccion",
+      "family": "Colores",
+      "de": "orange",
+      "es": "naranja",
+      "sourceWord": "seed63",
+      "audio": "audio/tanja-correccion-1b4c9133da73a71132240431.mp3"
+    },
+    {
+      "id": "seed64-correccion",
+      "family": "Colores",
+      "de": "rosa",
+      "es": "rosa",
+      "sourceWord": "seed64",
+      "audio": "audio/tanja-correccion-6a61eb7383e868f226d30d31.mp3"
+    },
+    {
+      "id": "seed65-correccion",
+      "family": "Colores",
+      "de": "lila",
+      "es": "violeta",
+      "sourceWord": "seed65",
+      "audio": "audio/tanja-correccion-e6ae6e617178aca2cc02db3a.mp3"
+    },
+    {
+      "id": "seed66-correccion",
+      "family": "Colores",
+      "de": "grau",
+      "es": "gris",
+      "sourceWord": "seed66",
+      "audio": "audio/tanja-correccion-b10ed66742452fffadf156d0.mp3"
+    },
+    {
+      "id": "seed67-correccion",
+      "family": "Números 0–100",
+      "de": "null",
+      "es": "0",
+      "sourceWord": "seed67",
+      "audio": "audio/tanja-correccion-74234e98afe7498fb5daf1f3.mp3"
+    },
+    {
+      "id": "seed68-correccion",
+      "family": "Números 0–100",
+      "de": "eins",
+      "es": "1",
+      "sourceWord": "seed68",
+      "audio": "audio/tanja-correccion-bfd6b995588ec54ce16871bc.mp3"
+    },
+    {
+      "id": "seed69-correccion",
+      "family": "Números 0–100",
+      "de": "zwei",
+      "es": "2",
+      "sourceWord": "seed69",
+      "audio": "audio/tanja-correccion-9dbe3cfc5af797f3516eb7c9.mp3"
+    },
+    {
+      "id": "seed70-correccion",
+      "family": "Números 0–100",
+      "de": "drei",
+      "es": "3",
+      "sourceWord": "seed70",
+      "audio": "audio/tanja-correccion-6b70e2d592dd17196b794057.mp3"
+    },
+    {
+      "id": "seed71-correccion",
+      "family": "Números 0–100",
+      "de": "vier",
+      "es": "4",
+      "sourceWord": "seed71",
+      "audio": "audio/tanja-correccion-6b8baccb2f21e7cc3496c963.mp3"
+    },
+    {
+      "id": "seed72-correccion",
+      "family": "Números 0–100",
+      "de": "fünf",
+      "es": "5",
+      "sourceWord": "seed72",
+      "audio": "audio/tanja-correccion-d26898598758e7790be4ffa1.mp3"
+    },
+    {
+      "id": "seed73-correccion",
+      "family": "Números 0–100",
+      "de": "sechs",
+      "es": "6",
+      "sourceWord": "seed73",
+      "audio": "audio/tanja-correccion-ed8862db32fe9ba7a0a0922f.mp3"
+    },
+    {
+      "id": "seed74-correccion",
+      "family": "Números 0–100",
+      "de": "sieben",
+      "es": "7",
+      "sourceWord": "seed74",
+      "audio": "audio/tanja-correccion-1e9d34deb9f9902732935c78.mp3"
+    },
+    {
+      "id": "seed75-correccion",
+      "family": "Números 0–100",
+      "de": "acht",
+      "es": "8",
+      "sourceWord": "seed75",
+      "audio": "audio/tanja-correccion-fb33ab7105db46d8a43042ad.mp3"
+    },
+    {
+      "id": "seed76-correccion",
+      "family": "Números 0–100",
+      "de": "neun",
+      "es": "9",
+      "sourceWord": "seed76",
+      "audio": "audio/tanja-correccion-d5b7e81295ca0471ca6df83d.mp3"
+    },
+    {
+      "id": "seed77-correccion",
+      "family": "Números 0–100",
+      "de": "zehn",
+      "es": "10",
+      "sourceWord": "seed77",
+      "audio": "audio/tanja-correccion-bedd6f98909f0da2622f39ce.mp3"
+    },
+    {
+      "id": "seed78-correccion",
+      "family": "Números 0–100",
+      "de": "elf",
+      "es": "11",
+      "sourceWord": "seed78",
+      "audio": "audio/tanja-correccion-780d84b20d7ae7e629291939.mp3"
+    },
+    {
+      "id": "seed79-correccion",
+      "family": "Números 0–100",
+      "de": "zwölf",
+      "es": "12",
+      "sourceWord": "seed79",
+      "audio": "audio/tanja-correccion-70f5f8852578418e8af276a8.mp3"
+    },
+    {
+      "id": "seed80-correccion",
+      "family": "Números 0–100",
+      "de": "dreizehn",
+      "es": "13",
+      "sourceWord": "seed80",
+      "audio": "audio/tanja-correccion-c7c7556a0110b2d723bcaed1.mp3"
+    },
+    {
+      "id": "seed81-correccion",
+      "family": "Números 0–100",
+      "de": "vierzehn",
+      "es": "14",
+      "sourceWord": "seed81",
+      "audio": "audio/tanja-correccion-7fd87fbf5eca102248d89e86.mp3"
+    },
+    {
+      "id": "seed82-correccion",
+      "family": "Números 0–100",
+      "de": "fünfzehn",
+      "es": "15",
+      "sourceWord": "seed82",
+      "audio": "audio/tanja-correccion-86d832a39638f3a823359ab1.mp3"
+    },
+    {
+      "id": "seed83-correccion",
+      "family": "Números 0–100",
+      "de": "sechzehn",
+      "es": "16",
+      "sourceWord": "seed83",
+      "audio": "audio/tanja-correccion-2cf3fbb812da4a3a2fb53e20.mp3"
+    },
+    {
+      "id": "seed84-correccion",
+      "family": "Números 0–100",
+      "de": "siebzehn",
+      "es": "17",
+      "sourceWord": "seed84",
+      "audio": "audio/tanja-correccion-154020524df61c3fed536685.mp3"
+    },
+    {
+      "id": "seed85-correccion",
+      "family": "Números 0–100",
+      "de": "achtzehn",
+      "es": "18",
+      "sourceWord": "seed85",
+      "audio": "audio/tanja-correccion-1d5dadc8645bcb5ad7ea8fde.mp3"
+    },
+    {
+      "id": "seed86-correccion",
+      "family": "Números 0–100",
+      "de": "neunzehn",
+      "es": "19",
+      "sourceWord": "seed86",
+      "audio": "audio/tanja-correccion-06385de71001e52363a00882.mp3"
+    },
+    {
+      "id": "seed87-correccion",
+      "family": "Números 0–100",
+      "de": "zwanzig",
+      "es": "20",
+      "sourceWord": "seed87",
+      "audio": "audio/tanja-correccion-cd2a56ee1cb695c0678ecbcc.mp3"
+    },
+    {
+      "id": "seed88-correccion",
+      "family": "Números 0–100",
+      "de": "einundzwanzig",
+      "es": "21",
+      "sourceWord": "seed88",
+      "audio": "audio/tanja-correccion-c89c1f59565b0bbfd0bf7caf.mp3"
+    },
+    {
+      "id": "seed89-correccion",
+      "family": "Números 0–100",
+      "de": "zweiundzwanzig",
+      "es": "22",
+      "sourceWord": "seed89",
+      "audio": "audio/tanja-correccion-f7ecf587ae23d08151e32b27.mp3"
+    },
+    {
+      "id": "seed90-correccion",
+      "family": "Números 0–100",
+      "de": "dreiundzwanzig",
+      "es": "23",
+      "sourceWord": "seed90",
+      "audio": "audio/tanja-correccion-15175528482f38edfc19e02e.mp3"
+    },
+    {
+      "id": "seed91-correccion",
+      "family": "Números 0–100",
+      "de": "vierundzwanzig",
+      "es": "24",
+      "sourceWord": "seed91",
+      "audio": "audio/tanja-correccion-08d45bd491765ce9d4c65f49.mp3"
+    },
+    {
+      "id": "seed92-correccion",
+      "family": "Números 0–100",
+      "de": "fünfundzwanzig",
+      "es": "25",
+      "sourceWord": "seed92",
+      "audio": "audio/tanja-correccion-6e6dc944a83476676da4eff3.mp3"
+    },
+    {
+      "id": "seed93-correccion",
+      "family": "Números 0–100",
+      "de": "sechsundzwanzig",
+      "es": "26",
+      "sourceWord": "seed93",
+      "audio": "audio/tanja-correccion-7f60bc06d7cc83ebbfc571db.mp3"
+    },
+    {
+      "id": "seed94-correccion",
+      "family": "Números 0–100",
+      "de": "siebenundzwanzig",
+      "es": "27",
+      "sourceWord": "seed94",
+      "audio": "audio/tanja-correccion-25c6fc8bf8fb8adb53e6ce33.mp3"
+    },
+    {
+      "id": "seed95-correccion",
+      "family": "Números 0–100",
+      "de": "achtundzwanzig",
+      "es": "28",
+      "sourceWord": "seed95",
+      "audio": "audio/tanja-correccion-fbbbc9228ea184256d65a5a8.mp3"
+    },
+    {
+      "id": "seed96-correccion",
+      "family": "Números 0–100",
+      "de": "neunundzwanzig",
+      "es": "29",
+      "sourceWord": "seed96",
+      "audio": "audio/tanja-correccion-628c0cd262e63b2d3719fefa.mp3"
+    },
+    {
+      "id": "seed97-correccion",
+      "family": "Números 0–100",
+      "de": "dreißig",
+      "es": "30",
+      "sourceWord": "seed97",
+      "audio": "audio/tanja-correccion-211a0073b640cb262d965613.mp3"
+    },
+    {
+      "id": "seed98-correccion",
+      "family": "Números 0–100",
+      "de": "einunddreißig",
+      "es": "31",
+      "sourceWord": "seed98",
+      "audio": "audio/tanja-correccion-69014ec5cb2f71bcee80a79e.mp3"
+    },
+    {
+      "id": "seed99-correccion",
+      "family": "Números 0–100",
+      "de": "zweiunddreißig",
+      "es": "32",
+      "sourceWord": "seed99",
+      "audio": "audio/tanja-correccion-39dd89026754a45400945efe.mp3"
+    },
+    {
+      "id": "seed100-correccion",
+      "family": "Números 0–100",
+      "de": "dreiunddreißig",
+      "es": "33",
+      "sourceWord": "seed100",
+      "audio": "audio/tanja-correccion-475f56f9e7e5c09776306b70.mp3"
+    },
+    {
+      "id": "seed101-correccion",
+      "family": "Números 0–100",
+      "de": "vierunddreißig",
+      "es": "34",
+      "sourceWord": "seed101",
+      "audio": "audio/tanja-correccion-61e3f68b89b093f18580707f.mp3"
+    },
+    {
+      "id": "seed102-correccion",
+      "family": "Números 0–100",
+      "de": "fünfunddreißig",
+      "es": "35",
+      "sourceWord": "seed102",
+      "audio": "audio/tanja-correccion-8c84310f2fd43ff1cc64e98c.mp3"
+    },
+    {
+      "id": "seed103-correccion",
+      "family": "Números 0–100",
+      "de": "sechsunddreißig",
+      "es": "36",
+      "sourceWord": "seed103",
+      "audio": "audio/tanja-correccion-1e024c888ecc998e8cdc9d06.mp3"
+    },
+    {
+      "id": "seed104-correccion",
+      "family": "Números 0–100",
+      "de": "siebenunddreißig",
+      "es": "37",
+      "sourceWord": "seed104",
+      "audio": "audio/tanja-correccion-0d0cd216e2afa2edf4382971.mp3"
+    },
+    {
+      "id": "seed105-correccion",
+      "family": "Números 0–100",
+      "de": "achtunddreißig",
+      "es": "38",
+      "sourceWord": "seed105",
+      "audio": "audio/tanja-correccion-2e91a9d103e870aeadc3a245.mp3"
+    },
+    {
+      "id": "seed106-correccion",
+      "family": "Números 0–100",
+      "de": "neununddreißig",
+      "es": "39",
+      "sourceWord": "seed106",
+      "audio": "audio/tanja-correccion-18b62d2b1d872bb3e5ab9466.mp3"
+    },
+    {
+      "id": "seed107-correccion",
+      "family": "Números 0–100",
+      "de": "vierzig",
+      "es": "40",
+      "sourceWord": "seed107",
+      "audio": "audio/tanja-correccion-ac478c92465a4e3ccdcf75ce.mp3"
+    },
+    {
+      "id": "seed108-correccion",
+      "family": "Números 0–100",
+      "de": "einundvierzig",
+      "es": "41",
+      "sourceWord": "seed108",
+      "audio": "audio/tanja-correccion-4301739b4cbb798570e8236a.mp3"
+    },
+    {
+      "id": "seed109-correccion",
+      "family": "Números 0–100",
+      "de": "zweiundvierzig",
+      "es": "42",
+      "sourceWord": "seed109",
+      "audio": "audio/tanja-correccion-06961f330de0f7c56adfbbe0.mp3"
+    },
+    {
+      "id": "seed110-correccion",
+      "family": "Números 0–100",
+      "de": "dreiundvierzig",
+      "es": "43",
+      "sourceWord": "seed110",
+      "audio": "audio/tanja-correccion-0a5adffc1e8fae48773b840e.mp3"
+    },
+    {
+      "id": "seed111-correccion",
+      "family": "Números 0–100",
+      "de": "vierundvierzig",
+      "es": "44",
+      "sourceWord": "seed111",
+      "audio": "audio/tanja-correccion-ca419677a5f031fc0c158cb5.mp3"
+    },
+    {
+      "id": "seed112-correccion",
+      "family": "Números 0–100",
+      "de": "fünfundvierzig",
+      "es": "45",
+      "sourceWord": "seed112",
+      "audio": "audio/tanja-correccion-9e710f85cbfeb9b38090e0dc.mp3"
+    },
+    {
+      "id": "seed113-correccion",
+      "family": "Números 0–100",
+      "de": "sechsundvierzig",
+      "es": "46",
+      "sourceWord": "seed113",
+      "audio": "audio/tanja-correccion-56799127133a4fd0e40d1bbe.mp3"
+    },
+    {
+      "id": "seed114-correccion",
+      "family": "Números 0–100",
+      "de": "siebenundvierzig",
+      "es": "47",
+      "sourceWord": "seed114",
+      "audio": "audio/tanja-correccion-ab8e06e8bf570e09f63b853f.mp3"
+    },
+    {
+      "id": "seed115-correccion",
+      "family": "Números 0–100",
+      "de": "achtundvierzig",
+      "es": "48",
+      "sourceWord": "seed115",
+      "audio": "audio/tanja-correccion-61efa025758c11d2aef853a9.mp3"
+    },
+    {
+      "id": "seed116-correccion",
+      "family": "Números 0–100",
+      "de": "neunundvierzig",
+      "es": "49",
+      "sourceWord": "seed116",
+      "audio": "audio/tanja-correccion-f03857e8313886de08ea2d2d.mp3"
+    },
+    {
+      "id": "seed117-correccion",
+      "family": "Números 0–100",
+      "de": "fünfzig",
+      "es": "50",
+      "sourceWord": "seed117",
+      "audio": "audio/tanja-correccion-269973463ed6c0ce6111b141.mp3"
+    },
+    {
+      "id": "seed118-correccion",
+      "family": "Números 0–100",
+      "de": "einundfünfzig",
+      "es": "51",
+      "sourceWord": "seed118",
+      "audio": "audio/tanja-correccion-f175c1e5563393988df2d553.mp3"
+    },
+    {
+      "id": "seed119-correccion",
+      "family": "Números 0–100",
+      "de": "zweiundfünfzig",
+      "es": "52",
+      "sourceWord": "seed119",
+      "audio": "audio/tanja-correccion-66fa2f475bf5374c9706201c.mp3"
+    },
+    {
+      "id": "seed120-correccion",
+      "family": "Números 0–100",
+      "de": "dreiundfünfzig",
+      "es": "53",
+      "sourceWord": "seed120",
+      "audio": "audio/tanja-correccion-c8269723863ba86c2dc18a68.mp3"
+    },
+    {
+      "id": "seed121-correccion",
+      "family": "Números 0–100",
+      "de": "vierundfünfzig",
+      "es": "54",
+      "sourceWord": "seed121",
+      "audio": "audio/tanja-correccion-ca1658130034cbf880933a83.mp3"
+    },
+    {
+      "id": "seed122-correccion",
+      "family": "Números 0–100",
+      "de": "fünfundfünfzig",
+      "es": "55",
+      "sourceWord": "seed122",
+      "audio": "audio/tanja-correccion-2ca786c9be7ef24574c327c2.mp3"
+    },
+    {
+      "id": "seed123-correccion",
+      "family": "Números 0–100",
+      "de": "sechsundfünfzig",
+      "es": "56",
+      "sourceWord": "seed123",
+      "audio": "audio/tanja-correccion-cce26e4d18b2b3223c60e432.mp3"
+    },
+    {
+      "id": "seed124-correccion",
+      "family": "Números 0–100",
+      "de": "siebenundfünfzig",
+      "es": "57",
+      "sourceWord": "seed124",
+      "audio": "audio/tanja-correccion-b70603ca04ebd677ac285acd.mp3"
+    },
+    {
+      "id": "seed125-correccion",
+      "family": "Números 0–100",
+      "de": "achtundfünfzig",
+      "es": "58",
+      "sourceWord": "seed125",
+      "audio": "audio/tanja-correccion-f9301efccb96679aa535265c.mp3"
+    },
+    {
+      "id": "seed126-correccion",
+      "family": "Números 0–100",
+      "de": "neunundfünfzig",
+      "es": "59",
+      "sourceWord": "seed126",
+      "audio": "audio/tanja-correccion-98ea239a45eca44bc71e5dd4.mp3"
+    },
+    {
+      "id": "seed127-correccion",
+      "family": "Números 0–100",
+      "de": "sechzig",
+      "es": "60",
+      "sourceWord": "seed127",
+      "audio": "audio/tanja-correccion-a1510e7837174e85d9a0b82b.mp3"
+    },
+    {
+      "id": "seed128-correccion",
+      "family": "Números 0–100",
+      "de": "einundsechzig",
+      "es": "61",
+      "sourceWord": "seed128",
+      "audio": "audio/tanja-correccion-7fbfa166e67808e3da095e7c.mp3"
+    },
+    {
+      "id": "seed129-correccion",
+      "family": "Números 0–100",
+      "de": "zweiundsechzig",
+      "es": "62",
+      "sourceWord": "seed129",
+      "audio": "audio/tanja-correccion-9d0e1726863488008334632d.mp3"
+    },
+    {
+      "id": "seed130-correccion",
+      "family": "Números 0–100",
+      "de": "dreiundsechzig",
+      "es": "63",
+      "sourceWord": "seed130",
+      "audio": "audio/tanja-correccion-44f282ddba7942d76a3661aa.mp3"
+    },
+    {
+      "id": "seed131-correccion",
+      "family": "Números 0–100",
+      "de": "vierundsechzig",
+      "es": "64",
+      "sourceWord": "seed131",
+      "audio": "audio/tanja-correccion-c67dfca8d14af76e9f44f742.mp3"
+    },
+    {
+      "id": "seed132-correccion",
+      "family": "Números 0–100",
+      "de": "fünfundsechzig",
+      "es": "65",
+      "sourceWord": "seed132",
+      "audio": "audio/tanja-correccion-d44a27a4234608925b23f8f0.mp3"
+    },
+    {
+      "id": "seed133-correccion",
+      "family": "Números 0–100",
+      "de": "sechsundsechzig",
+      "es": "66",
+      "sourceWord": "seed133",
+      "audio": "audio/tanja-correccion-a53e905c8031e6344605c668.mp3"
+    },
+    {
+      "id": "seed134-correccion",
+      "family": "Números 0–100",
+      "de": "siebenundsechzig",
+      "es": "67",
+      "sourceWord": "seed134",
+      "audio": "audio/tanja-correccion-031f2396c2902627f895a488.mp3"
+    },
+    {
+      "id": "seed135-correccion",
+      "family": "Números 0–100",
+      "de": "achtundsechzig",
+      "es": "68",
+      "sourceWord": "seed135",
+      "audio": "audio/tanja-correccion-be2a18547da815be8dcb39c8.mp3"
+    },
+    {
+      "id": "seed136-correccion",
+      "family": "Números 0–100",
+      "de": "neunundsechzig",
+      "es": "69",
+      "sourceWord": "seed136",
+      "audio": "audio/tanja-correccion-9dfd56f44f7f39e084279b67.mp3"
+    },
+    {
+      "id": "seed137-correccion",
+      "family": "Números 0–100",
+      "de": "siebzig",
+      "es": "70",
+      "sourceWord": "seed137",
+      "audio": "audio/tanja-correccion-d98122c7190fda25ac2fe6a6.mp3"
+    },
+    {
+      "id": "seed138-correccion",
+      "family": "Números 0–100",
+      "de": "einundsiebzig",
+      "es": "71",
+      "sourceWord": "seed138",
+      "audio": "audio/tanja-correccion-07b4855d6d26ade2babfc74c.mp3"
+    },
+    {
+      "id": "seed139-correccion",
+      "family": "Números 0–100",
+      "de": "zweiundsiebzig",
+      "es": "72",
+      "sourceWord": "seed139",
+      "audio": "audio/tanja-correccion-a592025cbfd9358a4c7ec0b7.mp3"
+    },
+    {
+      "id": "seed140-correccion",
+      "family": "Números 0–100",
+      "de": "dreiundsiebzig",
+      "es": "73",
+      "sourceWord": "seed140",
+      "audio": "audio/tanja-correccion-56129d50e3ec666c27915e88.mp3"
+    },
+    {
+      "id": "seed141-correccion",
+      "family": "Números 0–100",
+      "de": "vierundsiebzig",
+      "es": "74",
+      "sourceWord": "seed141",
+      "audio": "audio/tanja-correccion-c471b7edcba69b785dc89a97.mp3"
+    },
+    {
+      "id": "seed142-correccion",
+      "family": "Números 0–100",
+      "de": "fünfundsiebzig",
+      "es": "75",
+      "sourceWord": "seed142",
+      "audio": "audio/tanja-correccion-90772c3f79ec017ccc1c0094.mp3"
+    },
+    {
+      "id": "seed143-correccion",
+      "family": "Números 0–100",
+      "de": "sechsundsiebzig",
+      "es": "76",
+      "sourceWord": "seed143",
+      "audio": "audio/tanja-correccion-0bef3a877bb2008fe2f78aba.mp3"
+    },
+    {
+      "id": "seed144-correccion",
+      "family": "Números 0–100",
+      "de": "siebenundsiebzig",
+      "es": "77",
+      "sourceWord": "seed144",
+      "audio": "audio/tanja-correccion-bb4342149bcfff3735fa0fb7.mp3"
+    },
+    {
+      "id": "seed145-correccion",
+      "family": "Números 0–100",
+      "de": "achtundsiebzig",
+      "es": "78",
+      "sourceWord": "seed145",
+      "audio": "audio/tanja-correccion-0644e5b7e4aa61f5f59938ec.mp3"
+    },
+    {
+      "id": "seed146-correccion",
+      "family": "Números 0–100",
+      "de": "neunundsiebzig",
+      "es": "79",
+      "sourceWord": "seed146",
+      "audio": "audio/tanja-correccion-8a944e2cfeced9055b9a497c.mp3"
+    },
+    {
+      "id": "seed147-correccion",
+      "family": "Números 0–100",
+      "de": "achtzig",
+      "es": "80",
+      "sourceWord": "seed147",
+      "audio": "audio/tanja-correccion-32323f5eb965e5394a82bd54.mp3"
+    },
+    {
+      "id": "seed148-correccion",
+      "family": "Números 0–100",
+      "de": "einundachtzig",
+      "es": "81",
+      "sourceWord": "seed148",
+      "audio": "audio/tanja-correccion-cb0b19b668d8208263c97473.mp3"
+    },
+    {
+      "id": "seed149-correccion",
+      "family": "Números 0–100",
+      "de": "zweiundachtzig",
+      "es": "82",
+      "sourceWord": "seed149",
+      "audio": "audio/tanja-correccion-a254bf3db3877f6931c9956e.mp3"
+    },
+    {
+      "id": "seed150-correccion",
+      "family": "Números 0–100",
+      "de": "dreiundachtzig",
+      "es": "83",
+      "sourceWord": "seed150",
+      "audio": "audio/tanja-correccion-af70a3d10d9155e4b8cca634.mp3"
+    },
+    {
+      "id": "seed151-correccion",
+      "family": "Números 0–100",
+      "de": "vierundachtzig",
+      "es": "84",
+      "sourceWord": "seed151",
+      "audio": "audio/tanja-correccion-4445476161dc810a821f6543.mp3"
+    },
+    {
+      "id": "seed152-correccion",
+      "family": "Números 0–100",
+      "de": "fünfundachtzig",
+      "es": "85",
+      "sourceWord": "seed152",
+      "audio": "audio/tanja-correccion-2f4998605547cb2bb34beeca.mp3"
+    },
+    {
+      "id": "seed153-correccion",
+      "family": "Números 0–100",
+      "de": "sechsundachtzig",
+      "es": "86",
+      "sourceWord": "seed153",
+      "audio": "audio/tanja-correccion-caf491c901f2afced2833757.mp3"
+    },
+    {
+      "id": "seed154-correccion",
+      "family": "Números 0–100",
+      "de": "siebenundachtzig",
+      "es": "87",
+      "sourceWord": "seed154",
+      "audio": "audio/tanja-correccion-d27ab87860a16544896e2ae0.mp3"
+    },
+    {
+      "id": "seed155-correccion",
+      "family": "Números 0–100",
+      "de": "achtundachtzig",
+      "es": "88",
+      "sourceWord": "seed155",
+      "audio": "audio/tanja-correccion-d4ab17bbe9dabe57adc86c58.mp3"
+    },
+    {
+      "id": "seed156-correccion",
+      "family": "Números 0–100",
+      "de": "neunundachtzig",
+      "es": "89",
+      "sourceWord": "seed156",
+      "audio": "audio/tanja-correccion-e485e1b725b8eca98127fba7.mp3"
+    },
+    {
+      "id": "seed157-correccion",
+      "family": "Números 0–100",
+      "de": "neunzig",
+      "es": "90",
+      "sourceWord": "seed157",
+      "audio": "audio/tanja-correccion-38ed1bfd317f6615816dd3e6.mp3"
+    },
+    {
+      "id": "seed158-correccion",
+      "family": "Números 0–100",
+      "de": "einundneunzig",
+      "es": "91",
+      "sourceWord": "seed158",
+      "audio": "audio/tanja-correccion-ffc11fc31de399d22a7d012d.mp3"
+    },
+    {
+      "id": "seed159-correccion",
+      "family": "Números 0–100",
+      "de": "zweiundneunzig",
+      "es": "92",
+      "sourceWord": "seed159",
+      "audio": "audio/tanja-correccion-2f0abf5a75d425784f8f9471.mp3"
+    },
+    {
+      "id": "seed160-correccion",
+      "family": "Números 0–100",
+      "de": "dreiundneunzig",
+      "es": "93",
+      "sourceWord": "seed160",
+      "audio": "audio/tanja-correccion-5c3956e6f9403c9a6e9379fd.mp3"
+    },
+    {
+      "id": "seed161-correccion",
+      "family": "Números 0–100",
+      "de": "vierundneunzig",
+      "es": "94",
+      "sourceWord": "seed161",
+      "audio": "audio/tanja-correccion-24876618ab2bd493d1ebe46a.mp3"
+    },
+    {
+      "id": "seed162-correccion",
+      "family": "Números 0–100",
+      "de": "fünfundneunzig",
+      "es": "95",
+      "sourceWord": "seed162",
+      "audio": "audio/tanja-correccion-4ad132b6481ce161a799b5ff.mp3"
+    },
+    {
+      "id": "seed163-correccion",
+      "family": "Números 0–100",
+      "de": "sechsundneunzig",
+      "es": "96",
+      "sourceWord": "seed163",
+      "audio": "audio/tanja-correccion-0b948679f157ab1062aa8b87.mp3"
+    },
+    {
+      "id": "seed164-correccion",
+      "family": "Números 0–100",
+      "de": "siebenundneunzig",
+      "es": "97",
+      "sourceWord": "seed164",
+      "audio": "audio/tanja-correccion-99a51e9e2108c95038bfba77.mp3"
+    },
+    {
+      "id": "seed165-correccion",
+      "family": "Números 0–100",
+      "de": "achtundneunzig",
+      "es": "98",
+      "sourceWord": "seed165",
+      "audio": "audio/tanja-correccion-8ffd384ef5e7166279ecb9b8.mp3"
+    },
+    {
+      "id": "seed166-correccion",
+      "family": "Números 0–100",
+      "de": "neunundneunzig",
+      "es": "99",
+      "sourceWord": "seed166",
+      "audio": "audio/tanja-correccion-8f58daeba6f028ac76886bf4.mp3"
+    },
+    {
+      "id": "seed167-correccion",
+      "family": "Números 0–100",
+      "de": "hundert",
+      "es": "100",
+      "sourceWord": "seed167",
+      "audio": "audio/tanja-correccion-9c39e25180169d262c6ff8df.mp3"
+    },
+    {
+      "id": "a1-noun-morgen-correccion",
+      "family": "Sustantivos de las expresiones",
+      "de": "der Morgen",
+      "es": "la mañana (parte del día)",
+      "lemma": "Morgen",
+      "article": "der",
+      "gender": "m",
+      "source": "https://www.duden.de/rechtschreibung/Morgen_Tageszeit",
+      "audio": "audio/tanja-correccion-72947770da98be42fa8b5892.mp3"
+    },
+    {
+      "id": "a1-noun-tag-correccion",
+      "family": "Sustantivos de las expresiones",
+      "de": "der Tag",
+      "es": "el día",
+      "lemma": "Tag",
+      "article": "der",
+      "gender": "m",
+      "source": "https://www.duden.de/rechtschreibung/Tag_Zeiteinheit",
+      "audio": "audio/tanja-correccion-721adbe100b749c4a4b652da.mp3"
+    },
+    {
+      "id": "a1-noun-abend-correccion",
+      "family": "Sustantivos de las expresiones",
+      "de": "der Abend",
+      "es": "la tarde / la noche (antes de acostarse)",
+      "lemma": "Abend",
+      "article": "der",
+      "gender": "m",
+      "source": "https://www.duden.de/rechtschreibung/Abend",
+      "audio": "audio/tanja-correccion-aee14cfdd660781845be1c6b.mp3"
+    },
+    {
+      "id": "a1-noun-nacht-correccion",
+      "family": "Sustantivos de las expresiones",
+      "de": "die Nacht",
+      "es": "la noche",
+      "lemma": "Nacht",
+      "article": "die",
+      "gender": "f",
+      "source": "https://www.duden.de/rechtschreibung/Nacht",
+      "audio": "audio/tanja-correccion-afb43548321ba1b14d262b44.mp3"
+    },
+    {
+      "id": "a1-noun-wiedersehen-correccion",
+      "family": "Sustantivos de las expresiones",
+      "de": "das Wiedersehen",
+      "es": "el reencuentro / volver a verse",
+      "lemma": "Wiedersehen",
+      "article": "das",
+      "gender": "n",
+      "source": "https://www.duden.de/rechtschreibung/Wiedersehen",
+      "audio": "audio/tanja-correccion-76148fcfb86584e9f49b411b.mp3"
+    },
+    {
+      "id": "a1-noun-entschuldigung-correccion",
+      "family": "Sustantivos de las expresiones",
+      "de": "die Entschuldigung",
+      "es": "la disculpa / el perdón",
+      "lemma": "Entschuldigung",
+      "article": "die",
+      "gender": "f",
+      "source": "https://www.duden.de/rechtschreibung/Entschuldigung",
+      "audio": "audio/tanja-correccion-e04928cecb85d0a84379a4d0.mp3"
+    },
+    {
+      "id": "a1-noun-hilfe-correccion",
+      "family": "Sustantivos de las expresiones",
+      "de": "die Hilfe",
+      "es": "la ayuda",
+      "lemma": "Hilfe",
+      "article": "die",
+      "gender": "f",
+      "source": "https://www.duden.de/rechtschreibung/Hilfe",
+      "audio": "audio/tanja-correccion-b3013434c74aa47df8d22754.mp3"
+    }
+  ],
+  "sourceDeck": "a1",
+  "audioVoice": "de-DE-TanjaNeural",
+  "audioRate": "-10%",
+  "audioProvider": "Microsoft Edge text-to-speech via edge-tts"
+}

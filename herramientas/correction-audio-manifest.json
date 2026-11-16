@@ -1,0 +1,1625 @@
+{
+  "voice": "de-DE-TanjaNeural",
+  "rate": "-10%",
+  "provider": "Microsoft Edge via edge-tts",
+  "decks": [
+    "decks/a1_correccion.json",
+    "decks/nouns-a1-100_correccion.json"
+  ],
+  "audio": [
+    {
+      "text": "Auf Wiedersehen",
+      "file": "audio/tanja-correccion-6a8284819483191d20800c8b.mp3",
+      "bytes": 13680,
+      "sha256": "76d2f3b91f59963cb407f7cae01067bf320fde05efbe3c187ea4c8a53a90705c"
+    },
+    {
+      "text": "Entschuldigung",
+      "file": "audio/tanja-correccion-e71b04791a00ccfb0a0b3732.mp3",
+      "bytes": 12384,
+      "sha256": "11dd99ee9d8cebe068626893d1a9d827072ec4c08e8d888bc5c1b49036eae371"
+    },
+    {
+      "text": "Gute Nacht",
+      "file": "audio/tanja-correccion-1a88dbfbc73aecbdc39c62e7.mp3",
+      "bytes": 12240,
+      "sha256": "d2c1ace0d6d07c96bb5497ea246aabc7ce148700bec276a5928bc22c98d11c6d"
+    },
+    {
+      "text": "Guten Abend",
+      "file": "audio/tanja-correccion-fa5eacd79f716293744c3aea.mp3",
+      "bytes": 12960,
+      "sha256": "81c869ef4304a3d30254f06182d823bd9f8e3e04f2138b096c70d9d9cce17650"
+    },
+    {
+      "text": "Guten Morgen",
+      "file": "audio/tanja-correccion-c872cd6d08e13b1c0d98910b.mp3",
+      "bytes": 13248,
+      "sha256": "498391e3f5182d3dd2b568faeea895a0a1424361aa74c1c26c9f07eb232e3d4a"
+    },
+    {
+      "text": "Guten Tag",
+      "file": "audio/tanja-correccion-6b973d266dfceb93f1bb5a68.mp3",
+      "bytes": 12240,
+      "sha256": "0d8f25f343a2924e1a994db1e8fa92026cb0da7cb0b9ab7ff523215da4a96398"
+    },
+    {
+      "text": "Hallo",
+      "file": "audio/tanja-correccion-753692ec36adb4c794c97394.mp3",
+      "bytes": 10080,
+      "sha256": "4483471a4f3348b45ca9bf24a96847ad38655a1c0637c733a23521f6c50a272d"
+    },
+    {
+      "text": "Ich brauche Hilfe.",
+      "file": "audio/tanja-correccion-da4092712b6cb476ca50287c.mp3",
+      "bytes": 14256,
+      "sha256": "617f774e25cd08ca862c44f3ac83394af5002381a653914a048b3443beffe9d7"
+    },
+    {
+      "text": "Ich heiße Roi.",
+      "file": "audio/tanja-correccion-aae5f68da5a718b7d380a814.mp3",
+      "bytes": 13104,
+      "sha256": "0a06ec25e6feff3b21f0637c17d076d7a76c175f1ac774bcb406795eca3677ab"
+    },
+    {
+      "text": "Sie",
+      "file": "audio/tanja-correccion-752dd02be4dfaa40b9511853.mp3",
+      "bytes": 8928,
+      "sha256": "7396925b5c42f49f7a06ba5990e532a84a31aafb97553b4c233e1267843bc289"
+    },
+    {
+      "text": "Tschüss",
+      "file": "audio/tanja-correccion-ae04312b91230acc75758bd3.mp3",
+      "bytes": 9504,
+      "sha256": "a9a1456dd18b82485f8571d62ecde29c78d11c55e461dc3cced9c27de76665c4"
+    },
+    {
+      "text": "acht",
+      "file": "audio/tanja-correccion-fb33ab7105db46d8a43042ad.mp3",
+      "bytes": 9648,
+      "sha256": "33fea8c8404ea94281aded37d2cf2e117185cd8ad79c7c253d13c6096eecdfd8"
+    },
+    {
+      "text": "achtundachtzig",
+      "file": "audio/tanja-correccion-d4ab17bbe9dabe57adc86c58.mp3",
+      "bytes": 13680,
+      "sha256": "4c74b126975a0bc3bc9df808583ee23a8f21489ed81d8eaf5b0bfced921f0a30"
+    },
+    {
+      "text": "achtunddreißig",
+      "file": "audio/tanja-correccion-2e91a9d103e870aeadc3a245.mp3",
+      "bytes": 13680,
+      "sha256": "3eecabc833607773a7d7f24a4bd3a1696a1797b385dd7b8da03904293f306780"
+    },
+    {
+      "text": "achtundfünfzig",
+      "file": "audio/tanja-correccion-f9301efccb96679aa535265c.mp3",
+      "bytes": 14112,
+      "sha256": "9f70f99fc72cfa0b6c0bed583456504f6b0fcc3d06c0a83cc3812f784c54204d"
+    },
+    {
+      "text": "achtundneunzig",
+      "file": "audio/tanja-correccion-8ffd384ef5e7166279ecb9b8.mp3",
+      "bytes": 13536,
+      "sha256": "298e62aaca447b9506a1957d3cad551c1e4f2bc108b886c0b5b4432196428c07"
+    },
+    {
+      "text": "achtundsechzig",
+      "file": "audio/tanja-correccion-be2a18547da815be8dcb39c8.mp3",
+      "bytes": 13968,
+      "sha256": "886a4470131385b428f0740815c51a8accefa82e483d6a786889ecd656005ae6"
+    },
+    {
+      "text": "achtundsiebzig",
+      "file": "audio/tanja-correccion-0644e5b7e4aa61f5f59938ec.mp3",
+      "bytes": 13536,
+      "sha256": "93995f7a16aaf82f0066670575cf807929e66777151ca3334c73ef1ac74f877e"
+    },
+    {
+      "text": "achtundvierzig",
+      "file": "audio/tanja-correccion-61efa025758c11d2aef853a9.mp3",
+      "bytes": 13536,
+      "sha256": "b6046078df7cd53715276efc7f9abf4b31b9f489acdbd3abc9bc7ae9063770fb"
+    },
+    {
+      "text": "achtundzwanzig",
+      "file": "audio/tanja-correccion-fbbbc9228ea184256d65a5a8.mp3",
+      "bytes": 13680,
+      "sha256": "9022f80d46359df5d3fa3750eb2fc31f44d8fbd7ee1ffa694d92704a7e6c99d0"
+    },
+    {
+      "text": "achtzehn",
+      "file": "audio/tanja-correccion-1d5dadc8645bcb5ad7ea8fde.mp3",
+      "bytes": 10944,
+      "sha256": "42482e550b938b666a1691e409d38ecdb2bb886a514315ef6660e55c213d8a77"
+    },
+    {
+      "text": "achtzig",
+      "file": "audio/tanja-correccion-32323f5eb965e5394a82bd54.mp3",
+      "bytes": 10656,
+      "sha256": "4effb7bbd3569834e80b05b5d0ef59cbdf3ec026d311bc21d40228a516977db8"
+    },
+    {
+      "text": "arbeiten",
+      "file": "audio/tanja-correccion-f1ce4cfaa9130b286bb732aa.mp3",
+      "bytes": 11232,
+      "sha256": "3b94794a753b7c013ace9f86b85122be9c664340c306684b3c5a21b76ae7bf3d"
+    },
+    {
+      "text": "bitte",
+      "file": "audio/tanja-correccion-cca501495f4d40c2a3c570b1.mp3",
+      "bytes": 9216,
+      "sha256": "95035dff74f66ca41469dca89f3bc12bd4e0f30771cacfb8104292acfad987b1"
+    },
+    {
+      "text": "blau",
+      "file": "audio/tanja-correccion-f4335a17539e2af6bc91454d.mp3",
+      "bytes": 9072,
+      "sha256": "6b281cb6bf1a5b34b43edf316b8af8ea05ebd3d38450d9f7be53a4fd54fe948e"
+    },
+    {
+      "text": "brauchen",
+      "file": "audio/tanja-correccion-16a104d33063b4f60d6dbe76.mp3",
+      "bytes": 10656,
+      "sha256": "45dfbd305ea7d0712baf8752c74988e5a650d5a00d768e77128fc4d98b455cb6"
+    },
+    {
+      "text": "danke",
+      "file": "audio/tanja-correccion-ff1fd0804def10ad2c64ecd1.mp3",
+      "bytes": 10080,
+      "sha256": "8940b69756fdd7856750c85271fecc2ab5dd8e858b4b0fa6732d58abb439a39a"
+    },
+    {
+      "text": "das Auge",
+      "file": "audio/tanja-correccion-16d2c2fd1cf3bd6f0d78c3b9.mp3",
+      "bytes": 11232,
+      "sha256": "5cc0cc8983bf9b803f550607760e1a4dc3a8e673404b8bf6b57165f5bb119cb1"
+    },
+    {
+      "text": "das Auto",
+      "file": "audio/tanja-correccion-b8460049fb0b5b667303ffdf.mp3",
+      "bytes": 11376,
+      "sha256": "d7c35dbc6e7a985012a3567cc4974d7b5b1ed5ff16b37b2c098988957a06f60d"
+    },
+    {
+      "text": "das Badezimmer",
+      "file": "audio/tanja-correccion-b4faf8c48e47b254b88f8aed.mp3",
+      "bytes": 13824,
+      "sha256": "847f94d9a0df4390f8f865bc688e760f2e1cdfb7edb8f9161b3e9d30c7e60474"
+    },
+    {
+      "text": "das Bein",
+      "file": "audio/tanja-correccion-557316d6057d0434055ec59e.mp3",
+      "bytes": 10656,
+      "sha256": "a3371d6d0b818a958068b916f7aa0a1b8dbd8f1f2fdf4c95d52fb43e6a02b26a"
+    },
+    {
+      "text": "das Bett",
+      "file": "audio/tanja-correccion-201d140cdf542f3b0179c06f.mp3",
+      "bytes": 11088,
+      "sha256": "3f8c198cc59681bfe7ade6372a11c9a5d27b0fab6dd07e754241d62403bce8cf"
+    },
+    {
+      "text": "das Bier",
+      "file": "audio/tanja-correccion-64fd5a8dc11254e561bf85ea.mp3",
+      "bytes": 10944,
+      "sha256": "b88a90148539123dcdd222aa9435b92805e573c05b5e0ee22a6bcc5fbdef6cc2"
+    },
+    {
+      "text": "das Brot",
+      "file": "audio/tanja-correccion-6643f2f410cea7dc1c0b2301.mp3",
+      "bytes": 11376,
+      "sha256": "d9039a4d940f0fd29bacae0270f6433722959b6d9e015b31903200f9b753ae48"
+    },
+    {
+      "text": "das Buch",
+      "file": "audio/tanja-correccion-fa8e985dfea42293692c1730.mp3",
+      "bytes": 11376,
+      "sha256": "7b22305ce45d6759df21cbbc211f528cb22ad47ae1c8682ddf303da992c78d10"
+    },
+    {
+      "text": "das Dorf",
+      "file": "audio/tanja-correccion-c23182f8e039bd40a8c0cf5e.mp3",
+      "bytes": 11376,
+      "sha256": "90e6900bb88c7b60ea3e159a91605374bf59926c5f43f3ed9d1eab7e88382f19"
+    },
+    {
+      "text": "das Ei",
+      "file": "audio/tanja-correccion-f7d7725651c7dcfb211d4227.mp3",
+      "bytes": 10368,
+      "sha256": "ca849f68f068a8704cb1289db929147079db394c82532b4027a075270841b762"
+    },
+    {
+      "text": "das Fahrrad",
+      "file": "audio/tanja-correccion-e1f80c7835a8ad8a68b0b3d3.mp3",
+      "bytes": 13104,
+      "sha256": "c2592fd9134b7bd1a8d1e4f66328bd92fca592ec065d866ac88957e5ec6008ca"
+    },
+    {
+      "text": "das Fenster",
+      "file": "audio/tanja-correccion-e69cbb9a57fd606fa7cb0e92.mp3",
+      "bytes": 12096,
+      "sha256": "b692db6023adf2d260b06b324dfbf826956fde077812995b8f776a27166dedce"
+    },
+    {
+      "text": "das Fleisch",
+      "file": "audio/tanja-correccion-2c69f888ece6db63e25e13cb.mp3",
+      "bytes": 11520,
+      "sha256": "0c3f0ee6657c5cdf29c9d444279008e04fcba9579c69529e15c17083b47a2bcf"
+    },
+    {
+      "text": "das Flugzeug",
+      "file": "audio/tanja-correccion-267c1070286c7e57962a3f85.mp3",
+      "bytes": 12960,
+      "sha256": "0fac7bf3de2dee926c984221edb4f03e39f114c6dacf611e0dcc593724605f38"
+    },
+    {
+      "text": "das Gesicht",
+      "file": "audio/tanja-correccion-f8d3bdda23083820ea6248a5.mp3",
+      "bytes": 12240,
+      "sha256": "e08a9b6bce5bca8a81479651d1f14e32d595e6067db68fd70f9abea1e5de9c79"
+    },
+    {
+      "text": "das Haus",
+      "file": "audio/tanja-correccion-e537e289a34f5119d4ab0c30.mp3",
+      "bytes": 11520,
+      "sha256": "5ef76bf8b8b1a5ec305699690a7f8263b235addef2bb4127ef7fa8478b42e956"
+    },
+    {
+      "text": "das Heft",
+      "file": "audio/tanja-correccion-9d7934a447bffd45a737737a.mp3",
+      "bytes": 11088,
+      "sha256": "e03117707698066943acb6974052e9c5fc71c3475d3aec48a0af8fa86696d703"
+    },
+    {
+      "text": "das Hemd",
+      "file": "audio/tanja-correccion-be2d6d4cb8d932267e2f8d4c.mp3",
+      "bytes": 11232,
+      "sha256": "6b2eaa969cd9ec811a513dce8ea51afe17ebe3f09c555f64bb7c0e080190d802"
+    },
+    {
+      "text": "das Jahr",
+      "file": "audio/tanja-correccion-3514df498a8fd9521155d303.mp3",
+      "bytes": 10800,
+      "sha256": "875799f9744747eeb95055052520c6e9ce8a7c753ac5cd2fa1226efe93c1efbd"
+    },
+    {
+      "text": "das Kind",
+      "file": "audio/tanja-correccion-1bf9a16f327c342b7b1c6a0c.mp3",
+      "bytes": 11232,
+      "sha256": "b82a0bc55473d7f43991f6f24deb6786b244d63b39d01e82df3190f7c28c2208"
+    },
+    {
+      "text": "das Kleid",
+      "file": "audio/tanja-correccion-c5acfae3ff25a1070de0ee26.mp3",
+      "bytes": 11376,
+      "sha256": "5baa5d935753809a8feceae24dd156004be8873eb02d86d0305740fea3696013"
+    },
+    {
+      "text": "das Krankenhaus",
+      "file": "audio/tanja-correccion-4c17066bd2e5ed1a2591027c.mp3",
+      "bytes": 14112,
+      "sha256": "453397862f21a85be8b230128647139a4d7322479d0d4e6fc76ede195c7747fd"
+    },
+    {
+      "text": "das Motorrad",
+      "file": "audio/tanja-correccion-96f3a37e2058345b101efd72.mp3",
+      "bytes": 13392,
+      "sha256": "76f0ff6b84b573076ad627a2158aac2de7f188cf9a4d9d9b7fe48014717a9906"
+    },
+    {
+      "text": "das Ohr",
+      "file": "audio/tanja-correccion-0a7b2badd352f4898b7cc33a.mp3",
+      "bytes": 10800,
+      "sha256": "a56a4f4dee334759cb82dfc60686ffd826e60421f5131e78c01c7639efbe4f99"
+    },
+    {
+      "text": "das Papier",
+      "file": "audio/tanja-correccion-03484fb91f6e8f5708586c2e.mp3",
+      "bytes": 11808,
+      "sha256": "d9e655159b257e7916d3636e3ebd2541b659d048901a6e53ff9e14024a3d64f5"
+    },
+    {
+      "text": "das Restaurant",
+      "file": "audio/tanja-correccion-36c43db873bddfdb3ad4907e.mp3",
+      "bytes": 12960,
+      "sha256": "94314c529b4bd5c30a2744b8af7fa3ce4029beeb88bc7515dd3b92417746abab"
+    },
+    {
+      "text": "das Schiff",
+      "file": "audio/tanja-correccion-0eaefdd20969ebbe2c91b7ec.mp3",
+      "bytes": 11088,
+      "sha256": "08183f0ba29eefbd3737c8cee6b75a9ea701360085327a9ff47f5bb35a1d71d0"
+    },
+    {
+      "text": "das T-Shirt",
+      "file": "audio/tanja-correccion-1d4b3b3c9d8a46a2044efb6c.mp3",
+      "bytes": 12960,
+      "sha256": "e8a4435e755d01898e1fb649434606799b39366de08e0f061da24e0329162011"
+    },
+    {
+      "text": "das Wasser",
+      "file": "audio/tanja-correccion-65120e5d301866e4cfe22ded.mp3",
+      "bytes": 11376,
+      "sha256": "6d31aa90454efc3015f09f4da85ed175b77b7cee919b23f4f933a7264c15528a"
+    },
+    {
+      "text": "das Wiedersehen",
+      "file": "audio/tanja-correccion-76148fcfb86584e9f49b411b.mp3",
+      "bytes": 13392,
+      "sha256": "9cebc437b3d6017d0b4a30be795108b299879a536036acceab017211e3610a99"
+    },
+    {
+      "text": "das Zimmer",
+      "file": "audio/tanja-correccion-f578ef29eaf1515cfd06eb28.mp3",
+      "bytes": 11664,
+      "sha256": "50c8df5e21db75692e54206e21e49eb8fb4105d5251e852959eb0536051c35f5"
+    },
+    {
+      "text": "der Abend",
+      "file": "audio/tanja-correccion-aee14cfdd660781845be1c6b.mp3",
+      "bytes": 11664,
+      "sha256": "14863cb509fc4315f2ee052b90a3deac65335ada5caab198c0f1c2d6e95c2255"
+    },
+    {
+      "text": "der Apfel",
+      "file": "audio/tanja-correccion-ffb93ae3703c904b6a8fa29c.mp3",
+      "bytes": 11232,
+      "sha256": "ddbe6905e6ad90617be68af9f4c55d0269ee659f3c386232dce52ce873cb9fc3"
+    },
+    {
+      "text": "der Arm",
+      "file": "audio/tanja-correccion-ffec361fd651430d9b07dc79.mp3",
+      "bytes": 10944,
+      "sha256": "e330447f4434bce57fa164030bc5b9782e8322394f15bde2bed10b9e9577ae16"
+    },
+    {
+      "text": "der Bahnhof",
+      "file": "audio/tanja-correccion-c9daa2847c88f97416d6510c.mp3",
+      "bytes": 13104,
+      "sha256": "f7db211dd288d83c1f3a705c35e32716a04dc4332422e7aaa76ff930f21e9847"
+    },
+    {
+      "text": "der Bruder",
+      "file": "audio/tanja-correccion-e6dda6d1456e9ab28b674a2d.mp3",
+      "bytes": 11376,
+      "sha256": "abdc355390ce6d4795bd974066192d59678e3e069f767393c8b8e3d08608d34a"
+    },
+    {
+      "text": "der Bus",
+      "file": "audio/tanja-correccion-fb3e25f5e2e7c97649f4080b.mp3",
+      "bytes": 10512,
+      "sha256": "2f728540c99532c3b00bba4278d667094abceeba2a0d74a273aaf75b57018579"
+    },
+    {
+      "text": "der Fisch",
+      "file": "audio/tanja-correccion-31fa197389b571285c0f3a66.mp3",
+      "bytes": 10800,
+      "sha256": "3de0f932c4a519439e3ddb3de703126d2c759f1006164e8129aadbf1adbc8f3d"
+    },
+    {
+      "text": "der Flughafen",
+      "file": "audio/tanja-correccion-c043e33ec85c4506628e8b78.mp3",
+      "bytes": 13680,
+      "sha256": "cdf5a7d381fba62e5d32ee1d74c27450e83533a611df7396eefef1fef1f6b31e"
+    },
+    {
+      "text": "der Fuß",
+      "file": "audio/tanja-correccion-af03a3f0d76e155809ce0361.mp3",
+      "bytes": 11664,
+      "sha256": "270505086f3d88a93825ea21c84ae4a0eae4eeed998da376416be987f425030c"
+    },
+    {
+      "text": "der Großvater",
+      "file": "audio/tanja-correccion-c50405119f65e5277806ff7a.mp3",
+      "bytes": 13536,
+      "sha256": "6a9d2b9d1087e9bc55fea63e765804f4e79557784ac6628840a82fe1188ae287"
+    },
+    {
+      "text": "der Kaffee",
+      "file": "audio/tanja-correccion-50b3e3d5d6ecb37db423044d.mp3",
+      "bytes": 11232,
+      "sha256": "9c26caf9a9937249f089daff4eff7aa367d2ad9690af9eca76964f04551779a1"
+    },
+    {
+      "text": "der Kakao",
+      "file": "audio/tanja-correccion-bffe2a734fd6831aca01cf59.mp3",
+      "bytes": 11232,
+      "sha256": "de8f556162c5c43abef375beeae105a8486006a17cfbd2732e41db732d9a635b"
+    },
+    {
+      "text": "der Kopf",
+      "file": "audio/tanja-correccion-0c892ef18b20c5cb806a6672.mp3",
+      "bytes": 11088,
+      "sha256": "d1f6f085ff56e14e8f8d7a4fdf2068cbeb375d7d9cc177daea2f582b85ad21c5"
+    },
+    {
+      "text": "der Käse",
+      "file": "audio/tanja-correccion-923a2b14be5ca8a15ad04f2e.mp3",
+      "bytes": 11232,
+      "sha256": "815e6ad302cd2b95e0510cd18c0f93c8e30efe51a55c720d24ac78830a9a7b88"
+    },
+    {
+      "text": "der Lehrer",
+      "file": "audio/tanja-correccion-c8c3576e9fbd39ff51612888.mp3",
+      "bytes": 11664,
+      "sha256": "7d1978b5aaa82e362cab6b91c252fa881f7ffa5fbf7d3e2cb87cd78c0861cb76"
+    },
+    {
+      "text": "der Mann",
+      "file": "audio/tanja-correccion-05d5f842296e77f3931b926f.mp3",
+      "bytes": 10368,
+      "sha256": "0eca1b6cd374b615138d824add606a16042bad0610f692f33b9d391d2272968d"
+    },
+    {
+      "text": "der Mantel",
+      "file": "audio/tanja-correccion-f06828123bf65c9f1c4f6144.mp3",
+      "bytes": 11088,
+      "sha256": "97788e6ad089725bc4a114dfd96abf3a8222eba3c918da59746981329287f493"
+    },
+    {
+      "text": "der Monat",
+      "file": "audio/tanja-correccion-0590a122703557be9adf5757.mp3",
+      "bytes": 11664,
+      "sha256": "e0037dd7775cf02b96f3f7107f9c3c444f0158ea718a8508444c2a9eb2fee7ad"
+    },
+    {
+      "text": "der Morgen",
+      "file": "audio/tanja-correccion-72947770da98be42fa8b5892.mp3",
+      "bytes": 12240,
+      "sha256": "da10391018dced0dfb6e98ac3decd72bacfe0ff6311f0ac13cd127753a274fbf"
+    },
+    {
+      "text": "der Mund",
+      "file": "audio/tanja-correccion-d9f8dd0e53af1a70e0444706.mp3",
+      "bytes": 11088,
+      "sha256": "11fe025302b569b749fea1a436226af8e3bc891fa749148bbb2a170fea725995"
+    },
+    {
+      "text": "der Park",
+      "file": "audio/tanja-correccion-cf6166a7f4479becc0f266b7.mp3",
+      "bytes": 11232,
+      "sha256": "3b7358ef99b9d524d7d4c185674f992c5cc63b532f56505cfbc8c6f764b6e1d1"
+    },
+    {
+      "text": "der Platz",
+      "file": "audio/tanja-correccion-4956acd4dc782c38c8125074.mp3",
+      "bytes": 11376,
+      "sha256": "ef0e7096d8b8378c7d189b5bc2f22235869bbe704b127e9f93123d358d43b857"
+    },
+    {
+      "text": "der Pullover",
+      "file": "audio/tanja-correccion-ba2c3f3d4bb40a6344535a35.mp3",
+      "bytes": 13104,
+      "sha256": "f8d025d6d735586806b4b73f46ef25ae8b83ebb9204d10bd68bb6829594b4303"
+    },
+    {
+      "text": "der Reis",
+      "file": "audio/tanja-correccion-185e23dc6d5a646c66ef339d.mp3",
+      "bytes": 11376,
+      "sha256": "99f3f998963ea351315e6f8b0ec0c21f888f599445e3b0bbd8a47434fc3909f9"
+    },
+    {
+      "text": "der Rock",
+      "file": "audio/tanja-correccion-2ffafc1a6f578299ef50cf02.mp3",
+      "bytes": 10512,
+      "sha256": "ad76d030c34cab0e5c5017db4540bd9ad87abf7608326b38d6ea0a2cf6e9bf2c"
+    },
+    {
+      "text": "der Saft",
+      "file": "audio/tanja-correccion-b598e73e3e6679cd5a2e98d1.mp3",
+      "bytes": 11376,
+      "sha256": "7417516a87493d560950131594efae3cec651689dbaae9c2139cf4d0237876d9"
+    },
+    {
+      "text": "der Schuh",
+      "file": "audio/tanja-correccion-effd3597334fc463e7e44cf2.mp3",
+      "bytes": 10512,
+      "sha256": "6447373a0f2eb738780d83294caaecb0128b7cba8d859102459ec74744e44160"
+    },
+    {
+      "text": "der Sohn",
+      "file": "audio/tanja-correccion-d0e50ed238208fd5d2c70ecb.mp3",
+      "bytes": 10944,
+      "sha256": "c0baedae10fd91c7144548cf71c1c23d6c1a31a377f3a6a1b4e9ffbb72ebef5f"
+    },
+    {
+      "text": "der Stift",
+      "file": "audio/tanja-correccion-6e36dbf7e2bbb1bb0daa9db7.mp3",
+      "bytes": 11520,
+      "sha256": "23266405cc877f1ded720663dc7244126dcdcc6e7fe8595835efe0d38412b648"
+    },
+    {
+      "text": "der Stuhl",
+      "file": "audio/tanja-correccion-4fa272d3bcb0fff8d42e74e3.mp3",
+      "bytes": 11232,
+      "sha256": "22b8540ef41163ee445a522d295ff218d1f4ed034ffb4b9951f3fde504c29c60"
+    },
+    {
+      "text": "der Supermarkt",
+      "file": "audio/tanja-correccion-2b3632e12ff9311abf8e4d83.mp3",
+      "bytes": 13536,
+      "sha256": "28362031049f66008f43f59ffbf530e4a434c8d5ca1457bfac42886cad031f27"
+    },
+    {
+      "text": "der Tag",
+      "file": "audio/tanja-correccion-721adbe100b749c4a4b652da.mp3",
+      "bytes": 10800,
+      "sha256": "b3af09432b10341d8d446c323e0685a4f8bc62fd2016d8694ca3ba5ab5e487aa"
+    },
+    {
+      "text": "der Tee",
+      "file": "audio/tanja-correccion-2eb4ea5c4d3b416a03408fd5.mp3",
+      "bytes": 10368,
+      "sha256": "aff64d33e8ae1fbb44ce4a426b20a0e14e8e601d21784fe7f1aa3e45ea8d70b8"
+    },
+    {
+      "text": "der Tisch",
+      "file": "audio/tanja-correccion-4f801a6958b7136a19b367d2.mp3",
+      "bytes": 10656,
+      "sha256": "99ea7ba3565f0370d7244bc6ad070287f51ae0794b23f47767ba254debbbe496"
+    },
+    {
+      "text": "der Vater",
+      "file": "audio/tanja-correccion-2f70c269dc94cdf441150e1e.mp3",
+      "bytes": 11664,
+      "sha256": "60c14e310576de940f207f45454b27a9e023f918927db97ee3d762b6609719a7"
+    },
+    {
+      "text": "der Wein",
+      "file": "audio/tanja-correccion-7daa8df85075e640445c4d7a.mp3",
+      "bytes": 10800,
+      "sha256": "4eddfbb799d8d0199bcffb736d836fbbb29d6affc0a2c6039caa9e8ee532a948"
+    },
+    {
+      "text": "der Zug",
+      "file": "audio/tanja-correccion-622a3c8f375789592c64175a.mp3",
+      "bytes": 11376,
+      "sha256": "e35a73e7a667f48b0954f57fe0b1e37395617ab6f75332078acaf7611af1d32b"
+    },
+    {
+      "text": "die Apotheke",
+      "file": "audio/tanja-correccion-6515a708b173313b192b6316.mp3",
+      "bytes": 12960,
+      "sha256": "625252c05bfe6d269c596d6a6f13ffc8789ffbeda9c806a1a5b67f48c44ea8e7"
+    },
+    {
+      "text": "die Aufgabe",
+      "file": "audio/tanja-correccion-30d45f925fcd63abcd90560f.mp3",
+      "bytes": 12816,
+      "sha256": "7f79f5ee56f65327c98b0b1c986e682a01579b233ae2a615cb9c898c0f9472d5"
+    },
+    {
+      "text": "die Banane",
+      "file": "audio/tanja-correccion-f1f1e94ad0632cc5df3d581f.mp3",
+      "bytes": 11520,
+      "sha256": "50f640835cbbfefd2627c69d11bdf9cf4f8e433a362077214975f3fd74150b3a"
+    },
+    {
+      "text": "die Bank",
+      "file": "audio/tanja-correccion-4fad6564a7b06d66adfde7a4.mp3",
+      "bytes": 10512,
+      "sha256": "1520bd006d53105beb944efcc4ec385067e4129dda5649b6dcdadacdaf563cec"
+    },
+    {
+      "text": "die Cola",
+      "file": "audio/tanja-correccion-0ae164383c64a662c4dcfd3b.mp3",
+      "bytes": 11232,
+      "sha256": "a702f58644c7eb40f2a68067c283d109cdf3c7bd2530a3a261ed5ab704da4a12"
+    },
+    {
+      "text": "die Entschuldigung",
+      "file": "audio/tanja-correccion-e04928cecb85d0a84379a4d0.mp3",
+      "bytes": 13680,
+      "sha256": "88df503cc4bef7ee6d6a16c164c9e80d5d83da8261f1a93bedbcb57fddadcc0f"
+    },
+    {
+      "text": "die Fahrkarte",
+      "file": "audio/tanja-correccion-a686f51d062d36cab1e09fb9.mp3",
+      "bytes": 12816,
+      "sha256": "c26c5c6da4e7cb5f06749ea1cbed5bc9a9c810352684321de541cadaee7c0c8f"
+    },
+    {
+      "text": "die Familie",
+      "file": "audio/tanja-correccion-5c0c4227776695d86a900b9a.mp3",
+      "bytes": 12240,
+      "sha256": "49adb11d3b3104399b91a883799b5ca0eeab5d49c9d8564aa7f95d7ddab09b76"
+    },
+    {
+      "text": "die Frau",
+      "file": "audio/tanja-correccion-86d4dc95732c901f3619fa0d.mp3",
+      "bytes": 10656,
+      "sha256": "10672ff25a0302caa1be54116962475f8792211264e093bf58afa287252738e7"
+    },
+    {
+      "text": "die Großmutter",
+      "file": "audio/tanja-correccion-712e542a14aac8183acf0634.mp3",
+      "bytes": 13392,
+      "sha256": "448f53807d0d6c98fa6bf1c7146e72b22208d44d22f47eede184f3b7d6de3054"
+    },
+    {
+      "text": "die Hand",
+      "file": "audio/tanja-correccion-c86f4bd06f2a97cbaa2a08a1.mp3",
+      "bytes": 11088,
+      "sha256": "fe834afa998650357a5813486bd8f5fc48eb9e10009a65c0d5f66f106795b306"
+    },
+    {
+      "text": "die Hilfe",
+      "file": "audio/tanja-correccion-b3013434c74aa47df8d22754.mp3",
+      "bytes": 11376,
+      "sha256": "d6ec0c608e3b17dd67a3bf2c1710847df727b33e19c927b016e790aac1a73463"
+    },
+    {
+      "text": "die Hose",
+      "file": "audio/tanja-correccion-8c7832c4846d60d8f22d4870.mp3",
+      "bytes": 11376,
+      "sha256": "eecfdd34c31bec50be6590d9df5b6776fb96a97d5fc9145683abcf0ca2ee87f6"
+    },
+    {
+      "text": "die Jacke",
+      "file": "audio/tanja-correccion-b7894c7d6542db504a31c0c2.mp3",
+      "bytes": 10800,
+      "sha256": "b10a60dda012ae9e0f3c90b3ad2a189960f9923fed37259cc14ab06fc2e1a494"
+    },
+    {
+      "text": "die Kartoffel",
+      "file": "audio/tanja-correccion-b6bddbba0ac3597d7a6a82e0.mp3",
+      "bytes": 12240,
+      "sha256": "8f3545f3b38bcfbdd40473d2325e6dc3e6306aea12e20cc58e655fee577a36da"
+    },
+    {
+      "text": "die Kinder",
+      "file": "audio/tanja-correccion-09594b9df4c75a26298856b5.mp3",
+      "bytes": 11376,
+      "sha256": "802c3e333858a52191b585abde45b8254b224783f1914b52395f4b99b4cbcbe9"
+    },
+    {
+      "text": "die Küche",
+      "file": "audio/tanja-correccion-c79932037e9ae0d8b49ca0b0.mp3",
+      "bytes": 11232,
+      "sha256": "5eb902ecbb9ae11e9294d2b6115bb96df542e5d455e5f44c2405b22578ff2e3a"
+    },
+    {
+      "text": "die Lehrerin",
+      "file": "audio/tanja-correccion-a781c79805eb0ca77921ba81.mp3",
+      "bytes": 12384,
+      "sha256": "398495e2a85c003f660908b2b416de8cbebe6d404f5630cf9ac0537804dba317"
+    },
+    {
+      "text": "die Limonade",
+      "file": "audio/tanja-correccion-94b8d017b2fd50b79955e5c2.mp3",
+      "bytes": 12384,
+      "sha256": "312e888a1e6b02d3cbcac5b6ea45a13e4715546c76889bb708fb30dcc5d3a4e9"
+    },
+    {
+      "text": "die Milch",
+      "file": "audio/tanja-correccion-37b8826bedd45ded7bd03152.mp3",
+      "bytes": 11088,
+      "sha256": "252dacfee6a0fc4070bf9dcd550edb8c1b32e768294c2513e9075b6a728cf005"
+    },
+    {
+      "text": "die Minute",
+      "file": "audio/tanja-correccion-e25723600ca924855f20b774.mp3",
+      "bytes": 11808,
+      "sha256": "23bf0da40486a054813035c6aa99ae1aaef37d5dfc5ac6f51bd6c8c50d53e3bb"
+    },
+    {
+      "text": "die Mutter",
+      "file": "audio/tanja-correccion-a684f7ded98364581976f682.mp3",
+      "bytes": 10944,
+      "sha256": "6432a36f8d7ec42a146c6b4ef1c0d07837d95051d6b1c9f33188b43982402ad7"
+    },
+    {
+      "text": "die Nacht",
+      "file": "audio/tanja-correccion-afb43548321ba1b14d262b44.mp3",
+      "bytes": 11088,
+      "sha256": "97f4499be32abd865b423e723544c24278766e7f11d9a1ce85d34c921fb0095d"
+    },
+    {
+      "text": "die Nase",
+      "file": "audio/tanja-correccion-8c83baf28842c47e2bfa918d.mp3",
+      "bytes": 11520,
+      "sha256": "01f48a133926a5cbf389d6f6fc7ff66e4228ab567fca544e7a57393c5eb23222"
+    },
+    {
+      "text": "die Prüfung",
+      "file": "audio/tanja-correccion-35e3708652a71c9de4fa9d57.mp3",
+      "bytes": 11952,
+      "sha256": "838db539ddaded529c13b59f69d9f9547d324f348487ffd9261115ae94beca01"
+    },
+    {
+      "text": "die Schule",
+      "file": "audio/tanja-correccion-b447fc074b2330e82a3318c6.mp3",
+      "bytes": 11520,
+      "sha256": "c0932055b0b92cd1b160f4185431fe197f4c3bc0bfa106f50017387a7cbf5888"
+    },
+    {
+      "text": "die Schwester",
+      "file": "audio/tanja-correccion-6b9bb8f3a1a5119509af88c8.mp3",
+      "bytes": 12096,
+      "sha256": "ca5d52204a2dc485b7628270029fac2a7260b5778d64fa93c27559ce9445e060"
+    },
+    {
+      "text": "die Sekunde",
+      "file": "audio/tanja-correccion-527c1ed332da19b345c8b461.mp3",
+      "bytes": 12240,
+      "sha256": "64f0c9673716fa70886ae83aacbf5837fad962c3bf462f857e3d7d65bd2465da"
+    },
+    {
+      "text": "die Socke",
+      "file": "audio/tanja-correccion-62207b58c30421e848ae5836.mp3",
+      "bytes": 11232,
+      "sha256": "582f76f68ea63442a7919f6b5de4342705ebb576b372fc6b388bf8b045223b7b"
+    },
+    {
+      "text": "die Stadt",
+      "file": "audio/tanja-correccion-bf545abb127cdcd91a0d7fe9.mp3",
+      "bytes": 10800,
+      "sha256": "1aff0f05239f74afcfa28981db64e0a94ccd984670401d5466a866ccd4cc7d05"
+    },
+    {
+      "text": "die Straße",
+      "file": "audio/tanja-correccion-0c05438d17a67b70b3840474.mp3",
+      "bytes": 11808,
+      "sha256": "17c429c96849e9e264d007039e9a8497bc7a86a7d4fd2e35d943bfe8eaa9570f"
+    },
+    {
+      "text": "die Stunde",
+      "file": "audio/tanja-correccion-ab96540f6d302a337e914eb1.mp3",
+      "bytes": 11520,
+      "sha256": "4bb66ed53eb0a5faf16c857ab3a1110b6daaa41709efd4606dc3ac5d5a7de880"
+    },
+    {
+      "text": "die Tochter",
+      "file": "audio/tanja-correccion-78471cfb70cc0c6fe8dda1ba.mp3",
+      "bytes": 11376,
+      "sha256": "4e2f1c10a3149246c0078e14d5fec9dfb9cf30ee1bbfd405c961d7c5d693f55d"
+    },
+    {
+      "text": "die Tomate",
+      "file": "audio/tanja-correccion-f91c59619f59663303cd12a7.mp3",
+      "bytes": 12384,
+      "sha256": "6017c96a33f68bc9cfc5dfdb99686a855ecfd512fa02cc1b8942f09213f3f7e3"
+    },
+    {
+      "text": "die Tür",
+      "file": "audio/tanja-correccion-8044cf2ea37398ccb4ad00bf.mp3",
+      "bytes": 10656,
+      "sha256": "52d89cf48fb12eb315750341b4adee69e1c84223e91a34d843932900b47f03e5"
+    },
+    {
+      "text": "die Universität",
+      "file": "audio/tanja-correccion-9b2e57a3f36bc61e55616ce1.mp3",
+      "bytes": 14544,
+      "sha256": "35d90818a6c7c1f9d64c0245ef574e4f93e3c4599cf6e3513c39fa9dd6c32077"
+    },
+    {
+      "text": "die Woche",
+      "file": "audio/tanja-correccion-28bb64134132b6e9624e9ee0.mp3",
+      "bytes": 11232,
+      "sha256": "14aa9fe33d687fadf05f0b78340a5b0dbc6f3c4e930e647fa33760e9ad3dab3b"
+    },
+    {
+      "text": "die Wohnung",
+      "file": "audio/tanja-correccion-e1a2b7aa04d084d0562a29cb.mp3",
+      "bytes": 11376,
+      "sha256": "59d7c464c30b33e94c7be970ba80bbcd17d4928e0a252e6c2b733fa9d4527388"
+    },
+    {
+      "text": "drei",
+      "file": "audio/tanja-correccion-6b70e2d592dd17196b794057.mp3",
+      "bytes": 9504,
+      "sha256": "297d54dfc0a87d018aa15696aebd3677de359aa9e5d2044a756a7b6ad91fdb67"
+    },
+    {
+      "text": "dreiundachtzig",
+      "file": "audio/tanja-correccion-af70a3d10d9155e4b8cca634.mp3",
+      "bytes": 13680,
+      "sha256": "4c690930588430086fc6cddae3aeaadc9c54fba5b0a8c8660f49d9ba19436ae8"
+    },
+    {
+      "text": "dreiunddreißig",
+      "file": "audio/tanja-correccion-475f56f9e7e5c09776306b70.mp3",
+      "bytes": 13824,
+      "sha256": "8eea2bcc6c1e96aed929fbef83417f1c1da6daef10f0e140237aee19e028d5ad"
+    },
+    {
+      "text": "dreiundfünfzig",
+      "file": "audio/tanja-correccion-c8269723863ba86c2dc18a68.mp3",
+      "bytes": 14544,
+      "sha256": "c597810b302eb3e29f30910e6d2e315b281c428383af2f369abdacf62d20a9b1"
+    },
+    {
+      "text": "dreiundneunzig",
+      "file": "audio/tanja-correccion-5c3956e6f9403c9a6e9379fd.mp3",
+      "bytes": 14112,
+      "sha256": "fe60c179dcb4fd77c3d7c88a08d688b22353e375f2ff8f7e799d943f8317ed69"
+    },
+    {
+      "text": "dreiundsechzig",
+      "file": "audio/tanja-correccion-44f282ddba7942d76a3661aa.mp3",
+      "bytes": 13680,
+      "sha256": "cd5b6e9481aa9755e4b22a9f8b9ecb6ea096e423170cb5ce16b41b805466dd5c"
+    },
+    {
+      "text": "dreiundsiebzig",
+      "file": "audio/tanja-correccion-56129d50e3ec666c27915e88.mp3",
+      "bytes": 13536,
+      "sha256": "6a65a0d688eee736080b281bd7b4043f6d8f1eb1db5ffa775fd0f028d6006281"
+    },
+    {
+      "text": "dreiundvierzig",
+      "file": "audio/tanja-correccion-0a5adffc1e8fae48773b840e.mp3",
+      "bytes": 14112,
+      "sha256": "a1983cd3cb4a516b62450b69a15bba47533989e341de6c0fc329f5896d4a0b88"
+    },
+    {
+      "text": "dreiundzwanzig",
+      "file": "audio/tanja-correccion-15175528482f38edfc19e02e.mp3",
+      "bytes": 14256,
+      "sha256": "7b25fef9ad25975a3f5212b0d1ce8bb377eefb4c56fc965fe9c5f844596d8ae8"
+    },
+    {
+      "text": "dreizehn",
+      "file": "audio/tanja-correccion-c7c7556a0110b2d723bcaed1.mp3",
+      "bytes": 11664,
+      "sha256": "14f31d0576cc192ae2218581015a9cdbd296eee6df390898a343b72c16b6dbf0"
+    },
+    {
+      "text": "dreißig",
+      "file": "audio/tanja-correccion-211a0073b640cb262d965613.mp3",
+      "bytes": 11232,
+      "sha256": "8f9a2dd6115b27339791f6b07723b52ab3e5e1aed4c50ccb168029bf07207b86"
+    },
+    {
+      "text": "du",
+      "file": "audio/tanja-correccion-601b2c2473811afea7864a21.mp3",
+      "bytes": 8208,
+      "sha256": "34ffbb03922caf4542560f3c4840b6263916936ff7685ef12031bea85be742df"
+    },
+    {
+      "text": "ein Kind",
+      "file": "audio/tanja-correccion-6240aa3e5393d92fa8fff749.mp3",
+      "bytes": 10944,
+      "sha256": "badbc4654570c004b9fe51dda1ac7589862087f29505f2f060059e22c7e94476"
+    },
+    {
+      "text": "ein Mann",
+      "file": "audio/tanja-correccion-064503c0c6df71208e8f2231.mp3",
+      "bytes": 10368,
+      "sha256": "72348428d9fbf28282234d4254151259b595484235737f9d0b4bb386a1cd5443"
+    },
+    {
+      "text": "eine Frau",
+      "file": "audio/tanja-correccion-44e2cd14aab0506e10af138e.mp3",
+      "bytes": 11088,
+      "sha256": "af75645d855103283f664e75143db31bd5f648c4eaad576bb61ffced4ba5dff1"
+    },
+    {
+      "text": "eins",
+      "file": "audio/tanja-correccion-bfd6b995588ec54ce16871bc.mp3",
+      "bytes": 10080,
+      "sha256": "46c280180261d7d31b3510d099ef5846a670e23af61341af03eb9f4c9c76aa7f"
+    },
+    {
+      "text": "einundachtzig",
+      "file": "audio/tanja-correccion-cb0b19b668d8208263c97473.mp3",
+      "bytes": 14256,
+      "sha256": "334785671d721103fd7735f952220d99ca26f40af96d681572eec8d92fd2ddba"
+    },
+    {
+      "text": "einunddreißig",
+      "file": "audio/tanja-correccion-69014ec5cb2f71bcee80a79e.mp3",
+      "bytes": 12960,
+      "sha256": "f7bf3d28a29746c4d1d9ef64b1b8539a7eb057fc0a9a0a05d9971001d4ebdc2b"
+    },
+    {
+      "text": "einundfünfzig",
+      "file": "audio/tanja-correccion-f175c1e5563393988df2d553.mp3",
+      "bytes": 13680,
+      "sha256": "80a0eb1b73c956db08bba793eff9eeecf702555e2e755e4f318ea3fefd4fb45b"
+    },
+    {
+      "text": "einundneunzig",
+      "file": "audio/tanja-correccion-ffc11fc31de399d22a7d012d.mp3",
+      "bytes": 12816,
+      "sha256": "013ef47f09d08dcb57df509b0e836f106aae021c15492894c381422a68c1b59c"
+    },
+    {
+      "text": "einundsechzig",
+      "file": "audio/tanja-correccion-7fbfa166e67808e3da095e7c.mp3",
+      "bytes": 12960,
+      "sha256": "c7c4a52d25126b80204f18ad0f0ac23c337e2073f23b88347d12fe02db256cab"
+    },
+    {
+      "text": "einundsiebzig",
+      "file": "audio/tanja-correccion-07b4855d6d26ade2babfc74c.mp3",
+      "bytes": 12672,
+      "sha256": "35f83195d66251343e45738c7694417bd465e66e80febab184df54b37604cf09"
+    },
+    {
+      "text": "einundvierzig",
+      "file": "audio/tanja-correccion-4301739b4cbb798570e8236a.mp3",
+      "bytes": 13104,
+      "sha256": "cf5b0db8c198bb8b59e6a31a918f9ed9e5044ab90125b7e9dbd9d297db6c2d43"
+    },
+    {
+      "text": "einundzwanzig",
+      "file": "audio/tanja-correccion-c89c1f59565b0bbfd0bf7caf.mp3",
+      "bytes": 13248,
+      "sha256": "6607cdbc4ff8bbec337b909f33f30de541df621bfd5da3fce6e9db11986a38ee"
+    },
+    {
+      "text": "elf",
+      "file": "audio/tanja-correccion-780d84b20d7ae7e629291939.mp3",
+      "bytes": 9504,
+      "sha256": "2c67f9355a5aa8d3e19503dc057f5c74e03119ddfbd4b157d1ebf8cbe1602614"
+    },
+    {
+      "text": "er",
+      "file": "audio/tanja-correccion-cc7e4412564ba8a761bd32ab.mp3",
+      "bytes": 8640,
+      "sha256": "635f45cc942ee2cc06afe0bca9f41b3ab56298a5e131397f063054373cfbdf6e"
+    },
+    {
+      "text": "es",
+      "file": "audio/tanja-correccion-c0bc1e08f9743b2d50d5f160.mp3",
+      "bytes": 8496,
+      "sha256": "3e344f5d611a553205f39ac985012c51ecf6a3b84cd12eb7a80e7a79929bffd4"
+    },
+    {
+      "text": "essen",
+      "file": "audio/tanja-correccion-119ee6901316eec1fa79564f.mp3",
+      "bytes": 9504,
+      "sha256": "639a7b9c16e777327c759ecd9c172e9ad29fde543708220ef17ab6de674f17fa"
+    },
+    {
+      "text": "fünf",
+      "file": "audio/tanja-correccion-d26898598758e7790be4ffa1.mp3",
+      "bytes": 9792,
+      "sha256": "6b3cf003fe9bf196b2334fea14b70e2f1686b74c365903ca9612088eb2f1aad6"
+    },
+    {
+      "text": "fünfundachtzig",
+      "file": "audio/tanja-correccion-2f4998605547cb2bb34beeca.mp3",
+      "bytes": 14256,
+      "sha256": "5b420a189045bc17b3c1b4a12dbc7c2e5978c3739f89ec6f28ac9d8a789a30fd"
+    },
+    {
+      "text": "fünfunddreißig",
+      "file": "audio/tanja-correccion-8c84310f2fd43ff1cc64e98c.mp3",
+      "bytes": 14256,
+      "sha256": "cd32fc054feff56aa83ad8309a839baf5be653863c2b6ba0c8d29dfe57c9a101"
+    },
+    {
+      "text": "fünfundfünfzig",
+      "file": "audio/tanja-correccion-2ca786c9be7ef24574c327c2.mp3",
+      "bytes": 14976,
+      "sha256": "ba0d9758d206e90f737af49bd41baeb36682bf6e16dd0f8d40fc20920a1461a7"
+    },
+    {
+      "text": "fünfundneunzig",
+      "file": "audio/tanja-correccion-4ad132b6481ce161a799b5ff.mp3",
+      "bytes": 13392,
+      "sha256": "00f257c233c4816f1d2c137e73d879e3f24af44a36d283ccfccf93e6231e762f"
+    },
+    {
+      "text": "fünfundsechzig",
+      "file": "audio/tanja-correccion-d44a27a4234608925b23f8f0.mp3",
+      "bytes": 14256,
+      "sha256": "45d5875cffa26c9be49eb375500c67b35ccca75089d10ba6357964477c30ef41"
+    },
+    {
+      "text": "fünfundsiebzig",
+      "file": "audio/tanja-correccion-90772c3f79ec017ccc1c0094.mp3",
+      "bytes": 14256,
+      "sha256": "1445abe57ce6c84bfa3ea3952091998411ea7f89ff62387129a384ee38a8c79a"
+    },
+    {
+      "text": "fünfundvierzig",
+      "file": "audio/tanja-correccion-9e710f85cbfeb9b38090e0dc.mp3",
+      "bytes": 14400,
+      "sha256": "79eab9cb5241f0fd41b43bd44047ca031a210530cfaefc781d5cbbfa1b96d520"
+    },
+    {
+      "text": "fünfundzwanzig",
+      "file": "audio/tanja-correccion-6e6dc944a83476676da4eff3.mp3",
+      "bytes": 14544,
+      "sha256": "19efc074550c8dd0a4582047ae6eb0d9451aba5be3a29aaec638d91e7ffee254"
+    },
+    {
+      "text": "fünfzehn",
+      "file": "audio/tanja-correccion-86d832a39638f3a823359ab1.mp3",
+      "bytes": 11664,
+      "sha256": "b5347ab7d1a3d0080f86246a0a5374ec1ec38bace191e879d0724cbe98d3f97b"
+    },
+    {
+      "text": "fünfzig",
+      "file": "audio/tanja-correccion-269973463ed6c0ce6111b141.mp3",
+      "bytes": 11376,
+      "sha256": "abf2f604324b4925fa236d8589002ba7f655fd5f2fb265b9b9e216ff2e759b5b"
+    },
+    {
+      "text": "gehen",
+      "file": "audio/tanja-correccion-837ceb63da7920ad96d1be73.mp3",
+      "bytes": 9792,
+      "sha256": "b989171a504742a7946acad187bf3cc08f9a2cb7d9f51dad109f1751dfcfa862"
+    },
+    {
+      "text": "gelb",
+      "file": "audio/tanja-correccion-c55da503600697df3f5d1097.mp3",
+      "bytes": 9504,
+      "sha256": "0ba56e871b36bb82d99f4beb6878d89a622e8c1fda1d57e6dd682b77b969033f"
+    },
+    {
+      "text": "grau",
+      "file": "audio/tanja-correccion-b10ed66742452fffadf156d0.mp3",
+      "bytes": 9360,
+      "sha256": "6266e6fe9c66c211ce1da8996b9d1b8ae88bd95716a2eb16320f864e938d1bb9"
+    },
+    {
+      "text": "grün",
+      "file": "audio/tanja-correccion-fe263064ba02eaeac482aaf1.mp3",
+      "bytes": 9792,
+      "sha256": "dda7167e2420599551cce4a6f90921e44fd8dfef92ff4616261cae901d3039ec"
+    },
+    {
+      "text": "haben",
+      "file": "audio/tanja-correccion-ba9d261f6e9cec059a82b9aa.mp3",
+      "bytes": 9936,
+      "sha256": "ef5a54a4e7fe53aa5827117639778f6e83929b4c0a35ce9412a0a329d8da964a"
+    },
+    {
+      "text": "heißen",
+      "file": "audio/tanja-correccion-d291857f6b4bf46279355394.mp3",
+      "bytes": 10368,
+      "sha256": "e123fef936428b14d111c5b99704bca6d2d0103417ae601e79700dfcb7473bcb"
+    },
+    {
+      "text": "hundert",
+      "file": "audio/tanja-correccion-9c39e25180169d262c6ff8df.mp3",
+      "bytes": 10368,
+      "sha256": "82f34cb29133356e0d78470bb3de70a5899ba4243d47a2d7172fbc3caaa08861"
+    },
+    {
+      "text": "ich",
+      "file": "audio/tanja-correccion-84c92d8abf326bdb52f1fc6c.mp3",
+      "bytes": 8496,
+      "sha256": "5d0ec2f3ddb2d3861219792747435769bc36b3b0e44be10335d6ee591f630a5a"
+    },
+    {
+      "text": "ihr",
+      "file": "audio/tanja-correccion-f15e811721cd2c91e9696fd7.mp3",
+      "bytes": 8640,
+      "sha256": "07bb76cd3c4d3baad1310a130f5ad9fff8d4facda0acd5e4f3e3c7cdfc576dd0"
+    },
+    {
+      "text": "kaufen",
+      "file": "audio/tanja-correccion-168ec2b7d6cc9e85709b6665.mp3",
+      "bytes": 10656,
+      "sha256": "84e161e8eed4eff6a0ac14beb15c610e41e2684e41844126643b965df52f6e1d"
+    },
+    {
+      "text": "kommen",
+      "file": "audio/tanja-correccion-529f00bc62dff975aab2f1a4.mp3",
+      "bytes": 10080,
+      "sha256": "f4f4a901b94b040f94c365a8e9dae398b8939339c6c4277e6ca5e87f88402dda"
+    },
+    {
+      "text": "können",
+      "file": "audio/tanja-correccion-9bbc28d7306fc59307a76aa6.mp3",
+      "bytes": 9792,
+      "sha256": "c90f64106826c667884cf77695abf7f24508930ca360370b359b0e81f32416fd"
+    },
+    {
+      "text": "lernen",
+      "file": "audio/tanja-correccion-9533f477c512a096fa5f5563.mp3",
+      "bytes": 10656,
+      "sha256": "6bfb38be01a627b8a6145b05a6bd92287a04d15e5e715f8a15e9d1b3d15f12c2"
+    },
+    {
+      "text": "lila",
+      "file": "audio/tanja-correccion-e6ae6e617178aca2cc02db3a.mp3",
+      "bytes": 9936,
+      "sha256": "e7db0d6c8f6550431e680e6aaf66b33835b42a7bbbf0f78ee1fb7f8eed4a9999"
+    },
+    {
+      "text": "machen",
+      "file": "audio/tanja-correccion-8740c3f7ac25c8871b88a592.mp3",
+      "bytes": 9936,
+      "sha256": "029927da24f4f711b7a50c5c82418b748cf9413457b74edc8593d6d266c52829"
+    },
+    {
+      "text": "mögen",
+      "file": "audio/tanja-correccion-da4c4ad8b5593cb87849f5ad.mp3",
+      "bytes": 10224,
+      "sha256": "b12d5ee68cee7ffed0edfc7ff6afac4e3af8d243dcbd0e74678f2282faf8e95b"
+    },
+    {
+      "text": "neun",
+      "file": "audio/tanja-correccion-d5b7e81295ca0471ca6df83d.mp3",
+      "bytes": 9792,
+      "sha256": "711928dc4fb0fb5ef71143b2edcb6635182a5b63684843164ce07f5d3bb07153"
+    },
+    {
+      "text": "neunundachtzig",
+      "file": "audio/tanja-correccion-e485e1b725b8eca98127fba7.mp3",
+      "bytes": 14544,
+      "sha256": "4e8a78faa6c818dc7ead739735f2fefa44e7d1e54ce1200c9be0cded629833aa"
+    },
+    {
+      "text": "neununddreißig",
+      "file": "audio/tanja-correccion-18b62d2b1d872bb3e5ab9466.mp3",
+      "bytes": 13968,
+      "sha256": "3c087e2810f6b5d318302f36e637479860db62d0a04c845a0e7eac85c03a903b"
+    },
+    {
+      "text": "neunundfünfzig",
+      "file": "audio/tanja-correccion-98ea239a45eca44bc71e5dd4.mp3",
+      "bytes": 14400,
+      "sha256": "9706003707297a03bc4f2a6f46bad99a8b1a0b16fcc277545329f90129b92172"
+    },
+    {
+      "text": "neunundneunzig",
+      "file": "audio/tanja-correccion-8f58daeba6f028ac76886bf4.mp3",
+      "bytes": 14112,
+      "sha256": "72b186297eb9dc1b9bf8539c70a5c2fbe9d61d8e6958133a2b38a9caa6e47b91"
+    },
+    {
+      "text": "neunundsechzig",
+      "file": "audio/tanja-correccion-9dfd56f44f7f39e084279b67.mp3",
+      "bytes": 14400,
+      "sha256": "c67dff25efd0a35b998035b13331b9169867c504d84c6a90905aec85a1062bfa"
+    },
+    {
+      "text": "neunundsiebzig",
+      "file": "audio/tanja-correccion-8a944e2cfeced9055b9a497c.mp3",
+      "bytes": 13824,
+      "sha256": "2ab7135b389ecec726fbbd11c41ee6d5754c9778100d95632b210c60f0afb437"
+    },
+    {
+      "text": "neunundvierzig",
+      "file": "audio/tanja-correccion-f03857e8313886de08ea2d2d.mp3",
+      "bytes": 14112,
+      "sha256": "275519721f9de6979a7dad49d916b20cafcf14d2eb8a09fbf277288a21566041"
+    },
+    {
+      "text": "neunundzwanzig",
+      "file": "audio/tanja-correccion-628c0cd262e63b2d3719fefa.mp3",
+      "bytes": 13968,
+      "sha256": "9a0278c94526f5440217d2a1e0aef6743a1f4267252adf31d891e343d8253aa5"
+    },
+    {
+      "text": "neunzehn",
+      "file": "audio/tanja-correccion-06385de71001e52363a00882.mp3",
+      "bytes": 11520,
+      "sha256": "31db1e8c6560bce35f5fca963b42940504657860e1ea29a578c34dc0079e809e"
+    },
+    {
+      "text": "neunzig",
+      "file": "audio/tanja-correccion-38ed1bfd317f6615816dd3e6.mp3",
+      "bytes": 11232,
+      "sha256": "99bc756378d52b4053235bc115b729e346a81d8222fe959bee0e35d5e392e28c"
+    },
+    {
+      "text": "null",
+      "file": "audio/tanja-correccion-74234e98afe7498fb5daf1f3.mp3",
+      "bytes": 9216,
+      "sha256": "5fc063bd9ba70cf6cde020fb362dec585a31ca12d43a947dee7e6586b3760b04"
+    },
+    {
+      "text": "orange",
+      "file": "audio/tanja-correccion-1b4c9133da73a71132240431.mp3",
+      "bytes": 10656,
+      "sha256": "903865dce588c60cc726485c9a49ad6aee0952783de7f33fea1123233f457154"
+    },
+    {
+      "text": "rosa",
+      "file": "audio/tanja-correccion-6a61eb7383e868f226d30d31.mp3",
+      "bytes": 10512,
+      "sha256": "07482a4226d3daf5b45a02acb909834f3cd743c31d5798731ef598d63bd976a0"
+    },
+    {
+      "text": "rot",
+      "file": "audio/tanja-correccion-7ec879c8c860699e23145733.mp3",
+      "bytes": 9792,
+      "sha256": "d0f9e469a6c97599b380bdaade091753707116782cc88850d1462c6c1cf7b96b"
+    },
+    {
+      "text": "schwarz",
+      "file": "audio/tanja-correccion-2993f8453f06da87d9df99e0.mp3",
+      "bytes": 10800,
+      "sha256": "bb7ff3b3e469c687051115850566c2b1e7f7bde7ff5e2adf073cc130db562df9"
+    },
+    {
+      "text": "sechs",
+      "file": "audio/tanja-correccion-ed8862db32fe9ba7a0a0922f.mp3",
+      "bytes": 10080,
+      "sha256": "f31c4fd3a1892ef5e69ab5ce60077a346df16297ce2358b271dcbc6c48d0e44d"
+    },
+    {
+      "text": "sechsundachtzig",
+      "file": "audio/tanja-correccion-caf491c901f2afced2833757.mp3",
+      "bytes": 13248,
+      "sha256": "451fdfce56710695ae5a05fabd6b09de667eff1024985e94561e1eac30784b6e"
+    },
+    {
+      "text": "sechsunddreißig",
+      "file": "audio/tanja-correccion-1e024c888ecc998e8cdc9d06.mp3",
+      "bytes": 13824,
+      "sha256": "c4aa2e1bbacd6f79e19416c6db565a9e895471b1cf6f8dcb8e4fcf1603819244"
+    },
+    {
+      "text": "sechsundfünfzig",
+      "file": "audio/tanja-correccion-cce26e4d18b2b3223c60e432.mp3",
+      "bytes": 14976,
+      "sha256": "88776d62c1dcecf3cdf9c52fe8a9f4951594f43251b707ac68ca60514f9b371c"
+    },
+    {
+      "text": "sechsundneunzig",
+      "file": "audio/tanja-correccion-0b948679f157ab1062aa8b87.mp3",
+      "bytes": 13968,
+      "sha256": "8ebb69c72e5cf513021ae009cfe4ef205f4d36251b615b7aad02711ec406773e"
+    },
+    {
+      "text": "sechsundsechzig",
+      "file": "audio/tanja-correccion-a53e905c8031e6344605c668.mp3",
+      "bytes": 14400,
+      "sha256": "95a87f9056a1a7d852d1df12fcd11a3122b4a57f1bb94044fe1b1e0cd1c67a48"
+    },
+    {
+      "text": "sechsundsiebzig",
+      "file": "audio/tanja-correccion-0bef3a877bb2008fe2f78aba.mp3",
+      "bytes": 14400,
+      "sha256": "a570ead25ca98138a92667e8b9234a78b304dca0f90f8a8c337ac265f2eb7177"
+    },
+    {
+      "text": "sechsundvierzig",
+      "file": "audio/tanja-correccion-56799127133a4fd0e40d1bbe.mp3",
+      "bytes": 14256,
+      "sha256": "b23b8f8b3fa9f99e0d6ed013008ac9c503d4d2b529317421f1f23053339cdb0a"
+    },
+    {
+      "text": "sechsundzwanzig",
+      "file": "audio/tanja-correccion-7f60bc06d7cc83ebbfc571db.mp3",
+      "bytes": 14256,
+      "sha256": "3fd929356b2974b04251ce0e34280c11ea62e795c640ed20c9b2b807ec174356"
+    },
+    {
+      "text": "sechzehn",
+      "file": "audio/tanja-correccion-2cf3fbb812da4a3a2fb53e20.mp3",
+      "bytes": 11808,
+      "sha256": "5325674629b981002f445d79f1285dfe2a9cffab921beddcca45ca4c0b0a097d"
+    },
+    {
+      "text": "sechzig",
+      "file": "audio/tanja-correccion-a1510e7837174e85d9a0b82b.mp3",
+      "bytes": 11520,
+      "sha256": "34669ca159847f6c8dda1708427e8402c9c66aacf30a0bb25a8a02a21845dfe8"
+    },
+    {
+      "text": "sein",
+      "file": "audio/tanja-correccion-f0abec8675ebc5503c130517.mp3",
+      "bytes": 9792,
+      "sha256": "ef819b909f1770bc1999ac79f060b15a95bc61345eac5ef67df67a9b4d2f183a"
+    },
+    {
+      "text": "sie",
+      "file": "audio/tanja-correccion-70f0b8e6e13410a6852579ad.mp3",
+      "bytes": 8928,
+      "sha256": "7396925b5c42f49f7a06ba5990e532a84a31aafb97553b4c233e1267843bc289"
+    },
+    {
+      "text": "sieben",
+      "file": "audio/tanja-correccion-1e9d34deb9f9902732935c78.mp3",
+      "bytes": 10656,
+      "sha256": "f137a4b8bad6bd88a1232736655315dba44f13387a09bd568148641916de1157"
+    },
+    {
+      "text": "siebenundachtzig",
+      "file": "audio/tanja-correccion-d27ab87860a16544896e2ae0.mp3",
+      "bytes": 14832,
+      "sha256": "544b3fe37a235456f81a20f920bf20f7df1a11d2a4d139d08cb79ef07968a409"
+    },
+    {
+      "text": "siebenunddreißig",
+      "file": "audio/tanja-correccion-0d0cd216e2afa2edf4382971.mp3",
+      "bytes": 14256,
+      "sha256": "781bafe1eca1f547e0e0469272d3a3acd0dac9b651df99bb6db51590b5302b19"
+    },
+    {
+      "text": "siebenundfünfzig",
+      "file": "audio/tanja-correccion-b70603ca04ebd677ac285acd.mp3",
+      "bytes": 14976,
+      "sha256": "d82c96c06f2e4655509ea8e5f1ff33fd6f8ae9614106da02ca6c220875cf2601"
+    },
+    {
+      "text": "siebenundneunzig",
+      "file": "audio/tanja-correccion-99a51e9e2108c95038bfba77.mp3",
+      "bytes": 14544,
+      "sha256": "a69b3c690a3cb32cf45f5ddd7daa49f21360269a2203ed81d3a4902f2300d729"
+    },
+    {
+      "text": "siebenundsechzig",
+      "file": "audio/tanja-correccion-031f2396c2902627f895a488.mp3",
+      "bytes": 14544,
+      "sha256": "858cd85ce401d3b82c53f29653467823d999d3052f7de0910b33efd5bf075731"
+    },
+    {
+      "text": "siebenundsiebzig",
+      "file": "audio/tanja-correccion-bb4342149bcfff3735fa0fb7.mp3",
+      "bytes": 14256,
+      "sha256": "732ff86a5722f3a9a942b40f6487112700b78beec73357172020f98e372dfcc7"
+    },
+    {
+      "text": "siebenundvierzig",
+      "file": "audio/tanja-correccion-ab8e06e8bf570e09f63b853f.mp3",
+      "bytes": 13968,
+      "sha256": "a1b290e2093fde1db292c15e0af7adf23100539e05fe39dc5aa1ad505f66005a"
+    },
+    {
+      "text": "siebenundzwanzig",
+      "file": "audio/tanja-correccion-25c6fc8bf8fb8adb53e6ce33.mp3",
+      "bytes": 14400,
+      "sha256": "9808098dc91a97107f392f5b7810bb8f6accc4393ac9d97249c3b82cd581bbb2"
+    },
+    {
+      "text": "siebzehn",
+      "file": "audio/tanja-correccion-154020524df61c3fed536685.mp3",
+      "bytes": 11664,
+      "sha256": "4319bc942fb01f8e2c79cb0795b6a2c818ba7109990593a47b3cf4f9b4eb7adf"
+    },
+    {
+      "text": "siebzig",
+      "file": "audio/tanja-correccion-d98122c7190fda25ac2fe6a6.mp3",
+      "bytes": 11376,
+      "sha256": "9500e5a1b63d31c8f1cad5096265d90ce1d680d95cea9f0ef067cc471cf0671c"
+    },
+    {
+      "text": "sprechen",
+      "file": "audio/tanja-correccion-71b9f9cbf552fb790af91435.mp3",
+      "bytes": 10800,
+      "sha256": "dbf14339b64b05384e6effe737ca142570524b12629333a589df81e4240ef93d"
+    },
+    {
+      "text": "suchen",
+      "file": "audio/tanja-correccion-a02b10335a385c04ca0c36da.mp3",
+      "bytes": 10368,
+      "sha256": "d2199719e72116d26542390f20afa0068844d855dbf5589832dcd43fcffacaa2"
+    },
+    {
+      "text": "trinken",
+      "file": "audio/tanja-correccion-7ab5d8bd3e5fc8eb3ca25215.mp3",
+      "bytes": 10656,
+      "sha256": "a8baceaafca00e1ff43ab34c284ef05759fc5fa3ba54841c8d4f41a8dda842f6"
+    },
+    {
+      "text": "verstehen",
+      "file": "audio/tanja-correccion-bd001d4ba948e64b1665c78f.mp3",
+      "bytes": 10800,
+      "sha256": "a7de6038a7e720a14588cd1e48a1c6c764c6fea68ce2532ad53c92d56a54feb3"
+    },
+    {
+      "text": "vier",
+      "file": "audio/tanja-correccion-6b8baccb2f21e7cc3496c963.mp3",
+      "bytes": 9648,
+      "sha256": "d9557930ae5bef89af6deca20ca124a38dc13f5d82b2b14ab3f36c8a1a52f1cd"
+    },
+    {
+      "text": "vierundachtzig",
+      "file": "audio/tanja-correccion-4445476161dc810a821f6543.mp3",
+      "bytes": 13392,
+      "sha256": "b8de49c2879055c7f403817b077dc0ffbdcc82f04ef28656c72cf5cd116781ff"
+    },
+    {
+      "text": "vierunddreißig",
+      "file": "audio/tanja-correccion-61e3f68b89b093f18580707f.mp3",
+      "bytes": 13824,
+      "sha256": "895661bbc6b06fa7aefc90ce719e1b3aaeed95ab0d9e08531a6ad85bf62d972d"
+    },
+    {
+      "text": "vierundfünfzig",
+      "file": "audio/tanja-correccion-ca1658130034cbf880933a83.mp3",
+      "bytes": 14400,
+      "sha256": "76edb94c092089d04cb096d0debc2d4888cc78f7d46ee7a932ff1ebfee4bf440"
+    },
+    {
+      "text": "vierundneunzig",
+      "file": "audio/tanja-correccion-24876618ab2bd493d1ebe46a.mp3",
+      "bytes": 13680,
+      "sha256": "0917361ee599f8d8ec8c4ebea759a56406d289a819d10297724496fa9339e839"
+    },
+    {
+      "text": "vierundsechzig",
+      "file": "audio/tanja-correccion-c67dfca8d14af76e9f44f742.mp3",
+      "bytes": 13824,
+      "sha256": "ec7ba4774a5efa0c1ea9a10e513f3cd3b6657dee3b170735463c482d13e6ce98"
+    },
+    {
+      "text": "vierundsiebzig",
+      "file": "audio/tanja-correccion-c471b7edcba69b785dc89a97.mp3",
+      "bytes": 13680,
+      "sha256": "013a4b836fe2516d07e37bd5fd37c6d2797616cbef8b8f3e8c35f100cc3c9e28"
+    },
+    {
+      "text": "vierundvierzig",
+      "file": "audio/tanja-correccion-ca419677a5f031fc0c158cb5.mp3",
+      "bytes": 14256,
+      "sha256": "5adeb1bbf88f63e612a20d26dce923f68511094ba9818c436844d9d09e916d10"
+    },
+    {
+      "text": "vierundzwanzig",
+      "file": "audio/tanja-correccion-08d45bd491765ce9d4c65f49.mp3",
+      "bytes": 14112,
+      "sha256": "bccf8cb91ad3a764d61b6ba44568840ff40122036419bc78abe71f01bf5ae513"
+    },
+    {
+      "text": "vierzehn",
+      "file": "audio/tanja-correccion-7fd87fbf5eca102248d89e86.mp3",
+      "bytes": 11088,
+      "sha256": "3c87feee157368943016371d5d11f84ee5e0aa14445a2bf431e0c6f427bf5b79"
+    },
+    {
+      "text": "vierzig",
+      "file": "audio/tanja-correccion-ac478c92465a4e3ccdcf75ce.mp3",
+      "bytes": 10944,
+      "sha256": "869f930016b95c3e87be6bb1953ec1c8c75f1973b12d5344af333d985b8c5927"
+    },
+    {
+      "text": "wann",
+      "file": "audio/tanja-correccion-5d99599b60a043d425432e6b.mp3",
+      "bytes": 9216,
+      "sha256": "baafdedaf72950674e5b1999c736dcf26bcf76b222c1e4fa405be677989caf39"
+    },
+    {
+      "text": "warum",
+      "file": "audio/tanja-correccion-8686500d6c75cc9bb9284481.mp3",
+      "bytes": 10224,
+      "sha256": "c6dc863160380617121f4f4fa40067440311bba2f39853442076238678e0f961"
+    },
+    {
+      "text": "was",
+      "file": "audio/tanja-correccion-b63b99f6383ba713b57ddfc7.mp3",
+      "bytes": 9504,
+      "sha256": "1935e33b52eb607bb2589476dca3f82205dc33011fc09e94e252685d6e7ff43a"
+    },
+    {
+      "text": "weiß",
+      "file": "audio/tanja-correccion-5281e4cf0e28cc0e53f46204.mp3",
+      "bytes": 10080,
+      "sha256": "728615f2311ba6ac4702fe4b4b98f1eb0032c3ed4bea5d28b1fe347e39cfdcbf"
+    },
+    {
+      "text": "wer",
+      "file": "audio/tanja-correccion-e797c0013811a1d1e35ad7ed.mp3",
+      "bytes": 9504,
+      "sha256": "f3c1c4eac6bc140e747c83fece454a46a15599a51e3520cac680976191ade59a"
+    },
+    {
+      "text": "wie",
+      "file": "audio/tanja-correccion-4a3f1139f614aab2af8d024c.mp3",
+      "bytes": 8640,
+      "sha256": "6b30880d2661f4ad795b0cf95d3aa444086af815b058b2f95a2bb5169f16d3b0"
+    },
+    {
+      "text": "wie viel",
+      "file": "audio/tanja-correccion-3c37e4ca7c9e0e88693c58c7.mp3",
+      "bytes": 10944,
+      "sha256": "af500e89a7ffbb1b4080ac07ff0440b6ddccda53b4bb3fd3c691fc7ad1b9b4f8"
+    },
+    {
+      "text": "wir",
+      "file": "audio/tanja-correccion-999da4de4d657b8e65d59368.mp3",
+      "bytes": 9216,
+      "sha256": "2e6bbb2294ca8ec9867263b373e44840950286389676c2d03223c880aee3be4b"
+    },
+    {
+      "text": "wissen",
+      "file": "audio/tanja-correccion-ed83bb1519d2dd3e9797c78a.mp3",
+      "bytes": 9792,
+      "sha256": "b8239a62b9d581e99940bbf3192d1f549d0e7790320bd6dd049cc6691bb2f64d"
+    },
+    {
+      "text": "wo",
+      "file": "audio/tanja-correccion-f8f26225fd1d7a1c68981c94.mp3",
+      "bytes": 8784,
+      "sha256": "f48c996588eb38ff4181b27be4637482747296dbc34739b9acc68f98f829c85a"
+    },
+    {
+      "text": "woher",
+      "file": "audio/tanja-correccion-c58061e325595c5714b8d7c3.mp3",
+      "bytes": 10512,
+      "sha256": "813f1cf6d81d2e33402d7406bf8031703db5a0c260e30d39a211026cb09566e7"
+    },
+    {
+      "text": "wohin",
+      "file": "audio/tanja-correccion-5d0f856ff3a6f5417820c18e.mp3",
+      "bytes": 10080,
+      "sha256": "08dcf4129831c882cf24b590a68c14731a814223d7064b314e283f6143bea274"
+    },
+    {
+      "text": "wohnen",
+      "file": "audio/tanja-correccion-4944af70480b82a6c3002d53.mp3",
+      "bytes": 10368,
+      "sha256": "dcf1daf4ea4d84b73b6cbe2b2ab4c6a3e9e490de9fc28e8e8e427750edd9ccec"
+    },
+    {
+      "text": "wollen",
+      "file": "audio/tanja-correccion-75e6d0fc3c87a18eefeaa867.mp3",
+      "bytes": 9792,
+      "sha256": "d97c1522bad50f4118ca57063bd22024a08da42d3e8c140f8ba2aa512c7327c1"
+    },
+    {
+      "text": "zehn",
+      "file": "audio/tanja-correccion-bedd6f98909f0da2622f39ce.mp3",
+      "bytes": 9504,
+      "sha256": "aa6d22fae2a5463d775dbb430bd20239fc2de57c093f23e2edbe629283997431"
+    },
+    {
+      "text": "zwanzig",
+      "file": "audio/tanja-correccion-cd2a56ee1cb695c0678ecbcc.mp3",
+      "bytes": 11520,
+      "sha256": "3f91da3b59f7597ec9cde093fe985ad5a7ab22be1c3fbe3187bf464eab8c3b73"
+    },
+    {
+      "text": "zwei",
+      "file": "audio/tanja-correccion-9dbe3cfc5af797f3516eb7c9.mp3",
+      "bytes": 9648,
+      "sha256": "83987ee768376c8917a107c390981766ba476bc8ffe25dcd385c289ae3e5fab5"
+    },
+    {
+      "text": "zweiundachtzig",
+      "file": "audio/tanja-correccion-a254bf3db3877f6931c9956e.mp3",
+      "bytes": 14544,
+      "sha256": "2ca57063e4329fd38842a5c5743905a0b81fe42d1f706d360dce97b014119de3"
+    },
+    {
+      "text": "zweiunddreißig",
+      "file": "audio/tanja-correccion-39dd89026754a45400945efe.mp3",
+      "bytes": 14256,
+      "sha256": "0894bf4796ddf002117335f564e2cef4755d5dc3ea76f766d6ea7106877fce4a"
+    },
+    {
+      "text": "zweiundfünfzig",
+      "file": "audio/tanja-correccion-66fa2f475bf5374c9706201c.mp3",
+      "bytes": 14688,
+      "sha256": "4dfa2dd2c5c3e4394deada8aa1cd8bdc6d121a7b8ff2a863aa888db1a07bf8eb"
+    },
+    {
+      "text": "zweiundneunzig",
+      "file": "audio/tanja-correccion-2f0abf5a75d425784f8f9471.mp3",
+      "bytes": 13680,
+      "sha256": "1b3a892578f0ba22087c10a44eac0674ebc3349b15444e27ddb8260884f027b8"
+    },
+    {
+      "text": "zweiundsechzig",
+      "file": "audio/tanja-correccion-9d0e1726863488008334632d.mp3",
+      "bytes": 13968,
+      "sha256": "39bc4f9ec1e71a5cd3e41a283dd9228700cbcdc5bbb144ad09598b62a16f7089"
+    },
+    {
+      "text": "zweiundsiebzig",
+      "file": "audio/tanja-correccion-a592025cbfd9358a4c7ec0b7.mp3",
+      "bytes": 13824,
+      "sha256": "134c73e8c78a4b5b511d9c2023bec20f3c3366a04850b5ff2dc8fd463d90f7fc"
+    },
+    {
+      "text": "zweiundvierzig",
+      "file": "audio/tanja-correccion-06961f330de0f7c56adfbbe0.mp3",
+      "bytes": 14256,
+      "sha256": "bf90503bf6850f973a33d11a8b654056130f695d8d8067948b7740843a14c61e"
+    },
+    {
+      "text": "zweiundzwanzig",
+      "file": "audio/tanja-correccion-f7ecf587ae23d08151e32b27.mp3",
+      "bytes": 14400,
+      "sha256": "0da9fb0c50329d80f778a515a21e7ad3319c45d8d8f39da466929a3be0305ab5"
+    },
+    {
+      "text": "zwölf",
+      "file": "audio/tanja-correccion-70f5f8852578418e8af276a8.mp3",
+      "bytes": 10512,
+      "sha256": "12e55f8abdfece5f8756e2bdecfaa16c00ee8896024bb48676ad3cf9b3475171"
+    }
+  ]
+}
