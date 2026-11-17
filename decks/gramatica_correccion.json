@@ -1,0 +1,1343 @@
+{
+  "format": "lexico-mazo",
+  "version": 1,
+  "deck": {
+    "id": "gramatica-correccion",
+    "name": "Gramática_corrección",
+    "status": "active"
+  },
+  "words": [
+    {
+      "id": "grammar-interrogativos-01",
+      "family": "Interrogativos",
+      "de": "wo",
+      "es": "dónde",
+      "phrase": "[[Wo]] wohnst du?",
+      "phraseEs": "¿[[Dónde]] vives?",
+      "audio": "audio/grammar-f8f26225fd1d7a1c.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-02",
+      "family": "Interrogativos",
+      "de": "woher",
+      "es": "de dónde",
+      "phrase": "[[Woher]] kommst du?",
+      "phraseEs": "¿[[De dónde]] eres?",
+      "audio": "audio/grammar-c58061e325595c57.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-03",
+      "family": "Interrogativos",
+      "de": "wohin",
+      "es": "adónde",
+      "phrase": "[[Wohin]] gehst du?",
+      "phraseEs": "¿[[Adónde]] vas?",
+      "audio": "audio/grammar-5d0f856ff3a6f541.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-04",
+      "family": "Interrogativos",
+      "de": "wann",
+      "es": "cuándo",
+      "phrase": "[[Wann]] kommst du?",
+      "phraseEs": "¿[[Cuándo]] vienes?",
+      "audio": "audio/grammar-5d99599b60a043d4.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-05",
+      "family": "Interrogativos",
+      "de": "wie",
+      "es": "cómo",
+      "phrase": "[[Wie]] heißt du?",
+      "phraseEs": "¿[[Cómo]] te llamas?",
+      "audio": "audio/grammar-4a3f1139f614aab2.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-06",
+      "family": "Interrogativos",
+      "de": "warum",
+      "es": "por qué",
+      "phrase": "[[Warum]] lachst du?",
+      "phraseEs": "¿[[Por qué]] te ríes?",
+      "audio": "audio/grammar-8686500d6c75cc9b.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-07",
+      "family": "Interrogativos",
+      "de": "was",
+      "es": "qué",
+      "phrase": "[[Was]] trinkst du?",
+      "phraseEs": "¿[[Qué]] bebes?",
+      "audio": "audio/grammar-b63b99f6383ba713.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-08",
+      "family": "Interrogativos",
+      "de": "wer",
+      "es": "quién",
+      "phrase": "[[Wer]] ist das?",
+      "phraseEs": "¿[[Quién]] es?",
+      "audio": "audio/grammar-e797c0013811a1d1.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-09",
+      "family": "Interrogativos",
+      "de": "wen",
+      "es": "a quién (acusativo)",
+      "phrase": "[[Wen]] suchst du?",
+      "phraseEs": "¿[[A quién]] buscas?",
+      "audio": "audio/grammar-f741046fdac8702d.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-10",
+      "family": "Interrogativos",
+      "de": "wem",
+      "es": "a quién (dativo)",
+      "phrase": "[[Wem]] hilfst du?",
+      "phraseEs": "¿[[A quién]] ayudas?",
+      "audio": "audio/grammar-d812c4d4431dac67.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-11",
+      "family": "Interrogativos",
+      "de": "wessen",
+      "es": "de quién",
+      "phrase": "[[Wessen]] Tasche ist das?",
+      "phraseEs": "¿[[De quién]] es esa bolsa?",
+      "audio": "audio/grammar-37d6c54da97ebaa1.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-12",
+      "family": "Interrogativos",
+      "de": "wie viel",
+      "es": "cuánto",
+      "phrase": "[[Wie viel]] kostet das?",
+      "phraseEs": "¿[[Cuánto]] cuesta eso?",
+      "audio": "audio/grammar-3c37e4ca7c9e0e88.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-13",
+      "family": "Interrogativos",
+      "de": "wie viele",
+      "es": "cuántos/cuántas",
+      "phrase": "[[Wie viele]] Kinder kommen?",
+      "phraseEs": "¿[[Cuántos]] niños vienen?",
+      "audio": "audio/grammar-aea424c7fa05917f.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-14",
+      "family": "Interrogativos",
+      "de": "welcher",
+      "es": "qué/cuál (masculino)",
+      "phrase": "[[Welcher]] Bus kommt?",
+      "phraseEs": "¿[[Qué]] autobús viene?",
+      "audio": "audio/grammar-875b96c687aeed51.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-15",
+      "family": "Interrogativos",
+      "de": "welche",
+      "es": "qué/cuál (femenino)",
+      "phrase": "[[Welche]] Tasche möchtest du?",
+      "phraseEs": "¿[[Qué]] bolsa quieres?",
+      "audio": "audio/grammar-5e368aac938176f8.mp3"
+    },
+    {
+      "id": "grammar-interrogativos-16",
+      "family": "Interrogativos",
+      "de": "welches",
+      "es": "qué/cuál (neutro)",
+      "phrase": "[[Welches]] Buch liest du?",
+      "phraseEs": "¿[[Qué]] libro lees?",
+      "audio": "audio/grammar-1e958baf5b9768da.mp3"
+    },
+    {
+      "id": "grammar-pronombres-acusativo-01",
+      "family": "Pronombres acusativo",
+      "de": "mich",
+      "es": "me/a mí",
+      "phrase": "Du siehst [[mich]].",
+      "phraseEs": "Tú [[me]] ves.",
+      "audio": "audio/grammar-0d1ef3908454fc02.mp3"
+    },
+    {
+      "id": "grammar-pronombres-acusativo-02",
+      "family": "Pronombres acusativo",
+      "de": "dich",
+      "es": "te/a ti",
+      "phrase": "Ich sehe [[dich]].",
+      "phraseEs": "Yo [[te]] veo.",
+      "audio": "audio/grammar-30ee9c81e22076a1.mp3"
+    },
+    {
+      "id": "grammar-pronombres-acusativo-03",
+      "family": "Pronombres acusativo",
+      "de": "ihn",
+      "es": "lo/a él",
+      "phrase": "Ich kenne [[ihn]].",
+      "phraseEs": "Yo [[lo]] conozco a él.",
+      "audio": "audio/grammar-d43dd7e5eca6eb8c.mp3"
+    },
+    {
+      "id": "grammar-pronombres-acusativo-04",
+      "family": "Pronombres acusativo",
+      "de": "sie",
+      "es": "la/a ella",
+      "phrase": "Ich kenne [[sie]].",
+      "phraseEs": "Yo [[la]] conozco a ella.",
+      "audio": "audio/grammar-70f0b8e6e13410a6.mp3"
+    },
+    {
+      "id": "grammar-pronombres-acusativo-05",
+      "family": "Pronombres acusativo",
+      "de": "es",
+      "es": "lo (neutro)",
+      "phrase": "Ich kaufe [[es]].",
+      "phraseEs": "Yo [[lo]] compro.",
+      "audio": "audio/grammar-c0bc1e08f9743b2d.mp3"
+    },
+    {
+      "id": "grammar-pronombres-acusativo-06",
+      "family": "Pronombres acusativo",
+      "de": "uns",
+      "es": "nos/a nosotros",
+      "phrase": "Du siehst [[uns]].",
+      "phraseEs": "Tú [[nos]] ves.",
+      "audio": "audio/grammar-df65e7b4f08bb349.mp3"
+    },
+    {
+      "id": "grammar-pronombres-acusativo-07",
+      "family": "Pronombres acusativo",
+      "de": "euch",
+      "es": "os/a vosotros",
+      "phrase": "Ich sehe [[euch]].",
+      "phraseEs": "Yo [[os]] veo.",
+      "audio": "audio/grammar-135e825559810434.mp3"
+    },
+    {
+      "id": "grammar-pronombres-acusativo-08",
+      "family": "Pronombres acusativo",
+      "de": "sie",
+      "es": "los/las/a ellos o ellas",
+      "phrase": "Ich kenne [[sie]] beide.",
+      "phraseEs": "Yo [[los]] conozco a ambos.",
+      "audio": "audio/grammar-70f0b8e6e13410a6.mp3"
+    },
+    {
+      "id": "grammar-pronombres-acusativo-09",
+      "family": "Pronombres acusativo",
+      "de": "Sie",
+      "es": "a usted/ustedes (acusativo)",
+      "phrase": "Ich verstehe [[Sie]].",
+      "phraseEs": "Yo lo entiendo [[a usted]].",
+      "audio": "audio/grammar-70f0b8e6e13410a6.mp3"
+    },
+    {
+      "id": "grammar-pronombres-dativo-01",
+      "family": "Pronombres dativo",
+      "de": "mir",
+      "es": "me/a mí",
+      "phrase": "Du hilfst [[mir]].",
+      "phraseEs": "Tú [[me]] ayudas.",
+      "audio": "audio/grammar-02d087933efc5d76.mp3"
+    },
+    {
+      "id": "grammar-pronombres-dativo-02",
+      "family": "Pronombres dativo",
+      "de": "dir",
+      "es": "te/a ti",
+      "phrase": "Ich helfe [[dir]].",
+      "phraseEs": "Yo [[te]] ayudo.",
+      "audio": "audio/grammar-2b64c6d9afd8a34e.mp3"
+    },
+    {
+      "id": "grammar-pronombres-dativo-03",
+      "family": "Pronombres dativo",
+      "de": "ihm",
+      "es": "le/a él",
+      "phrase": "Ich helfe [[ihm]].",
+      "phraseEs": "Yo [[le]] ayudo a él.",
+      "audio": "audio/grammar-92862c8a40643e4f.mp3"
+    },
+    {
+      "id": "grammar-pronombres-dativo-04",
+      "family": "Pronombres dativo",
+      "de": "ihr",
+      "es": "le/a ella",
+      "phrase": "Ich helfe [[ihr]].",
+      "phraseEs": "Yo [[le]] ayudo a ella.",
+      "audio": "audio/grammar-f15e811721cd2c91.mp3"
+    },
+    {
+      "id": "grammar-pronombres-dativo-05",
+      "family": "Pronombres dativo",
+      "de": "uns",
+      "es": "nos/a nosotros",
+      "phrase": "Du hilfst [[uns]].",
+      "phraseEs": "Tú [[nos]] ayudas.",
+      "audio": "audio/grammar-df65e7b4f08bb349.mp3"
+    },
+    {
+      "id": "grammar-pronombres-dativo-06",
+      "family": "Pronombres dativo",
+      "de": "euch",
+      "es": "os/a vosotros",
+      "phrase": "Ich helfe [[euch]].",
+      "phraseEs": "Yo [[os]] ayudo.",
+      "audio": "audio/grammar-135e825559810434.mp3"
+    },
+    {
+      "id": "grammar-pronombres-dativo-07",
+      "family": "Pronombres dativo",
+      "de": "ihnen",
+      "es": "les/a ellos o ellas",
+      "phrase": "Ich helfe [[ihnen]] beiden.",
+      "phraseEs": "Yo [[les]] ayudo a ambos.",
+      "audio": "audio/grammar-1b22a46b261e99ab.mp3"
+    },
+    {
+      "id": "grammar-pronombres-dativo-08",
+      "family": "Pronombres dativo",
+      "de": "Ihnen",
+      "es": "le/les/a usted o ustedes",
+      "phrase": "Ich helfe [[Ihnen]].",
+      "phraseEs": "Yo [[le]] ayudo a usted.",
+      "audio": "audio/grammar-1b22a46b261e99ab.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-01",
+      "family": "Determinantes y cantidad",
+      "de": "kein",
+      "es": "ningún (masculino o neutro)",
+      "phrase": "Ich habe [[kein]] Auto.",
+      "phraseEs": "No tengo [[ningún]] coche.",
+      "audio": "audio/grammar-34093e9013c2f638.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-02",
+      "family": "Determinantes y cantidad",
+      "de": "keine",
+      "es": "no",
+      "phrase": "Ich habe [[keine]] Zeit.",
+      "phraseEs": "[[No]] tengo tiempo.",
+      "audio": "audio/grammar-db028eeb570f2485.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-03",
+      "family": "Determinantes y cantidad",
+      "de": "dieser",
+      "es": "este",
+      "phrase": "[[Dieser]] Bus fährt.",
+      "phraseEs": "[[Este]] autobús circula.",
+      "audio": "audio/grammar-60b3cd1300a8930f.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-04",
+      "family": "Determinantes y cantidad",
+      "de": "diese",
+      "es": "esta",
+      "phrase": "[[Diese]] Tasche gefällt mir.",
+      "phraseEs": "[[Esta]] bolsa me gusta.",
+      "audio": "audio/grammar-26fb952d556e5ee9.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-05",
+      "family": "Determinantes y cantidad",
+      "de": "dieses",
+      "es": "este (neutro)",
+      "phrase": "[[Dieses]] Buch gefällt mir.",
+      "phraseEs": "[[Este]] libro me gusta.",
+      "audio": "audio/grammar-82df26419dd64f5f.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-06",
+      "family": "Determinantes y cantidad",
+      "de": "jeder",
+      "es": "cada (masculino)",
+      "phrase": "[[Jeder]] Schüler lernt.",
+      "phraseEs": "[[Cada]] alumno estudia.",
+      "audio": "audio/grammar-dd42d5e1f25787ff.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-07",
+      "family": "Determinantes y cantidad",
+      "de": "jede",
+      "es": "cada (femenino)",
+      "phrase": "[[Jede]] Familie kommt.",
+      "phraseEs": "[[Cada]] familia viene.",
+      "audio": "audio/grammar-d04b16ff98e71ef1.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-08",
+      "family": "Determinantes y cantidad",
+      "de": "jedes",
+      "es": "cada (neutro)",
+      "phrase": "[[Jedes]] Kind spielt.",
+      "phraseEs": "[[Cada]] niño juega.",
+      "audio": "audio/grammar-1fde06d04e2e1ec2.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-09",
+      "family": "Determinantes y cantidad",
+      "de": "alle",
+      "es": "todos/todas",
+      "phrase": "[[Alle]] Kinder spielen.",
+      "phraseEs": "[[Todos]] los niños juegan.",
+      "audio": "audio/grammar-2146a029ad5e62ec.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-10",
+      "family": "Determinantes y cantidad",
+      "de": "viele",
+      "es": "muchos/muchas",
+      "phrase": "[[Viele]] Kinder spielen.",
+      "phraseEs": "[[Muchos]] niños juegan.",
+      "audio": "audio/grammar-a03872d4b8894f05.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-11",
+      "family": "Determinantes y cantidad",
+      "de": "einige",
+      "es": "algunos/algunas",
+      "phrase": "[[Einige]] Kinder spielen.",
+      "phraseEs": "[[Algunos]] niños juegan.",
+      "audio": "audio/grammar-51c1cc2dcad075a8.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-12",
+      "family": "Determinantes y cantidad",
+      "de": "etwas",
+      "es": "un poco de",
+      "phrase": "Ich möchte [[etwas]] Wasser.",
+      "phraseEs": "Quisiera [[un poco de]] agua.",
+      "audio": "audio/grammar-b9373420d1622cd3.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-13",
+      "family": "Determinantes y cantidad",
+      "de": "nichts",
+      "es": "nada",
+      "phrase": "Ich höre [[nichts]].",
+      "phraseEs": "No oigo [[nada]].",
+      "audio": "audio/grammar-7f812985703138c5.mp3"
+    },
+    {
+      "id": "grammar-determinantes-y-cantidad-14",
+      "family": "Determinantes y cantidad",
+      "de": "alles",
+      "es": "todo",
+      "phrase": "Ich verstehe [[alles]].",
+      "phraseEs": "Lo entiendo [[todo]].",
+      "audio": "audio/grammar-0ef6ec226337643d.mp3"
+    },
+    {
+      "id": "grammar-posesivos-01",
+      "family": "Posesivos",
+      "de": "mein",
+      "es": "mi (masculino o neutro)",
+      "phrase": "Das ist [[mein]] Bruder.",
+      "phraseEs": "Ese es [[mi]] hermano.",
+      "audio": "audio/grammar-25352d33fff0003d.mp3"
+    },
+    {
+      "id": "grammar-posesivos-02",
+      "family": "Posesivos",
+      "de": "meine",
+      "es": "mi (femenino o plural)",
+      "phrase": "Das ist [[meine]] Schwester.",
+      "phraseEs": "Esa es [[mi]] hermana.",
+      "audio": "audio/grammar-853fa4fa3f4ffa64.mp3"
+    },
+    {
+      "id": "grammar-posesivos-03",
+      "family": "Posesivos",
+      "de": "dein",
+      "es": "tu (masculino o neutro)",
+      "phrase": "Ist das [[dein]] Bruder?",
+      "phraseEs": "¿Ese es [[tu]] hermano?",
+      "audio": "audio/grammar-37464907b09fda64.mp3"
+    },
+    {
+      "id": "grammar-posesivos-04",
+      "family": "Posesivos",
+      "de": "deine",
+      "es": "tu (femenino o plural)",
+      "phrase": "Ist das [[deine]] Schwester?",
+      "phraseEs": "¿Esa es [[tu]] hermana?",
+      "audio": "audio/grammar-dbd3c49fc4bbcc97.mp3"
+    },
+    {
+      "id": "grammar-posesivos-05",
+      "family": "Posesivos",
+      "de": "sein",
+      "es": "su (de él; masculino o neutro)",
+      "phrase": "Paul sucht [[sein]] Auto.",
+      "phraseEs": "Paul busca [[su]] coche.",
+      "audio": "audio/grammar-f0abec8675ebc550.mp3"
+    },
+    {
+      "id": "grammar-posesivos-06",
+      "family": "Posesivos",
+      "de": "seine",
+      "es": "su (de él; femenino o plural)",
+      "phrase": "Paul sucht [[seine]] Tasche.",
+      "phraseEs": "Paul busca [[su]] bolsa.",
+      "audio": "audio/grammar-8905c34886fee014.mp3"
+    },
+    {
+      "id": "grammar-posesivos-07",
+      "family": "Posesivos",
+      "de": "ihr",
+      "es": "su (de ella; masculino o neutro)",
+      "phrase": "Anna sucht [[ihr]] Auto.",
+      "phraseEs": "Anna busca [[su]] coche.",
+      "audio": "audio/grammar-f15e811721cd2c91.mp3"
+    },
+    {
+      "id": "grammar-posesivos-08",
+      "family": "Posesivos",
+      "de": "ihre",
+      "es": "su (de ella; femenino o plural)",
+      "phrase": "Anna sucht [[ihre]] Tasche.",
+      "phraseEs": "Anna busca [[su]] bolsa.",
+      "audio": "audio/grammar-df4f5a7315e63e16.mp3"
+    },
+    {
+      "id": "grammar-posesivos-09",
+      "family": "Posesivos",
+      "de": "unser",
+      "es": "nuestro (masculino o neutro)",
+      "phrase": "Das ist [[unser]] Haus.",
+      "phraseEs": "Ese es [[nuestro]] hogar.",
+      "audio": "audio/grammar-bed6b6065b4d7611.mp3"
+    },
+    {
+      "id": "grammar-posesivos-10",
+      "family": "Posesivos",
+      "de": "unsere",
+      "es": "nuestra/nuestros/nuestras",
+      "phrase": "Das ist [[unsere]] Wohnung.",
+      "phraseEs": "Esa es [[nuestra]] vivienda.",
+      "audio": "audio/grammar-a690ffcdd1cb1821.mp3"
+    },
+    {
+      "id": "grammar-posesivos-11",
+      "family": "Posesivos",
+      "de": "euer",
+      "es": "vuestro (masculino o neutro)",
+      "phrase": "Ist das [[euer]] Haus?",
+      "phraseEs": "¿Ese es [[vuestro]] hogar?",
+      "audio": "audio/grammar-81dbd757f7f4de80.mp3"
+    },
+    {
+      "id": "grammar-posesivos-12",
+      "family": "Posesivos",
+      "de": "eure",
+      "es": "vuestra/vuestros/vuestras",
+      "phrase": "Ist das [[eure]] Wohnung?",
+      "phraseEs": "¿Esa es [[vuestra]] vivienda?",
+      "audio": "audio/grammar-c5cc99e3e418be99.mp3"
+    },
+    {
+      "id": "grammar-posesivos-13",
+      "family": "Posesivos",
+      "de": "ihr",
+      "es": "su (de ellos; masculino o neutro)",
+      "phrase": "Das ist [[ihr]] Spielzeug.",
+      "phraseEs": "Ese es [[su]] juguete (de ellos).",
+      "audio": "audio/grammar-f15e811721cd2c91.mp3"
+    },
+    {
+      "id": "grammar-posesivos-14",
+      "family": "Posesivos",
+      "de": "ihre",
+      "es": "su (de ellos; femenino o plural)",
+      "phrase": "Kinder lieben [[ihre]] Mutter.",
+      "phraseEs": "Los niños quieren a [[su]] madre.",
+      "audio": "audio/grammar-df4f5a7315e63e16.mp3"
+    },
+    {
+      "id": "grammar-posesivos-15",
+      "family": "Posesivos",
+      "de": "Ihr",
+      "es": "su (de usted/ustedes; masculino o neutro)",
+      "phrase": "Ist das [[Ihr]] Auto?",
+      "phraseEs": "¿Ese es [[su]] coche, de usted?",
+      "audio": "audio/grammar-f15e811721cd2c91.mp3"
+    },
+    {
+      "id": "grammar-posesivos-16",
+      "family": "Posesivos",
+      "de": "Ihre",
+      "es": "su (de usted/ustedes; femenino o plural)",
+      "phrase": "Ist das [[Ihre]] Tasche?",
+      "phraseEs": "¿Esa es [[su]] bolsa, de usted?",
+      "audio": "audio/grammar-df4f5a7315e63e16.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-01",
+      "family": "Preposiciones",
+      "de": "aus",
+      "es": "de/desde (origen)",
+      "phrase": "Ich komme [[aus]] Spanien.",
+      "phraseEs": "Soy [[de]] España.",
+      "audio": "audio/grammar-2337c37f0721980b.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-02",
+      "family": "Preposiciones",
+      "de": "bei",
+      "es": "en casa de/junto a",
+      "phrase": "Ich wohne [[bei]] Anna.",
+      "phraseEs": "Vivo [[en casa de]] Anna.",
+      "audio": "audio/grammar-98970d1a1b801acf.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-03",
+      "family": "Preposiciones",
+      "de": "mit",
+      "es": "con",
+      "phrase": "Ich fahre [[mit]] Anna.",
+      "phraseEs": "Voy [[con]] Anna.",
+      "audio": "audio/grammar-78198e7ab262449a.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-04",
+      "family": "Preposiciones",
+      "de": "nach",
+      "es": "a/hacia",
+      "phrase": "Wir fahren [[nach]] Berlin.",
+      "phraseEs": "Vamos [[a]] Berlín.",
+      "audio": "audio/grammar-d941a36dbe67051b.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-05",
+      "family": "Preposiciones",
+      "de": "von",
+      "es": "de (procedencia o pertenencia)",
+      "phrase": "Das ist [[von]] Anna.",
+      "phraseEs": "Eso es [[de]] Anna.",
+      "audio": "audio/grammar-43ce6022b9318e93.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-06",
+      "family": "Preposiciones",
+      "de": "zu",
+      "es": "a/hacia",
+      "phrase": "Ich gehe [[zu]] Anna.",
+      "phraseEs": "Voy [[a]] casa de Anna.",
+      "audio": "audio/grammar-82cefa8283d30fda.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-07",
+      "family": "Preposiciones",
+      "de": "für",
+      "es": "para",
+      "phrase": "Das ist [[für]] dich.",
+      "phraseEs": "Eso es [[para]] ti.",
+      "audio": "audio/grammar-cd23c4c603b344f6.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-08",
+      "family": "Preposiciones",
+      "de": "ohne",
+      "es": "sin",
+      "phrase": "Kaffee [[ohne]] Zucker, bitte.",
+      "phraseEs": "Café [[sin]] azúcar, por favor.",
+      "audio": "audio/grammar-c53a0674de4ba784.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-09",
+      "family": "Preposiciones",
+      "de": "um",
+      "es": "a las/alrededor de",
+      "phrase": "Wir kommen [[um]] acht.",
+      "phraseEs": "Venimos [[a las]] ocho.",
+      "audio": "audio/grammar-289c90decf40c8ec.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-10",
+      "family": "Preposiciones",
+      "de": "bis",
+      "es": "hasta",
+      "phrase": "Ich bleibe [[bis]] morgen.",
+      "phraseEs": "Me quedo [[hasta]] mañana.",
+      "audio": "audio/grammar-96147cdbfd6955d7.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-11",
+      "family": "Preposiciones",
+      "de": "durch",
+      "es": "por/a través de",
+      "phrase": "Wir gehen [[durch]] Berlin.",
+      "phraseEs": "Caminamos [[por]] Berlín.",
+      "audio": "audio/grammar-1f5c80c33075f597.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-12",
+      "family": "Preposiciones",
+      "de": "gegen",
+      "es": "contra",
+      "phrase": "Wir spielen [[gegen]] Anna.",
+      "phraseEs": "Jugamos [[contra]] Anna.",
+      "audio": "audio/grammar-092e1885c9576d20.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-13",
+      "family": "Preposiciones",
+      "de": "in",
+      "es": "en/dentro de",
+      "phrase": "Ich wohne [[in]] Berlin.",
+      "phraseEs": "Vivo [[en]] Berlín.",
+      "audio": "audio/grammar-582967534d0f909d.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-14",
+      "family": "Preposiciones",
+      "de": "an",
+      "es": "en/junto a",
+      "phrase": "Warte [[an]] Gleis zwei.",
+      "phraseEs": "Espera [[en]] la vía dos.",
+      "audio": "audio/grammar-ea325d761f98c6b7.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-15",
+      "family": "Preposiciones",
+      "de": "auf",
+      "es": "encima de",
+      "phrase": "Das liegt [[auf]] mir.",
+      "phraseEs": "Eso está [[encima de]] mí.",
+      "audio": "audio/grammar-424c8eda8e3a16a7.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-16",
+      "family": "Preposiciones",
+      "de": "unter",
+      "es": "debajo de",
+      "phrase": "Er sitzt [[unter]] mir.",
+      "phraseEs": "Él está sentado [[debajo de]] mí.",
+      "audio": "audio/grammar-266a2d74b84a28f0.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-17",
+      "family": "Preposiciones",
+      "de": "über",
+      "es": "encima de",
+      "phrase": "Das hängt [[über]] uns.",
+      "phraseEs": "Eso cuelga [[encima de]] nosotros.",
+      "audio": "audio/grammar-b51c854170449c38.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-18",
+      "family": "Preposiciones",
+      "de": "vor",
+      "es": "delante de/antes de",
+      "phrase": "Anna steht [[vor]] mir.",
+      "phraseEs": "Anna está de pie [[delante de]] mí.",
+      "audio": "audio/grammar-929f1ca4b2be58d7.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-19",
+      "family": "Preposiciones",
+      "de": "hinter",
+      "es": "detrás de",
+      "phrase": "Anna steht [[hinter]] mir.",
+      "phraseEs": "Anna está de pie [[detrás de]] mí.",
+      "audio": "audio/grammar-f5b6e6eedd3dfc4c.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-20",
+      "family": "Preposiciones",
+      "de": "neben",
+      "es": "a mi lado",
+      "phrase": "Anna sitzt [[neben]] mir.",
+      "phraseEs": "Anna está sentada [[a mi lado]].",
+      "audio": "audio/grammar-8d31784680164d41.mp3"
+    },
+    {
+      "id": "grammar-preposiciones-21",
+      "family": "Preposiciones",
+      "de": "zwischen",
+      "es": "entre",
+      "phrase": "Das liegt [[zwischen]] uns.",
+      "phraseEs": "Eso está [[entre]] nosotros.",
+      "audio": "audio/grammar-b07d6029c657fff6.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-01",
+      "family": "Conectores y contracciones",
+      "de": "und",
+      "es": "y",
+      "phrase": "Anna [[und]] Paul kommen.",
+      "phraseEs": "Anna [[y]] Paul vienen.",
+      "audio": "audio/grammar-856cc99d87343400.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-02",
+      "family": "Conectores y contracciones",
+      "de": "oder",
+      "es": "o",
+      "phrase": "Tee [[oder]] Kaffee?",
+      "phraseEs": "¿Té [[o]] café?",
+      "audio": "audio/grammar-b81d9593a3f6c4f7.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-03",
+      "family": "Conectores y contracciones",
+      "de": "aber",
+      "es": "pero",
+      "phrase": "Klein, [[aber]] schön.",
+      "phraseEs": "Pequeño, [[pero]] bonito.",
+      "audio": "audio/grammar-64acc9f068122091.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-04",
+      "family": "Conectores y contracciones",
+      "de": "denn",
+      "es": "porque",
+      "phrase": "Geh, [[denn]] Anna wartet.",
+      "phraseEs": "Vete, [[porque]] Anna está esperando.",
+      "audio": "audio/grammar-39088faee2f1d10f.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-05",
+      "family": "Conectores y contracciones",
+      "de": "sondern",
+      "es": "sino",
+      "phrase": "Nicht Tee, [[sondern]] Kaffee.",
+      "phraseEs": "No té, [[sino]] café.",
+      "audio": "audio/grammar-5ec346d3c3e75a7c.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-06",
+      "family": "Conectores y contracciones",
+      "de": "deshalb",
+      "es": "por eso",
+      "phrase": "[[Deshalb]] bleibe ich.",
+      "phraseEs": "[[Por eso]] me quedo.",
+      "audio": "audio/grammar-e7161771a50251bf.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-07",
+      "family": "Conectores y contracciones",
+      "de": "weil",
+      "es": "porque",
+      "phrase": "[[Weil]] ich müde bin.",
+      "phraseEs": "[[Porque]] estoy cansado.",
+      "audio": "audio/grammar-740fc4991133b152.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-08",
+      "family": "Conectores y contracciones",
+      "de": "wenn",
+      "es": "si/cuando",
+      "phrase": "[[Wenn]] du Zeit hast.",
+      "phraseEs": "[[Si]] tienes tiempo.",
+      "audio": "audio/grammar-4da271bb37e5a8c6.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-09",
+      "family": "Conectores y contracciones",
+      "de": "im",
+      "es": "en el (in + dem)",
+      "phrase": "Ich bin [[im]] Kino.",
+      "phraseEs": "Estoy [[en el]] cine.",
+      "audio": "audio/grammar-a898df22bfc74a1a.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-10",
+      "family": "Conectores y contracciones",
+      "de": "am",
+      "es": "el/en el (an + dem)",
+      "phrase": "Wir kommen [[am]] Montag.",
+      "phraseEs": "Venimos [[el]] lunes.",
+      "audio": "audio/grammar-ab6db599234d2636.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-11",
+      "family": "Conectores y contracciones",
+      "de": "zum",
+      "es": "al (zu + dem)",
+      "phrase": "Ich gehe [[zum]] Arzt.",
+      "phraseEs": "Voy [[al]] médico.",
+      "audio": "audio/grammar-eeccef1ac21b1189.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-12",
+      "family": "Conectores y contracciones",
+      "de": "zur",
+      "es": "a la (zu + der)",
+      "phrase": "Ich gehe [[zur]] Schule.",
+      "phraseEs": "Voy [[a la]] escuela.",
+      "audio": "audio/grammar-09890dd421f069bd.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-13",
+      "family": "Conectores y contracciones",
+      "de": "vom",
+      "es": "del (von + dem)",
+      "phrase": "Ich komme [[vom]] Arzt.",
+      "phraseEs": "Vengo [[del]] médico.",
+      "audio": "audio/grammar-6d111b98b316598f.mp3"
+    },
+    {
+      "id": "grammar-conectores-y-contracciones-14",
+      "family": "Conectores y contracciones",
+      "de": "ins",
+      "es": "al/dentro del (in + das)",
+      "phrase": "Wir gehen [[ins]] Kino.",
+      "phraseEs": "Vamos [[al]] cine.",
+      "audio": "audio/grammar-e5bf1f03cacff6ad.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-01",
+      "family": "Tiempo y frecuencia",
+      "de": "heute",
+      "es": "hoy",
+      "phrase": "Ich komme [[heute]].",
+      "phraseEs": "Vengo [[hoy]].",
+      "audio": "audio/grammar-b748a919ad3e0a2c.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-02",
+      "family": "Tiempo y frecuencia",
+      "de": "morgen",
+      "es": "mañana",
+      "phrase": "Ich komme [[morgen]].",
+      "phraseEs": "Vengo [[mañana]].",
+      "audio": "audio/grammar-eb26d4fa531af429.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-03",
+      "family": "Tiempo y frecuencia",
+      "de": "gestern",
+      "es": "ayer",
+      "phrase": "Ich war [[gestern]] hier.",
+      "phraseEs": "Estuve aquí [[ayer]].",
+      "audio": "audio/grammar-93cae23fdfb8b75d.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-04",
+      "family": "Tiempo y frecuencia",
+      "de": "jetzt",
+      "es": "ahora",
+      "phrase": "Ich lerne [[jetzt]].",
+      "phraseEs": "Estoy estudiando [[ahora]].",
+      "audio": "audio/grammar-f1c98ccb91d3bc7f.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-05",
+      "family": "Tiempo y frecuencia",
+      "de": "später",
+      "es": "más tarde",
+      "phrase": "Ich komme [[später]].",
+      "phraseEs": "Vengo [[más tarde]].",
+      "audio": "audio/grammar-bfaef50e7ee665cd.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-06",
+      "family": "Tiempo y frecuencia",
+      "de": "früh",
+      "es": "temprano",
+      "phrase": "Ich komme [[früh]].",
+      "phraseEs": "Vengo [[temprano]].",
+      "audio": "audio/grammar-a4fce28c6228b1a7.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-07",
+      "family": "Tiempo y frecuencia",
+      "de": "spät",
+      "es": "tarde",
+      "phrase": "Ich komme [[spät]].",
+      "phraseEs": "Vengo [[tarde]].",
+      "audio": "audio/grammar-386dbf01efbd156e.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-08",
+      "family": "Tiempo y frecuencia",
+      "de": "immer",
+      "es": "siempre",
+      "phrase": "Ich lerne [[immer]] abends.",
+      "phraseEs": "[[Siempre]] estudio por las tardes.",
+      "audio": "audio/grammar-4bfacbaf9dbb4fc4.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-09",
+      "family": "Tiempo y frecuencia",
+      "de": "oft",
+      "es": "a menudo",
+      "phrase": "Ich lese [[oft]].",
+      "phraseEs": "Leo [[a menudo]].",
+      "audio": "audio/grammar-8d1290503a08cb98.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-10",
+      "family": "Tiempo y frecuencia",
+      "de": "manchmal",
+      "es": "a veces",
+      "phrase": "Ich koche [[manchmal]].",
+      "phraseEs": "Cocino [[a veces]].",
+      "audio": "audio/grammar-bc1fbecf3a4b5e30.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-11",
+      "family": "Tiempo y frecuencia",
+      "de": "selten",
+      "es": "pocas veces/raramente",
+      "phrase": "Ich koche [[selten]].",
+      "phraseEs": "Cocino [[pocas veces]].",
+      "audio": "audio/grammar-fea55ac7ed0b0eed.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-12",
+      "family": "Tiempo y frecuencia",
+      "de": "nie",
+      "es": "nunca",
+      "phrase": "Ich rauche [[nie]].",
+      "phraseEs": "[[Nunca]] fumo.",
+      "audio": "audio/grammar-cd5b158f21b7588b.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-13",
+      "family": "Tiempo y frecuencia",
+      "de": "wieder",
+      "es": "otra vez",
+      "phrase": "Ich bin [[wieder]] hier.",
+      "phraseEs": "Estoy aquí [[otra vez]].",
+      "audio": "audio/grammar-0007489cd4b0a84b.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-14",
+      "family": "Tiempo y frecuencia",
+      "de": "schon",
+      "es": "ya",
+      "phrase": "Ich bin [[schon]] hier.",
+      "phraseEs": "[[Ya]] estoy aquí.",
+      "audio": "audio/grammar-ed719858ee1b140e.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-15",
+      "family": "Tiempo y frecuencia",
+      "de": "noch",
+      "es": "todavía",
+      "phrase": "Ich bin [[noch]] hier.",
+      "phraseEs": "[[Todavía]] estoy aquí.",
+      "audio": "audio/grammar-a665c12561dff12c.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-16",
+      "family": "Tiempo y frecuencia",
+      "de": "zuerst",
+      "es": "primero",
+      "phrase": "Ich esse [[zuerst]].",
+      "phraseEs": "Como [[primero]].",
+      "audio": "audio/grammar-ccd1d16622a3d2a1.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-17",
+      "family": "Tiempo y frecuencia",
+      "de": "dann",
+      "es": "después/entonces",
+      "phrase": "[[Dann]] komme ich.",
+      "phraseEs": "[[Después]] vengo.",
+      "audio": "audio/grammar-06cb6c291501e7d4.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-18",
+      "family": "Tiempo y frecuencia",
+      "de": "bald",
+      "es": "pronto",
+      "phrase": "Ich komme [[bald]].",
+      "phraseEs": "Vengo [[pronto]].",
+      "audio": "audio/grammar-62cc13e735700e53.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-19",
+      "family": "Tiempo y frecuencia",
+      "de": "gerade",
+      "es": "ahora mismo",
+      "phrase": "Ich esse [[gerade]].",
+      "phraseEs": "Estoy comiendo [[ahora mismo]].",
+      "audio": "audio/grammar-a303a7d1c0ffdb14.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-20",
+      "family": "Tiempo y frecuencia",
+      "de": "morgens",
+      "es": "por las mañanas",
+      "phrase": "Ich lerne [[morgens]].",
+      "phraseEs": "Estudio [[por las mañanas]].",
+      "audio": "audio/grammar-e05d2c34c31c0d25.mp3"
+    },
+    {
+      "id": "grammar-tiempo-y-frecuencia-21",
+      "family": "Tiempo y frecuencia",
+      "de": "abends",
+      "es": "por las tardes/noches",
+      "phrase": "Ich lerne [[abends]].",
+      "phraseEs": "Estudio [[por las tardes/noches]].",
+      "audio": "audio/grammar-635a0f87c8f35203.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-01",
+      "family": "Lugar y modo",
+      "de": "hier",
+      "es": "aquí",
+      "phrase": "Ich wohne [[hier]].",
+      "phraseEs": "Vivo [[aquí]].",
+      "audio": "audio/grammar-529cbc8f212773f2.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-02",
+      "family": "Lugar y modo",
+      "de": "dort",
+      "es": "allí",
+      "phrase": "Ich wohne [[dort]].",
+      "phraseEs": "Vivo [[allí]].",
+      "audio": "audio/grammar-39c21f5b3b359f1e.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-03",
+      "family": "Lugar y modo",
+      "de": "da",
+      "es": "ahí",
+      "phrase": "Anna ist [[da]].",
+      "phraseEs": "Anna está [[ahí]].",
+      "audio": "audio/grammar-aa58b21b01d6b8a9.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-04",
+      "family": "Lugar y modo",
+      "de": "links",
+      "es": "a la izquierda",
+      "phrase": "Die Schule ist [[links]].",
+      "phraseEs": "La escuela está [[a la izquierda]].",
+      "audio": "audio/grammar-eef8b9fd5d437dd9.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-05",
+      "family": "Lugar y modo",
+      "de": "rechts",
+      "es": "a la derecha",
+      "phrase": "Die Schule ist [[rechts]].",
+      "phraseEs": "La escuela está [[a la derecha]].",
+      "audio": "audio/grammar-dd3fbf0d05afcd41.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-06",
+      "family": "Lugar y modo",
+      "de": "oben",
+      "es": "arriba",
+      "phrase": "Anna ist [[oben]].",
+      "phraseEs": "Anna está [[arriba]].",
+      "audio": "audio/grammar-67cb61fee4421509.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-07",
+      "family": "Lugar y modo",
+      "de": "unten",
+      "es": "abajo",
+      "phrase": "Anna ist [[unten]].",
+      "phraseEs": "Anna está [[abajo]].",
+      "audio": "audio/grammar-bf65c1637f933b73.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-08",
+      "family": "Lugar y modo",
+      "de": "drinnen",
+      "es": "dentro",
+      "phrase": "Wir spielen [[drinnen]].",
+      "phraseEs": "Jugamos [[dentro]].",
+      "audio": "audio/grammar-70b4bfcb10810427.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-09",
+      "family": "Lugar y modo",
+      "de": "draußen",
+      "es": "fuera",
+      "phrase": "Wir spielen [[draußen]].",
+      "phraseEs": "Jugamos [[fuera]].",
+      "audio": "audio/grammar-2bf128fb4ef828d3.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-10",
+      "family": "Lugar y modo",
+      "de": "zusammen",
+      "es": "juntos",
+      "phrase": "Wir lernen [[zusammen]].",
+      "phraseEs": "Estudiamos [[juntos]].",
+      "audio": "audio/grammar-b2253f5de165a720.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-11",
+      "family": "Lugar y modo",
+      "de": "allein",
+      "es": "solo/a",
+      "phrase": "Ich wohne [[allein]].",
+      "phraseEs": "Vivo [[solo]].",
+      "audio": "audio/grammar-a9d5a11ce03dbf99.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-12",
+      "family": "Lugar y modo",
+      "de": "gern",
+      "es": "me gusta",
+      "phrase": "Ich koche [[gern]].",
+      "phraseEs": "[[Me gusta]] cocinar.",
+      "audio": "audio/grammar-bfa14a61e77ecedf.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-13",
+      "family": "Lugar y modo",
+      "de": "lieber",
+      "es": "prefiero",
+      "phrase": "Ich trinke [[lieber]] Wasser.",
+      "phraseEs": "[[Prefiero]] beber agua.",
+      "audio": "audio/grammar-6179d562d1bc6408.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-14",
+      "family": "Lugar y modo",
+      "de": "sehr",
+      "es": "muy",
+      "phrase": "Das ist [[sehr]] schön.",
+      "phraseEs": "Eso es [[muy]] bonito.",
+      "audio": "audio/grammar-907114a73986290c.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-15",
+      "family": "Lugar y modo",
+      "de": "zu",
+      "es": "demasiado",
+      "phrase": "Das ist [[zu]] teuer.",
+      "phraseEs": "Eso es [[demasiado]] caro.",
+      "audio": "audio/grammar-82cefa8283d30fda.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-16",
+      "family": "Lugar y modo",
+      "de": "auch",
+      "es": "también",
+      "phrase": "Ich komme [[auch]].",
+      "phraseEs": "Yo [[también]] voy.",
+      "audio": "audio/grammar-f1b7384743db3616.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-17",
+      "family": "Lugar y modo",
+      "de": "nur",
+      "es": "solo/solamente",
+      "phrase": "Ich trinke [[nur]] Wasser.",
+      "phraseEs": "[[Solo]] bebo agua.",
+      "audio": "audio/grammar-e9b5b78ab02082e0.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-18",
+      "family": "Lugar y modo",
+      "de": "leider",
+      "es": "lamentablemente",
+      "phrase": "Anna fehlt [[leider]].",
+      "phraseEs": "[[Lamentablemente]], Anna no está.",
+      "audio": "audio/grammar-0fd942363abc7027.mp3"
+    },
+    {
+      "id": "grammar-lugar-y-modo-19",
+      "family": "Lugar y modo",
+      "de": "vielleicht",
+      "es": "quizá/tal vez",
+      "phrase": "Anna kommt [[vielleicht]].",
+      "phraseEs": "[[Quizá]] venga Anna.",
+      "audio": "audio/grammar-89c96ec12b2a3008.mp3"
+    },
+    {
+      "id": "grammar-negaci-n-y-part-culas-01",
+      "family": "Negación y partículas",
+      "de": "nicht",
+      "es": "no",
+      "phrase": "Ich komme [[nicht]].",
+      "phraseEs": "[[No]] voy.",
+      "audio": "audio/grammar-6a8cd96a4b778934.mp3"
+    },
+    {
+      "id": "grammar-negaci-n-y-part-culas-02",
+      "family": "Negación y partículas",
+      "de": "ja",
+      "es": "sí",
+      "phrase": "[[Ja]], ich komme.",
+      "phraseEs": "[[Sí]], voy.",
+      "audio": "audio/grammar-3702fc1866630796.mp3"
+    },
+    {
+      "id": "grammar-negaci-n-y-part-culas-03",
+      "family": "Negación y partículas",
+      "de": "nein",
+      "es": "no",
+      "phrase": "[[Nein]], danke schön.",
+      "phraseEs": "[[No]], muchas gracias.",
+      "audio": "audio/grammar-4d03db393cf10c84.mp3"
+    },
+    {
+      "id": "grammar-negaci-n-y-part-culas-04",
+      "family": "Negación y partículas",
+      "de": "doch",
+      "es": "sí que",
+      "phrase": "[[Doch]], ich komme!",
+      "phraseEs": "¡[[Sí que]] voy! (Frente a una negación).",
+      "audio": "audio/grammar-0631a9cb488f2b66.mp3"
+    },
+    {
+      "id": "grammar-negaci-n-y-part-culas-05",
+      "family": "Negación y partículas",
+      "de": "bitte",
+      "es": "por favor",
+      "phrase": "Wasser, [[bitte]].",
+      "phraseEs": "Agua, [[por favor]].",
+      "audio": "audio/grammar-cca501495f4d40c2.mp3"
+    },
+    {
+      "id": "grammar-negaci-n-y-part-culas-06",
+      "family": "Negación y partículas",
+      "de": "danke",
+      "es": "gracias",
+      "phrase": "[[Danke]] für alles.",
+      "phraseEs": "[[Gracias]] por todo.",
+      "audio": "audio/grammar-ff1fd0804def10ad.mp3"
+    },
+    {
+      "id": "grammar-negaci-n-y-part-culas-07",
+      "family": "Negación y partículas",
+      "de": "mehr",
+      "es": "más",
+      "phrase": "Ich brauche [[mehr]] Wasser.",
+      "phraseEs": "Necesito [[más]] agua.",
+      "audio": "audio/grammar-70d97a717bcc53fe.mp3"
+    },
+    {
+      "id": "grammar-negaci-n-y-part-culas-08",
+      "family": "Negación y partículas",
+      "de": "weniger",
+      "es": "menos",
+      "phrase": "Ich brauche [[weniger]] Zucker.",
+      "phraseEs": "Necesito [[menos]] azúcar.",
+      "audio": "audio/grammar-992e808ec6d96883.mp3"
+    },
+    {
+      "id": "grammar-negaci-n-y-part-culas-09",
+      "family": "Negación y partículas",
+      "de": "genug",
+      "es": "suficiente",
+      "phrase": "Ich habe [[genug]] Zeit.",
+      "phraseEs": "Tengo [[suficiente]] tiempo.",
+      "audio": "audio/grammar-4304d22f1116197b.mp3"
+    },
+    {
+      "id": "grammar-negaci-n-y-part-culas-10",
+      "family": "Negación y partículas",
+      "de": "so",
+      "es": "tan/así",
+      "phrase": "Das ist [[so]] schön.",
+      "phraseEs": "Eso es [[tan]] bonito.",
+      "audio": "audio/grammar-a1d9890884c1b4b9.mp3"
+    }
+  ]
+}

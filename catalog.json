@@ -1,7 +1,7 @@
 {
   "format": "lexico-catalogo",
   "version": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "items": [
     {
       "kind": "deck",
@@ -73,6 +73,15 @@
       "description": "Copia con artículos, género y audios Microsoft Tanja. Conserva los 100 sustantivos originales.",
       "file": "decks/nouns-a1-100_correccion.json",
       "words": 100,
+      "version": 1
+    },
+    {
+      "kind": "deck",
+      "id": "gramatica-correccion",
+      "name": "Gramática_corrección",
+      "description": "148 tarjetas en 10 submazos. Frase completa en español y alemán; la palabra resaltada en negrita y subrayado en ambas, y la palabra alemana en la solución. Audio de cada palabra.",
+      "file": "decks/gramatica_correccion.json",
+      "words": 148,
       "version": 1
     }
   ]
